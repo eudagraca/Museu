@@ -10,8 +10,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
 </head>
 <body>
 <div id="app">
@@ -20,7 +20,7 @@
 
         <nav class="uk-navbar-container" uk-navbar style="position: relative; z-index: 980;">
             <div class="uk-navbar-left">
-                <a class="uk-navbar-item uk-logo" href="{{ route('home')}}"><img src="{{ URL::asset('storage/local/images/logo-edm.png') }}" alt="" srcset=""></a>
+                <a class="uk-navbar-item uk-logo" href="{{ route('home')}}"><img src="{{ URL::secure_asset('storage/local/images/logo-edm.png') }}" alt="" srcset=""></a>
             </div>
             <div class="uk-navbar-right">
                 <ul class="uk-navbar-nav">
@@ -124,6 +124,6 @@
     </p>
 </div>
 </div>
-<script src="{{ asset('js/app.js') }}" defer></script>
+<script src="{{ secure_asset('js/app.js') }}" defer></script>
 </body>
 </html>

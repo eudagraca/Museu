@@ -49,7 +49,7 @@
                 </p>
                 <div class="uk-flex uk-flex-center">
 
-                    <div id="test-target" class="uk-border-rounded uk-height-large uk-background-cover uk-light uk-flex uk-flex-top" uk-parallax="bgy: 0" style="width: 70%; background-image: url('{{ asset('assets/images/ponte_iluminada.jpg') }}');">
+                    <div id="test-target" class="uk-border-rounded uk-height-large uk-background-cover uk-light uk-flex uk-flex-top" uk-parallax="bgy: 0" style="width: 70%; background-image: url('{{ secure_asset('assets/images/ponte_iluminada.jpg') }}');">
 
                         <h5 class="uk-border-rounded uk-overlay uk-overlay-primary uk-width-1-1@m uk-text-center uk-margin-auto uk-margin-auto-vertical uk-margin-remove-bottom">Headline</h5>
 

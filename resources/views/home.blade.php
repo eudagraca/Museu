@@ -93,7 +93,7 @@
 
 
                 <div>
-                    <img class="uk-align-center" src="{{ asset('assets/images/logo-edm.png') }}" alt="">
+                    <img class="uk-align-center" src="{{ secure_asset('assets/images/logo-edm.png') }}" alt="">
                     <p class="uk-heading-bullet uk-h2 uk-text-bold">Museu Virtual da Electricidade de Moçambique</p>
 
                     <a href="#modal-full" uk-toggle style="width: 35%; background-color: #fa7f22; color: white"

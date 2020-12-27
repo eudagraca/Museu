@@ -10,11 +10,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="{{ asset('css/app.css') }}" />
-        <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
 		<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-		<link rel="stylesheet" href="{{ asset('css/style.css') }}" />
+		<link rel="stylesheet" href="{{ secure_asset('css/style.css') }}" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-        <script src="{{ asset('js/app.js') }}" ></script>
+        <script src="{{ secure_asset('js/app.js') }}" ></script>
     </head>
     <body>
         <div uk-sticky class="uk-navbar-container tm-navbar-container uk-active">
@@ -104,8 +104,8 @@
 		<!-- Load More Javascript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.min.js" integrity="sha256-UGwvyUFH6Qqn0PSyQVw4q3vIX0wV1miKTracNJzAWPc=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.min.js" integrity="sha256-rqEXy4JTnKZom8mLVQpvni3QHbynfjPmPxQVsPZgmJY=" crossorigin="anonymous"></script>
-		<script src="{{ asset('js/notyf.min.js') }}"></script>
-		<script src="{{ asset('js/script.js') }}"></script>
+		<script src="{{ secure_asset('js/notyf.min.js') }}"></script>
+		<script src="{{ secure_asset('js/script.js') }}"></script>
 		<!-- Required Overall Script -->
     </body>
 </html>

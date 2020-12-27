@@ -50,7 +50,7 @@
                     <div class="uk-card">
                         <div class="uk-card-media-top">
                             <img class="uk-border-circle" style="height: 200px;"
-                                src="{{ asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                                src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
                         </div>
                         <div class="uk-card-body">
                             <h5 class="uk-text-primary uk-text-bold">António Chamusso</h5>
@@ -62,7 +62,7 @@
                     <div class="uk-card">
                         <div class="uk-card-media-top">
                             <img class="uk-border-circle" style="height: 200px;"
-                                src="{{ asset('/assets/images/historias/fatima_artur.png') }}" alt="">
+                                src="{{ secure_asset('/assets/images/historias/fatima_artur.png') }}" alt="">
                         </div>
                         <div class="uk-card-body">
                             <h5 class="uk-text-primary uk-text-bold">Fátima Artur</h5>
@@ -74,7 +74,7 @@
                     <div class="uk-card">
                         <div class="uk-card-media-top">
                             <img class="uk-border-circle" style="height: 200px;"
-                                src="{{ asset('/assets/images/historias/joao_cumbe.png') }}" alt="">
+                                src="{{ secure_asset('/assets/images/historias/joao_cumbe.png') }}" alt="">
                         </div>
                         <div class="uk-card-body">
                             <h5 class="uk-text-primary uk-text-bold">João Cumbe</h5>
@@ -87,7 +87,7 @@
                     <div class="uk-card">
                         <div class="uk-card-media-top">
                             <img class="uk-border-circle" style="height: 200px;"
-                                src="{{ asset('/assets/images/historias/samuel_checo.png') }}" alt="">
+                                src="{{ secure_asset('/assets/images/historias/samuel_checo.png') }}" alt="">
                         </div>
                         <div class="uk-card-body">
                             <h5 class="uk-text-primary uk-text-bold">Samuel Checo</h5>

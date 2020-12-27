@@ -55,38 +55,38 @@
             uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 300; repeat: true">
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
             <div>
-                <a class="uk-inline" href="{{ asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
-                    <img style="height: 240px;" src="{{ asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
+                <a class="uk-inline" href="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" data-caption="Caption 1">
+                    <img style="height: 240px;" src="{{ secure_asset('/assets/images/ponte_iluminada.jpg') }}" alt="">
                 </a>
             </div>
 
