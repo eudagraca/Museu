@@ -1,0 +1,102 @@
+@extends('layouts.app')
+
+@section('content')
+    <div class="uk-section uk-section-primary uk-margin-large-bottom uk-padding-remove-bottom">
+        <div class="uk-container" uk-sticky="top: 100; animation: uk-animation-slide-top; bottom: #sticky-on-scroll-up">
+            <nav class="uk-navbar uk-background-primary" uk-navbar style="position: relative; z-index: 980;">
+                <div class="uk-navbar-left">
+                    <a class="uk-navbar-item uk-logo" href="{{ route('home') }}">
+                        <h4 class="uk-heading-bullet uk-text-normal uk-margin-large-left uk-text-primary">Página inicial
+                        </h4>
+                    </a>
+                </div>
+                <div class="uk-navbar-right">
+                    {{-- <ul class="uk-navbar-nav">
+                        <li class="uk-active uk-button-text"><a
+                                href="{{ route('galeria.show', 'comercial') }}">Comercialização</a></li>
+                        <li class="uk-active uk-button-text"><a href="{{ route('galeria.show', 'distribuicao') }}">
+                                Distribuição</a></li>
+                        <li class="uk-active">
+                            <a href="{{ route('galeria.show', 'geracao') }}">Geração</a>
+                        </li>
+                        <li class="uk-active uk-button-text"><a href="{{ route('galeria.show', 'transporte') }}">
+                                Transporte</a></li>
+                    </ul> --}}
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div class="uk-container uk-margin-large-bottom">
+
+        <div uk-grid>
+
+            <div class="uk-width-expand@m">
+                <h2 class="uk-heading-bullet uk-text-bolder uk-text-primary">Histórias de vida</h2>
+                <p class="uk-margin-large-left uk-text-normal">Acompanhe de perto historias de vida dos funcionarios da
+                    Electricidade de Moçambique</p>
+
+            </div>
+        </div>
+
+        <div class="uk-container uk-margin-large-bottom">
+            <p class="uk-text-center uk-text-primary"><span uk-icon="icon: arrow-down; ratio: 1.5"></span></p>
+            <hr class="uk-margin-small-top">
+            <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid
+                uk-scrollspy="target: > a; cls: uk-animation-fade; delay: 500">
+
+                <a href="videos/antonio.html" class="uk-display-block uk-link-toggle uk-width-medium">
+
+                    <div class="uk-card">
+                        <div class="uk-card-media-top">
+                            <img class="uk-border-circle" style="height: 200px;"
+                                src="{{ asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h5 class="uk-text-primary uk-text-bold">António Chamusso</h5>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="videos/fatima.html" class="uk-display-block uk-link-toggle uk-width-medium">
+                    <div class="uk-card">
+                        <div class="uk-card-media-top">
+                            <img class="uk-border-circle" style="height: 200px;"
+                                src="{{ asset('/assets/images/historias/fatima_artur.png') }}" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h5 class="uk-text-primary uk-text-bold">Fátima Artur</h5>
+                        </div>
+                    </div>
+                </a>
+
+                <a href="videos/joao.html" class="uk-display-block uk-link-toggle uk-width-medium">
+                    <div class="uk-card">
+                        <div class="uk-card-media-top">
+                            <img class="uk-border-circle" style="height: 200px;"
+                                src="{{ asset('/assets/images/historias/joao_cumbe.png') }}" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h5 class="uk-text-primary uk-text-bold">João Cumbe</h5>
+                        </div>
+                    </div>
+                </a>
+
+
+                <a href="videos/samuel.html" class="uk-display-block uk-link-toggle uk-width-medium">
+                    <div class="uk-card">
+                        <div class="uk-card-media-top">
+                            <img class="uk-border-circle" style="height: 200px;"
+                                src="{{ asset('/assets/images/historias/samuel_checo.png') }}" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h5 class="uk-text-primary uk-text-bold">Samuel Checo</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    </div>
+
+@endsection

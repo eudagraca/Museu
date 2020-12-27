@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Nunito Sans;
+    src:url('../fonts/NunitoSans-Regular.ttf'),
+        url('../fonts/NunitoSans-Italic.ttf'),
+        url('../fonts/NunitoSans-Bold.ttf'),
+        url('../fonts/NunitoSans-Light.ttf');
+        font-size: medium;
+}
+
+*{
+    font-family: Nunito Sans !important;
+}
