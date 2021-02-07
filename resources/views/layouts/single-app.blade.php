@@ -47,9 +47,9 @@
                                     <li class="uk-parent uk-active">
                                         <a href="{{ route('rede.show', "transporte") }}" class="uk-active">2. Transporte</a>
                                         <ul class="uk-nav-sub">
-                                            <li class="uk-active"><a href="#">2.1. Infraestrutura</a></li>
-                                            <li class="uk-active"><a href="#">2.2. Rede de transporte</a></li>
-                                            <li class="uk-active"><a href="#">2.3. Centro de despacho</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "infraestrutura") }}">2.1. Infraestrutura</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "transporte") }}">2.2. Rede de transporte</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "despacho") }}">2.3. Centro de despacho</a></li>
                                         </ul>
                                     </li>
                                     <li class="uk-active"><a href="">3. Distribuição</a></li>
