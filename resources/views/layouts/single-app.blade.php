@@ -10,14 +10,14 @@
     <title>Museu EDM</title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
 </head>
 <body>
 <div id="app">
     <main data-uk-height-viewport="expand: true">
         <div class="uk-panel uk-padding-small uk-background-default uk-light">
-            <a class="uk-logo" href="#"><img src="{{ asset('assets/images/logo-edm.png') }}" alt="" srcset=""></a>
+            <a class="uk-logo" href="#"><img src="{{ secure_asset('secure_assets/images/logo-edm.png') }}" alt="" srcset=""></a>
         </div>
         <div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
 
@@ -102,6 +102,6 @@
     </main>
 
 </div>
-<script src="{{ asset('js/app.js') }}" defer></script>
+<script src="{{ secure_asset('js/app.js') }}" defer></script>
 </body>
 </html>
