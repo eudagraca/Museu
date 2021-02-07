@@ -4,7 +4,7 @@
 <div class="uk-container uk-margin-large-bottom uk-margin-large-top">
     <ul class="uk-breadcrumb uk-align-right">
         <li><a href="{{ route('rede.index') }}">Rede da EDM</a></li>
-        <li><a>Transporte</a></li>
+        <li><a href="{{ route('rede.show', "transporte") }}">Transporte</a></li>
         <li><a>Infra-estrutura de Transporte</a></li>
     </ul>
     <div class="uk-width-1-1@m" id="governanca">

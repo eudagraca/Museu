@@ -4,6 +4,7 @@
 <div class="uk-container uk-margin-large-bottom uk-margin-large-top">
     <ul class="uk-breadcrumb uk-align-right">
             <li><a href="{{ route('rede.index') }}">Rede da EDM</a></li>
+            <li><a href="">Geração</a></li>
     </ul>
     <div class="uk-width-1-1@m" id="governanca">
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Rede da EDM</h3>
