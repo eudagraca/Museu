@@ -1,12 +1,43 @@
 @font-face {
     font-family: Nunito Sans;
-    src:url('../fonts/NunitoSans-Regular.ttf'),
+    src: url('../fonts/NunitoSans-Regular.ttf'),
         url('../fonts/NunitoSans-Italic.ttf'),
         url('../fonts/NunitoSans-Bold.ttf'),
         url('../fonts/NunitoSans-Light.ttf');
-        font-size: medium;
+    font-size: medium;
 }
 
-*{
+* {
     font-family: Nunito Sans !important;
+}
+
+
+.uk-light .uk-slidenav {
+    color: rgb(247 247 247);
+    background: #fa7f22;
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #fa7f22;
+}
+
+.uk-navbar-nav>li.uk-active>a {
+    font-weight: 550 !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.uk-custom-text-white {
+    color: white;
+}
+
+.uk-navbar-dropdown.uk-open.uk-navbar-dropdown-bottom-left {
+    width: 300px;
+}
+
+.uk-text-black{
+    color: rgb(19, 18, 18);
+}
+
+.uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque{
+    font-weight: 600;
 }

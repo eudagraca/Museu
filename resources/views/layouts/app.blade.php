@@ -10,8 +10,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
-    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css" >
+    <link href="{{ asset('css/custom.css') }}" rel="stylesheet" type="text/css">
 </head>
 <body>
 <div id="app">
@@ -87,36 +87,7 @@
         @yield('content')
     </main>
 
-<!-- Footer -->
-<div class="uk-section uk-section-primary">
-    <div class="uk-container">
 
-        <div class="uk-child-width-1-3@m" uk-grid>
-            <div>
-                <h4 class=" uk-text-bold uk-margin-remove uk-padding-remove">Contacto</h4>
-                <p class="uk-margin-remove uk-padding-remove">(+258) 8400000</p>
-            </div>
-
-            <div>
-                <h4 class="uk-text-bold uk-margin-remove uk-padding-remove">Endereço</h4>
-
-                <p class="uk-margin-remove uk-padding-remove">Rua, Avenida, Cidade, Provincia, País</p>
-            </div>
-            <div>
-                <h4 class="uk-text-bold">Links Importantes</h4>
-                <div class="uk-width-1-2@s uk-width-1-1@m">
-                    <ul class="uk-nav uk-nav-default">
-                        <li class="uk-active uk-button-text uk-text-uppercase"><a href="#">Página inicial</a></li>
-                        <li class="uk-active uk-button-text uk-text-uppercase"><a href="#">Galeira</a></li>
-                        <li class="uk-active uk-button-text uk-text-uppercase"><a href="#">História de vida</a></li>
-                        <li class="uk-active uk-button-text uk-text-uppercase"><a href="#">Informação institucional</a></li>
-                        <li class="uk-active uk-button-text uk-text-uppercase"><a href="#">Linha do tempo</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <div class=" uk-background-secondary">
     <p class="uk-text-center uk-margin-remove uk-padding-small uk-text-light">
         &copy; Todos direitos reservados
@@ -124,6 +95,6 @@
     </p>
 </div>
 </div>
-<script src="{{ secure_asset('js/app.js') }}" defer></script>
+<script src="{{ asset('js/app.js') }}" defer></script>
 </body>
 </html>

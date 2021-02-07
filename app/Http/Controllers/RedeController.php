@@ -2,10 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Museu;
 use Illuminate\Http\Request;
 
-class MuseuController extends Controller
+class RedeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +13,7 @@ class MuseuController extends Controller
      */
     public function index()
     {
-        //
+        return view('rede.rede');
     }
 
     /**
@@ -41,37 +40,21 @@ class MuseuController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Museu  $museu
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($museu)
+    public function show($id)
     {
-        return view('museu.details');
-    }
-
-    public function apresentacao($apresentacao)
-    {
-        if ($apresentacao == "apresentacao") {
-            return view('apresentacao.details');
-        }elseif($apresentacao == "modelo"){
-            return view('apresentacao.modelo');
-        }elseif($apresentacao == "organica"){
-            return view('apresentacao.organica');
-        }
-    }
-
-    public function edm()
-    {
-        return view('apresentacao.details');
+        return view('rede.'.$id);
     }
 
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\Museu  $museu
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit(Museu $museu)
+    public function edit($id)
     {
         //
     }
@@ -80,10 +63,10 @@ class MuseuController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Museu  $museu
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Museu $museu)
+    public function update(Request $request, $id)
     {
         //
     }
@@ -91,10 +74,10 @@ class MuseuController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Museu  $museu
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Museu $museu)
+    public function destroy($id)
     {
         //
     }

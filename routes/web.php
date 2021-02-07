@@ -20,6 +20,7 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/homee', [App\Http\Controllers\HomeController::class, 'indexx'])->name('homee');
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'index'])->name('admin');
 
@@ -35,6 +36,7 @@ Route::get('contacto', [App\Http\Controllers\PaginaController::class, 'contacto'
 Route::resource('museu', App\Http\Controllers\MuseuController::class);
 Route::resource('infraestrutura', App\Http\Controllers\InfraestruturaController::class);
 Route::resource('evolucao', App\Http\Controllers\EvolucaoController::class);
-Route::get('apresentacao/{apresentacao}', [MuseuController::class, 'apresentacao']);
+Route::get('apresentacao/{apresentacao}', [MuseuController::class, 'apresentacao'])->name('apresentacao.display');
 Route::get('apresentacao/', [MuseuController::class, 'edm'])->name('apresentacao');
 Route::resource('institucional', App\Http\Controllers\InformacaoInstituicionalController::class);
+Route::resource('rede', App\Http\Controllers\RedeController::class);
