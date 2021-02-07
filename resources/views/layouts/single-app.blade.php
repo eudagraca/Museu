@@ -23,7 +23,7 @@
 
             <nav class="uk-navbar-container" uk-navbar style="position: relative; z-index: 980;">
                 <div class="uk-navbar-left">
-                    <a class="uk-navbar-item uk-logo uk-custom-text-white" href="">Museu</a>
+                    <a class="uk-navbar-item uk-logo uk-custom-text-white" href="/">Museu</a>
                 </div>
                 <div class="uk-navbar-right">
                     <ul class="uk-navbar-nav uk-nav-parent-icon">
