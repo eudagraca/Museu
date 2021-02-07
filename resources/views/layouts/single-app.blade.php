@@ -52,16 +52,16 @@
                                             <li class="uk-active"><a href="{{ route('rede.show', "despacho") }}">2.3. Centro de despacho</a></li>
                                         </ul>
                                     </li>
-                                    <li class="uk-active"><a href="">3. Distribuição</a></li>
+                                    <li class="uk-active"><a href="{{ route('rede.show', "distribuicao") }}">3. Distribuição</a></li>
                                     <li class="uk-parent uk-active">
-                                        <a href="#" class="uk-active">4. Comercial</a>
+                                        <a href="{{ route('rede.show', "comercial") }}" class="uk-active">4. Comercial</a>
                                         <ul class="uk-nav-sub">
-                                            <li class="uk-active"><a href="#">4.1. Serviço essencial</a></li>
-                                            <li class="uk-active"><a href="#">4.2. Estrutura de tarifas</a></li>
-                                            <li class="uk-active"><a href="#">4.3. Forma de atendimento</a></li>
-                                            <li class="uk-active"><a href="#">4.4. Forma de pagamento</a></li>
-                                            <li class="uk-active"><a href="#">4.5. Categorias tarifarias</a></li>
-                                            <li class="uk-active"><a href="#">4.6. Redução de perdas de eneria</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "servicos") }}">4.1. Serviço essencial</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "estruturaclientes") }}">4.2. Estrutura de tarifas</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "atendimentoaocliente") }}">4.3. Forma de atendimento</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "formasdepagamento") }}">4.4. Forma de pagamento</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "categoriastarifarias") }}">4.5. Categorias tarifarias</a></li>
+                                            <li class="uk-active"><a href="{{ route('rede.show', "perdasdeenergia") }}">4.6. Redução de perdas de energia</a></li>
 
                                         </ul>
                                     </li>
@@ -93,7 +93,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li class="uk-active uk-button-text"><a href="historias.html">Histórias de Vida</a></li>
+                        <li class="uk-active uk-button-text"><a href="{{ route('historia.user') }}">Histórias de Vida</a></li>
                     </ul>
                 </div>
             </nav>
