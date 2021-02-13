@@ -10,8 +10,8 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css" >
-    <link href="{{ asset('css/custom.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet" type="text/css" >
+    <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet" type="text/css">
 </head>
 <body>
 <div id="app">
@@ -95,6 +95,6 @@
     </p>
 </div>
 </div>
-<script src="{{ asset('js/app.js') }}" defer></script>
+<script src="{{ secure_asset('js/app.js') }}" defer></script>
 </body>
 </html>
