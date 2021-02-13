@@ -71,13 +71,12 @@
 
                         <li class="uk-active uk-button-text"><a href="linha_do_tempo.html">Legislação</a></li>
 
-                        <li class="uk-active uk-button-text"><a href="galeria.html">História de eletrificação</a>
+                        <li class="uk-active uk-button-text"><a href="#">História de eletrificação</a>
                             <div class="uk-navbar-dropdown">
                                 <ul class="uk-nav uk-navbar-dropdown-nav">
-                                    <li class="uk-active"><a href="">História de geração</a></li>
-                                    <li class="uk-active"><a href="">História de transporte</a></li>
-                                    <li class="uk-active"><a href="">História de distribuição </a></li>
-                                    <li class="uk-active"><a href="">História Comercial</a></li>
+                                    <li class="uk-active"><a href="{{ route('eletrificacao.geracao') }}">História de geração</a></li>
+                                    <li class="uk-active"><a href="{{ route('eletrificacao.transporte') }}">História de transporte</a></li>
+                                    <li class="uk-active"><a href="{{ route('eletrificacao.distribuicao') }}">História de distribuição </a></li>
                                 </ul>
                             </div>
                         </li>

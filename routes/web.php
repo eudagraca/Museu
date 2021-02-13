@@ -40,3 +40,9 @@ Route::get('apresentacao/{apresentacao}', [MuseuController::class, 'apresentacao
 Route::get('apresentacao/', [MuseuController::class, 'edm'])->name('apresentacao');
 Route::resource('institucional', App\Http\Controllers\InformacaoInstituicionalController::class);
 Route::resource('rede', App\Http\Controllers\RedeController::class);
+
+
+//Historia da eletrificacao
+Route::get('eletrificacao/geracao', [App\Http\Controllers\HistoriaController::class, 'historiaElectGeracao'])->name('eletrificacao.geracao');
+Route::get('eletrificacao/transporte', [App\Http\Controllers\HistoriaController::class, 'historiaElectTransporte'])->name('eletrificacao.transporte');
+Route::get('eletrificacao/distribuicao', [App\Http\Controllers\HistoriaController::class, 'historiaElectDistribuicao'])->name('eletrificacao.distribuicao');

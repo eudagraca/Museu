@@ -22,6 +22,21 @@ class HistoriaController extends Controller
         return view('historias.user.index');
     }
 
+    public function historiaElectGeracao()
+    {
+        return view('eletrificacao.geracao');
+    }
+
+    public function historiaElectTransporte()
+    {
+        return view('eletrificacao.transporte');
+    }
+
+    public function historiaElectDistribuicao()
+    {
+        return view('eletrificacao.distribuicao');
+    }
+
     /**
      * Show the form for creating a new resource.
      *
