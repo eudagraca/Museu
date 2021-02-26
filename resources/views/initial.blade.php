@@ -14,7 +14,7 @@
                 </div>
                 <h3
                     class="uk-h3 uk-text-bold uk-padding-small uk-margin-remove-top uk-background-default uk-text- uk-text-primary uk-align-center">
-                    Seja bem vindo ao Museu da EDM</h3>
+                    Seja bem vindo ao Museu Virtual da EDM</h3>
                 <a class="uk-button uk-button-primary uk-align-center" href="{{ route('home')}}">Entrar no museu</a>
             </div>
         </div>
