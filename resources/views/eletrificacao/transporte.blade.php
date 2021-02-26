@@ -8,7 +8,7 @@
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">História de Transporte de Energia em Moçambique
         </h3>
 
-        <p class="uk-dropcap uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A primeira linha de
+        <p class="uk-dropcap uk-text uk-margin-left uk-margin-large-right uk-text-justify">A primeira linha de
             transporte na história do país surgiu no período colonial com a Sociedade Hidroeléctrica do Revué em
             1953. Era de 66 KV e com a conclusão da 2ª fase do Projecto foi acrescida outra de 110KV para a cidade da
             Beira da
@@ -16,7 +16,7 @@
             a Central.
         </p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A experiência de SHER de
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">A experiência de SHER de
             construção de Linha de Manica para Beira viria a ser adoptada pela Sociedade Nacional de
             Estudos e Financiamentos de Empreendimentos Ultramarinos (SONEFE), que desde os anos de 1968 vinha
             diligenciando com a
@@ -28,7 +28,7 @@
             com a
             construção dos edifícios e enquanto que a Tamega colocou as gravilhas na Subestação do Infulene.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">O outro concurso que a SONEFE
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">O outro concurso que a SONEFE
             lançou foi o de fabrico de dois Transformadores para a Subestação de Infulene, que viria a
             ser ganho pela empresa italiana SOCIETA NAZIONALE Delle, baseada em Torino, que fabricou Transformadores de
             Marca
@@ -41,7 +41,7 @@
             Linhas de 60KV de Infulene a Central Térmica na pequena Subestação que era conhecida por &quot;Zona D&quot;.
         </p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Os testes na Subestação de
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Os testes na Subestação de
             Infulene, para aferir a qualidade da tensão, foram realizados entre 21 a 27 de Novembro na
             presença do Engenheiro da Fiscalização da SONEFE, Luís Botão e Eng. Daciano de Barros da ACTA, acompanhados
             de uma vasta
@@ -53,7 +53,7 @@
             fornecer
             energia a Infulene. A linha da RSA a Lourenço Marques tinha uma extensão de 76,5Kms.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Com a Independência Nacional e a
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Com a Independência Nacional e a
             posterior criação da EDM em 27 de Agosto de 1977, a Subestação do Infulene passou tal
             como na época da SONEFE a fazer parte da secção eléctrica da CTM, onde era dirigida pelo Eng. Cabrita
             Gonçalves que
@@ -63,7 +63,7 @@
             Rodrigues a
             chefia passou para Fuade Sultane.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Até a independência Nacional de
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Até a independência Nacional de
             Moçambique apenas existiam duas Cidades interligadas que eram a Beira a partir da SHER e
             Maputo através da África do Sul. A EDM teve inúmeras vantagens ao longo da sua trajectória, pois em Maio de
             1975 acabava
@@ -73,23 +73,23 @@
             central e
             alimentar o país sem se preocupar com enfoque na geração, salvo para estabilizar o sistema.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Foi assim que foram obtidos fundos
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Foi assim que foram obtidos fundos
             dos Bancos Italianos e Franceses para construção da Linha Centro-Norte e
             posteriormente associaram-se os fundos da Suécia. Alguns do projectos que foram desenvolvidos com a Energia
             de Cahora
             Bassa:</p>
-        <ul class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-large-left">
-            <li>Em 1980-1986 arrancou de Tete o Projecto da Linha Centro-Norte que saiu de
+        <ul class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-left ">
+            <li class="uk-text-black">Em 1980-1986 arrancou de Tete o Projecto da Linha Centro-Norte que saiu de
                 Matambo-Chimuara-Nicoadala-Quelimane-Mocuba-Alto-Molocue-Nampula em 220 KV. Com aquela Linha foi
                 possível interligar Nacala a partir da antiga Linha de 110 KV que existia de Nacala-Nampula.</li>
-            <li>Para potenciar as Cidades de Manica e Beira ainda em 1980, foi construída a Linha de Tete para Chibata
+            <li class="uk-text-black">Para potenciar as Cidades de Manica e Beira ainda em 1980, foi construída a Linha de Tete para Chibata
                 em 220 KV, que infelizmente não ficou durante muito tempo, pois nos anos posteriores viria a ser
                 paralisada devido a sabotagem das
                 torres.</li>
-            <li>Em 1980-1982 seguiu-se o Projecto da Linha Tete-Chibata em 220KV, de tal modo que por intermédio da
+            <li class="uk-text-black">Em 1980-1982 seguiu-se o Projecto da Linha Tete-Chibata em 220KV, de tal modo que por intermédio da
                 tradicional linha de Chimoio a Beira foi possível escoar a corrente eléctrica para Beira.</li>
         </ul>
-        <div class="uk-margin-large-left uk-margin-large-right">
+        <div class="uk-margin-left uk-margin-large-right">
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">Adjudicatária da Linha foi a SAE
                 <i>Italiana</i> e as respectivas Subestações foi a <i>Cogelex da França</i> e a <i>Swed Power</i> da
                 Suécia
@@ -120,7 +120,7 @@
             </p>
         </div>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Enquanto prosseguia os trabalhos na parte
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Enquanto prosseguia os trabalhos na parte
             norte, a EDM conseguiu financiamento dos Bancos Italianos e da ASDI, para a
             construção da Linha para o vale do Limpopo, saindo de Infulene-Macia- Chokwe-Xai-Xai a uma tensão de 110KV,
             em
@@ -132,18 +132,18 @@
             fundira com uma outra,
             resultando em <i>SADELMI</i>.
         </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Com os Acordos Gerais de Paz, que deu término
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Com os Acordos Gerais de Paz, que deu término
             a Guerra Civil de 16 anos em Moçambique, a partir da Cidade de Xai-Xai foi
             interligada Rede a Cidade de Inhambane em 110 KV que veio a ser concluída em 2004.
         </p>
-        <ul class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-large-left">
-            <li>A Linha Alto-Molocue-Gurue-Cuamba-Lichinga veio a ser efectivada nos anos de 2002 a 2005 e de Nampula à
+        <ul class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-left ">
+            <li class="uk-text-black">A Linha Alto-Molocue-Gurue-Cuamba-Lichinga veio a ser efectivada nos anos de 2002 a 2005 e de Nampula à
                 Pemba
                 em2003-2004 e posteriormente Pemba-Macomia-Auasse também em 110KV</li>
-            <li>Em 2017-2019 foi interligado Cuamba-Marrupa também a uma tensão de 110KV e a linha Chibata-Dondo em 220
+            <li class="uk-text-black">Em 2017-2019 foi interligado Cuamba-Marrupa também a uma tensão de 110KV e a linha Chibata-Dondo em 220
                 KV.</li>
         </ul>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Com estes Projectos foi possível iniciar os
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">Com estes Projectos foi possível iniciar os
             Projectos de Electrificação de todas as Sede Distritais que terminou em
             2017, estando neste momento a ser implementado Projectos de Electrificação dos Postos Administrativos.
         </p>

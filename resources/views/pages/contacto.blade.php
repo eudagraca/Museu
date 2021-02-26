@@ -1,21 +1,9 @@
-@extends('layouts.app')
+@extends('layouts.single-app')
 
 @section('content')
-    <div class="uk-section uk-section-primary uk-margin-large-bottom uk-padding-remove-bottom">
-        <div class="uk-container" uk-sticky="top: 100; animation: uk-animation-slide-top; bottom: #sticky-on-scroll-up">
-            <nav class="uk-navbar uk-background-primary" uk-navbar style="position: relative; z-index: 980;">
-                <div class="uk-navbar-left">
-                    <a class="uk-navbar-item uk-logo" href="{{ route('home') }}">
-                        <h4 class="uk-heading-bullet uk-text-normal uk-margin-large-left uk-text-primary">Página inicial
-                        </h4>
-                    </a>
-                </div>
 
-            </nav>
-        </div>
-    </div>
 
-    <div class="uk-container uk-margin-large-bottom">
+    <div class="uk-container uk-margin-large-bottom uk-margin-large-top">
         <h2 class="uk-heading-bullet uk-text-bold uk-text-primary uk-margin-small-bottom">
             Contacto</h2>
         <div uk-grid>
@@ -60,6 +48,19 @@
 
 
             <div class="uk-width-1-2@s uk-margin-top">
+
+                <div class="uk-margin-small">
+                    <label class="uk-form-label" for="form-stacked-text">Localização | endereço</label>
+                    <div class="uk-form-controls">
+                        <label id="form-stacked-text" >Av, X, Cidade de Maputo, Moçambique</label>
+                    </div>
+                </div>
+                <div class="uk-margin-small">
+                    <label class="uk-form-label" for="form-stacked-text">Telefone</label>
+                    <div class="uk-form-controls">
+                        <label id="form-stacked-text" >+2588400000000</label>
+                    </div>
+                </div>
 
                 <p class="uk-text uk-text-justify">
                     Caro visitante, pode entrar em contacto connosco apartir do formulário ao lado. Teremos imenso prazer em poder conversar | sanar as suas dúvidas. <br>Até logo! :)

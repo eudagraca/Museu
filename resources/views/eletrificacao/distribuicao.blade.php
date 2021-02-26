@@ -8,7 +8,7 @@
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">História da Distribuição
         </h3>
 
-        <p class="uk-dropcap uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A Distribuição de
+        <p class="uk-dropcap uk-text uk-margin-left uk-margin-right uk-text-justify">A Distribuição de
             energia andou estreita com a Geração de corrente electrica. Em Maputo na época da Delagoa Bay, nos
             anos de 1903 a 1946 e subsequentemente com os S.M.A.E, de 1947-1963, a distribuição era feita a partir de
             circuitos que
@@ -19,7 +19,7 @@
             reduzida para os níveis aceitáveis e, dalí seguia ao consumidor.
         </p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Eram utilizados para distribuição
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">Eram utilizados para distribuição
             Linhas Aéreas, com recurso aos postes de aço, copos de porcelana fixos por ferragens e
             condutores de cobre. Esta tecnologia permaneceu em Lourenço Marques até altura que entrou em voga a Nova
             Rede de
@@ -28,7 +28,7 @@
             facto que condicionou a montagem dos Postos de Transformação em vários locais da Cidade para permitir o
             acesso da mesma.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Para alcançar os objectivos foi
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">Para alcançar os objectivos foi
             antecedido por um levantamento exaustivo em 1956 da potência das instalações onde haviam
             participado Electricistas de várias instituições a cargo do SMAE, a destacar: CFM, Câmara Municipal, Hotel
             Polana,
@@ -36,7 +36,7 @@
             transformadores que teriam de ser montados ao longo da execução das obras na cidade.
         </p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">O S.M.AE, sabendo das fontes
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">O S.M.AE, sabendo das fontes
             oficiais da época, que uma nova Central Térmica estava sendo erguida e sendo
             concessionários da distribuição, procedeu um estudo das necessidades para a montagem de uma Nova Rede e logo
             a seguir
@@ -46,23 +46,23 @@
             anulado.
             Quando foi relançado em 1954, argumentaram da seguinte forma:</p>
 
-        <p class="uk-text uk-text-italic uk-margin-xlarge-left uk-margin-large-right uk-text-justify">&quot;Porém, no
+        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify">&quot;Porém, no
             concurso agora em andamento foi introduzido algumas importantes alterações para corresponder ao enorme
             desenvolvimento que a cidade, entretanto teve e aos condicionamentos que o Plano de Urbanização veio
             impor.</p>
-        <p class="uk-text uk-text-italic uk-margin-xlarge-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify">
             Prevendo-se uma redução sensível no peso dos cabos eléctricos, estabeleceu-se que a Rede passasse a ser
             emalhada na
             Baixa Tensão e que o respectivo projecto fosse elaborado pelo respectivo concorrente a métodos de cálculo
             mais recentes
             e a análise experimental sobre o modelo eléctrico reduzido da Rede.</p>
-        <p class="uk-text uk-text-italic uk-margin-xlarge-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify">
             Prevendo-se uma redução sensível no peso dos cabos eléctricos, estabeleceu-se que a Rede passasse a ser
             emalhada na
             Baixa Tensão e que o respectivo projecto fosse elaborado pelo respectivo concorrente a métodos de cálculo
             mais recentes
             e a análise experimental sobre o modelo eléctrico reduzido da Rede.</p>
-        <p class="uk-text uk-text-italic uk-margin-xlarge-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify">
             Como a natureza característica, dimensionamento dos materiais a fornecer dependem do projecto a apresentar e
             o concurso
             ainda não está resolvido, fica-se impossibilitado de avaliar correctamente o custo da empreitada”&quot;.
@@ -71,7 +71,7 @@
             Fevereiro).
         </p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A Câmara em 1954 autorizou o
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">A Câmara em 1954 autorizou o
             relançamento do concurso com a prerrogativa de o projecto da Rede fosse efectuado pelo
             concorrente, com base nos cálculos recentes etc. Para suprir as despesas da empreitada os SMAE enveredaram
             pelo crédito
@@ -83,7 +83,7 @@
             relevantes, quer
             em termos de quem devia ganhar o concurso quer na pressão para os pagamentos a favor do empreiteiro etc.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">O primeiro ano das obras foi
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">O primeiro ano das obras foi
             dedicado essencialmente para aquisição dos materiais e os restantes a execução das obras.
             No final das obras da Rede de Distribuição da Cidade de Lourenço Marques foram removidos todos os postes,
             circuitos que
@@ -91,7 +91,7 @@
             alcançou o
             estatuto das cidades modernas em que os condutores ficam embutidos via subterrânea.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">No entanto, a Rede Aérea
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">No entanto, a Rede Aérea
             permaneceu nos bairros suburbanos de Lourenço Marques, inclusive foram desenhados projectos de
             Melhoramento do Caniço, onde foram construídas algumas Linhas nos Bairros de Aeroporto, Xipamanine,
             Maxaquene e Sofil
@@ -103,11 +103,11 @@
             recusou, com
             valores que variavam entre 40.000 escudos a 10.000$00, em 1972. (Acta 45/72, de 10 de Novembro).</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Com a EDM os condutores de cobre
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">Com a EDM os condutores de cobre
             nu que abundavam nos bairros passaram a ser substituídos pelo cabo torçado e uso de
             ligadores ao invés dos copos, facto que alterou positivamente a operação das redes de distribuição.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A distribuição evoluiu
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">A distribuição evoluiu
             drasticamente com o maior acesso dos materiais, disponibilização de muitos PTs numa dada zona e
             maior proximidade conduzem para redução de perdas, contrariamente ao que acontecia no passado onde uma vila
             dispunha de
@@ -117,12 +117,12 @@
             quilómetros
             da fonte ao PT que alimenta os consumidores.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Cidades como Beira, Nampula
+        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">Cidades como Beira, Nampula
             seguiram o padrão da rede de distribuição subterrânea enquanto cidades com uma dimensão
             inferior como Pemba, Lichinga e outras, a rede está acessível ao olhar de qualquer um, como resultado das
             heranças do SMAE.</p>
 
-        <div class="uk-margin-xlarge-left uk-margin-xlarge-right">
+        <div class="uk-margin-left uk-margin-right">
             <h4 class="uk-heading-bullet uk-text-primary uk-text-bold">Comercial</h4>
             <p class="uk-text uk-text-justify">As actividades comerciais, no tempo dos Serviços Municipalizados de Água
                 e Electricidade (S.M.A.E), começaram por ser
@@ -137,7 +137,7 @@
                 os Serviços Administrativos passando a designar-se Serviços Administrativos e Comerciais, mantendo o Dr.
                 Heitor Nunes
                 como o Chefe dos dois Serviços. Lembremos que existiam os seguintes serviços:</p>
-            <ol class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-left" type="a">
+            <ol class="uk-list uk-list-disc uk-list-primary uk-margin-right uk-margin-left" type="a">
                 <li>Serviços de Água</li>
                 <li>Serviços de Electricidade</li>
                 <li>Serviços Administrativos e Comerciais</li>
@@ -164,7 +164,7 @@
                 induzir agressividade no negócio da indústria de Electricidade. Desta forma, o departamento de Consumo
                 era compreendido
                 pelas secções:</p>
-            <ol class="uk-list uk-list-disc uk-list-primary uk-margin-large-right uk-margin-left" type="a">
+            <ol class="uk-list uk-list-disc uk-list-primary uk-margin-right uk-margin-left" type="a">
                 <li>Leituras</li>
                 <li>Facturacão</li>
                 <li>Propaganda e Vendas.</li>
@@ -244,7 +244,7 @@
         </div>
 
         <hr>
-        <div class="uk-margin-xlarge-left uk-margin-xlarge-right">
+        <div class="uk-margin-left uk-margin-right">
             <h4 class="uk-heading-bullet uk-text-primary uk-text-bold">Sistema de Pré-pagamento de Electricidade –
                 CREDELEC</h4>
 

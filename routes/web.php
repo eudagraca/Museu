@@ -20,12 +20,12 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/homee', [App\Http\Controllers\HomeController::class, 'indexx'])->name('homee');
-Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
+Route::get('/', [App\Http\Controllers\HomeController::class, 'initial'])->name('initial');;
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'index'])->name('admin');
 
 Route::get('/historias', [App\Http\Controllers\HistoriaController::class, 'indexUser'])->name('historia.user');
 Route::get('/historia-edm', [App\Http\Controllers\LinhaTempoController::class, 'historia'])->name('historia.edm');
+Route::get('/linha_do_tempo', [App\Http\Controllers\LinhaTempoController::class, 'linhaDoTempo'])->name('linha_do_tempo');
 Route::get('/personalidades', [App\Http\Controllers\LinhaTempoController::class, 'personalidades']);
 
 Route::resource('galeria', App\Http\Controllers\GaleriaController::class);

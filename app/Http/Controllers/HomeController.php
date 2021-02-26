@@ -25,8 +25,8 @@ class HomeController extends Controller
     {
         return view('home');
     }
-    public function indexx()
+    public function initial()
     {
-        return view('homee');
+        return view('initial');
     }
 }

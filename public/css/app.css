@@ -10726,7 +10726,7 @@ iframe.uk-cover {
 
 .uk-logo:hover,
 .uk-logo:focus {
-  color: #666;
+  color: #fff;
   outline: none;
   /* 1 */
   text-decoration: none;
@@ -13590,8 +13590,8 @@ iframe.uk-cover {
 .uk-card-secondary > :not([class*=uk-card-media]) .uk-button-primary,
 .uk-overlay-primary .uk-button-primary,
 .uk-offcanvas-bar .uk-button-primary {
-  background-color: #fff;
-  color: #666;
+  background-color: #fa7f22;
+  color: #fff;
 }
 
 .uk-light .uk-button-primary:hover,
@@ -13616,8 +13616,8 @@ iframe.uk-cover {
 .uk-card-secondary > :not([class*=uk-card-media]) .uk-button-primary:focus,
 .uk-overlay-primary .uk-button-primary:focus,
 .uk-offcanvas-bar .uk-button-primary:focus {
-  background-color: #f2f2f2;
-  color: #666;
+  background-color: #fa7f22;
+  color: #fefefef;
 }
 
 .uk-light .uk-button-primary:active,
@@ -15260,7 +15260,7 @@ iframe.uk-cover {
 .uk-card-secondary > :not([class*=uk-card-media]) .uk-text-primary,
 .uk-overlay-primary .uk-text-primary,
 .uk-offcanvas-bar .uk-text-primary {
-  color: #fff !important;
+  color: #FA7F22 !important;
 }
 
 .uk-light .uk-text-secondary,

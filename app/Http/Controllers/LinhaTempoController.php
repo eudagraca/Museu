@@ -17,6 +17,11 @@ class LinhaTempoController extends Controller
         //
     }
 
+    public function linhaDoTempo()
+    {
+        return view('linha_do_tempo.linha');
+    }
+
     public function historia()
     {
         return view('pages.historia');

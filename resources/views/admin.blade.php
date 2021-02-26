@@ -9,7 +9,7 @@
         <meta name="author" content="Euclidio Venancio">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}" />
+        <link rel="stylesheet" href="{{ secure_asset('css/app.css') }}" />
         <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
 		<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
 		<link rel="stylesheet" href="{{ secure_asset('css/style.css') }}" />
@@ -47,7 +47,7 @@
         <div id="sidebar" class="tm-sidebar-left uk-background-default">
             <center>
                 <div class="user">
-                    <img id="avatar" width="180px" class="uk-border-rounded" src="{{ URL::asset('storage/local/images/logo-edm.png') }}" />
+                    <img id="avatar" width="180px" class="uk-border-rounded" src="{{ URL::secure_asset('storage/local/images/logo-edm.png') }}" />
                     <div class="uk-margin-top"></div>
                     <div id="name" class="uk-text-truncate">{{ Auth::user() }}</div>
                     <div id="email" class="uk-text-truncate">{{ Auth::user() }}</div>

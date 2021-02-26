@@ -124,9 +124,9 @@
             <div class="uk-width-1-3@m" uk-lightbox="animation: slide">
                 <div class="uk-margin-small-bottom">
                     <a class="uk-inline uk-text-bold uk-flex uk-flex-center"
-                        href="{{ asset('assets/images/linha-do-tempo.png') }}"
+                        href="{{ secure_asset('assets/images/linha-do-tempo.png') }}"
                         data-caption="Provincia de Manica - Barragem da Chicamba.">
-                        <img src="{{ asset('assets/images/linha-do-tempo.png') }}" alt="">
+                        <img src="{{ secure_asset('assets/images/linha-do-tempo.png') }}" alt="">
                     </a>
                 </div>
 

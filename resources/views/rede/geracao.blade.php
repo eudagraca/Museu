@@ -10,59 +10,64 @@
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Rede da EDM</h3>
         <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Geração</h4>
 
-        <p class="uk-dropcap uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+<div class="uk-grid">
+        <p class="uk-dropcap uk-text uk-width-expand@m uk-margin-left  uk-margin-right uk-text-justify">
             A Função Geração tem como missão, coordenar e implementar a gestão, exploração e manutenção dos meios de
             produção de
             energia eléctrica, gestão sustentável da capacidade de produção de energia, em função da demanda, assessorar
             as
             Delegações na exploração das centrais de emergência e, em coordenação com outras Direcções, desenvolver
             estudos, visando
-            a implementação de novas centrais de geração própria.
-        </p>
-
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+            a implementação de novas centrais de geração própria.<br><br>
             No presente quinquénio, no parque produtor, prevê-se a recuperação de cerca de 78MW de capacidade produtiva
             que se
             encontra indisponível por motivos de avarias de vária ordem. Desta capacidade, 22 MW serão recuperados na
             Central
             Hídrica de Chicamba, 15.8MW na Central Hídrica de Mavuzi, 40MW na Central Térmica à Gás Natural de Maputo
-            (CTM).
-        </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+            (CTM).<br><br>
             Esta recuperação de capacidade produtiva, vai melhorar em grande medida os níveis de resposta à demanda nos
             diferentes
             subsistemas de transporte de energia ao longo do País.
         </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+
+        <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
+            <a class="uk-inline" href="{{ secure_asset('assets/images/provincias_delegacoes.png') }}"
+                data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
+                <img src="{{ secure_asset('assets/images/provincias_delegacoes.png') }}" class="uk-border-rounded" width="250px"
+                    height="50px" alt="" uk-img></a>
+        </div>
+        </div>
+
+        <p class="uk-text uk-margin-left  uk-margin-right uk-text-justify">
             Para além desta recuperação, prevê-se o aumento de capacidade produtiva em cerca de 45MW, resultante da
             montagem da
             central de emergência de 40MW em Nacala, aumento da capacidade instalada em Temaninho em mais 3 MW e a
             ampliação da
             Mini-hídrica de Cuamba em mais 2.5MW.
         </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-margin-left  uk-margin-right uk-text-justify">
             Importa referenciar que, pelo facto de a geração ter centrais a funcionar em regimes diferentes,
             nomeadamente (Pick,
             Base load e Mied-merid), o valor global do factor de carga (GLF) e de utilização de energia (EUF), vai
             situar-se nos 52%
             e 53%, respectivamente de 2021 em diante.
         </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-margin-left  uk-margin-right uk-text-justify">
             O factor de perda de capacidade não planeada (UCLF) vai melhorar significativamente, visto que a
             indisponibilidade das
             centrais por avarias não planeadas de longo termo, a partir de 2021, será ultrapassada na sequência da
             implementação das
             obras de reabilitação de raiz, o que vai culminar com o aumentado dos seus níveis de fiabilidade.
         </p>
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+        <p class="uk-text uk-margin-left  uk-margin-right uk-text-justify">
             A geração da EDM está presente nas três regiões do País, nomeadamente Sul, Centro e Norte. Esta realidade
             impõe que
             sejam alocados recursos, não só humanos, mas também materiais e em equipamentos para a gestão das centrais.
         </p>
-        <i class="uk-h4 uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+        <i class="uk-h4 uk-text uk-margin-left  uk-margin-right uk-text-justify">
             A tabela abaixo apresenta a capacidade de geração instalada e disponível por central
         </i>
-        <div class="uk-margin-large-left uk-margin-large-right uk-margin-top">
+        <div class="uk-margin-left  uk-margin-right uk-margin-top">
             <table class="uk-table uk-table-striped ">
                 <thead>
                     <tr>
@@ -144,5 +149,13 @@
             <p class="uk-text-small uk-text-italic uk-text-danger">Fonte: Plano de Negócio da EDM 2020 - 2024</p>
         </div>
     </div>
+       <hr>
+        <div class="uk-width-1-2@s uk-width-2-5@m uk-margin-left">
+            <ul class="uk-nav uk-nav-default uk-align-left">
+                <li class="uk-nav-header uk-text-bold uk-text-primary">Próximas páginas relacionadas</li>
+                <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                        href="{{ route('rede.show', "transporte") }}">Rede de transporte</a></li>
+            </ul>
+        </div>
 </div>
 @endsection

@@ -56,8 +56,8 @@
         </div>
 
         <div class="uk-width-1-3@m">
-            <img data-src="{{ asset('assets/images/subestacao.jpeg') }}" class="uk-border-rounded"
-                data-srcset="{{ asset('assets/images/subestacao.jpeg') }}" sizes="(min-width: 650px) 650px, 100vw"
+            <img data-src="{{ secure_asset('assets/images/subestacao.jpeg') }}" class="uk-border-rounded"
+                data-srcset="{{ secure_asset('assets/images/subestacao.jpeg') }}" sizes="(min-width: 650px) 650px, 100vw"
                 width="550" height="433" alt="" uk-img>
         </div>
     </div>

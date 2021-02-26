@@ -36,6 +36,7 @@
 
 .uk-text-black{
     color: rgb(19, 18, 18);
+    font-size: 1.01em !important;
 }
 
 .uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque{

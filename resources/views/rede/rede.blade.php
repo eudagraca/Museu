@@ -5,7 +5,7 @@
     <div class="uk-width-1-1@m" id="governanca">
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Rede da EDM</h3>
 
-        <p class="uk-dropcap uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
+        <p class="uk-dropcap uk-text uk-margin-left uk-margin-rightuk-text-justify uk-width-1-2@m">
             Quando a EDM foi criada em <b>27 de Agosto de 1977</b>, uns dos primeiros trabalhos que desenvolveu foi
             realizar um diagnóstico
             da situação realística no terreno onde foi possível perceber que a maquinaria que a acabava de herdar era de
@@ -18,7 +18,7 @@
             umas das
             acções que foram desencadeadas imediatamente pela EDM-EE para mitigar esta pode se destacar as seguintes:
         </p>
-        <ul class="uk-text uk-margin-large-left uk-text-justify">
+        <ul class="uk-text uk-margin-left uk-text-justify">
             <li class="uk-padding-small">Potenciar as Áreas Operacionais que dispunham de Centrais Eléctricas com novos
                 grupos geradores e
                 adquirir peças
@@ -47,11 +47,11 @@
                 para Electrificação do País.</li>
         </ul>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Actualmente a EDM apresenta-se,
+        <p class="uk-text uk-margin-left uk-margin-rightuk-text-justify">Actualmente a EDM apresenta-se,
             verticalmente integrada, cobrindo as áreas de Geração, Transporte, Distribuição e
             Comercialização de Energia.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Em 1977, 65% da energia consumida
+        <p class="uk-text uk-margin-left uk-margin-rightuk-text-justify">Em 1977, 65% da energia consumida
             no País provinha da SONEFE em Maputo e SHER em Manica. Os restantes 35% provinham de
             setecentas Centrais Privadas, onde 500 delas tinham uma capacidade inferior a 50KVA; sendo que a Cidade de
             Maputo é que
@@ -61,7 +61,7 @@
             ocupadas
             essencialmente pela população branca.</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Segundo os dados com referencia a
+        <p class="uk-text uk-margin-left uk-margin-rightuk-text-justify">Segundo os dados com referencia a
             31 de Dezembro de 2019, a Rede da EDM conta hoje com aproximadamente 245,2 MW de
             Capacidade Instalada e 192,3 MW de Capacidade Disponível; 5.6601Km de Rede de Transporte; 43.806Km de Rede
             de
@@ -69,7 +69,7 @@
             (26% da
             população) (EDM 2020).</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">Esta transformação substancial da
+        <p class="uk-text uk-margin-left uk-margin-rightuk-text-justify">Esta transformação substancial da
             Rede da EDM deveu-se à integração de outras fontes hídricas e térmicas, quer da
             empresa quer da HCB e produtores independentes, bem como a expansão da rede para vários centros urbanos.
             Contudo, resta
@@ -80,7 +80,7 @@
             aumentar a capacidade de produção de modo a dar resposta à crescente demanda de energia eléctrica (Baptista,
             2017).</p>
 
-        <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">A empresa tem em vista uma
+        <p class="uk-text uk-margin-left uk-margin-rightuk-text-justify">A empresa tem em vista uma
             carteira alargada de investimentos em produção, transporte e distribuição, mas as condições
             financeiras actuais da EDM e do país não têm sido favoráveis a esse investimento. A empresa continua a
             depender da ajuda
