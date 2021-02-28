@@ -11,7 +11,7 @@
 
                 <li><a class="uk-text-primary uk-active uk-text-normal"
                         href="{{ route('museu.show', 'details') }}">Museu</a></li>
-                <li><a href="#">Apresentação do MUSEU</a></li>
+                <li><a href="#">Apresentação da EDM</a></li>
             </ul>
         </div>
         <div class="uk-width-1-1@m uk-margin-remove" id="apresentacao">
