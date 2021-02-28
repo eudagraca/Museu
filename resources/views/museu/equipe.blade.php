@@ -1,14 +1,8 @@
 @extends('layouts.single-app')
 
 @section('content')
-
-
-
 <div>
-
     <div class="uk-container uk-margin-large-bottom" id="museu">
-
-
         <div uk-grid>
             <div class="uk-width-1-1">
                 <ul class="uk-breadcrumb uk-align-right uk-margin-large-top">
