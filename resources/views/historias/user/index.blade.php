@@ -2,14 +2,6 @@
 
 @section('content')
 
-<div uk-grid>
-    <div class="uk-width-1-1">
-        <ul class="uk-breadcrumb uk-align-right uk-margin-top">
-            <li><a class="uk-text-primary uk-active uk-text-normal" href="{{ route('home') }}">Inicio</a></li>
-
-            <li><a href="#">Contacto</a></li>
-        </ul>
-    </div>
     <div class="uk-container uk-margin-large-bottom">
 
         <div uk-grid>
@@ -81,6 +73,5 @@
             </div>
         </div>
     </div>
-</div>
 
 @endsection
