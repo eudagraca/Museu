@@ -111,9 +111,9 @@
                             width="150px" height="50px" alt="" uk-img></a>
 
                     <a class="uk-inline uk-margin-right uk-margin-top"
-                        href="{{ secure_asset('assets/images/centrais/Central_Termica_de_Temane.png') }}"
+                        href="{{ secure_asset('assets/images/centrais/Central_da_Beira.png') }}"
                         data-caption="Central da Beira localizada em Sofala com capacidade instalada de 14.0MW e capacidade disponivel de 2.0">
-                        <img src="{{ secure_asset('assets/images/centrais/Central_Termica_de_Temane.png') }}" class="uk-border-rounded"
+                        <img src="{{ secure_asset('assets/images/centrais/Central_da_Beira.png') }}" class="uk-border-rounded"
                             width="150px" height="50px" alt="" uk-img></a>
 
 

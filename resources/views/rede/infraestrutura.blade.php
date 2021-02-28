@@ -79,29 +79,29 @@
 
             <div class="uk-width-1-4@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ secure_asset('assets/images/paginas/linha_66kv.jpg') }}"
                     data-caption="Linha de 66kV">
-                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/linha_66kv.jpg') }}" class="uk-border-rounded"
                         width="230px" height="20px" alt="" uk-img></a>
-            
+
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}"
                     data-caption="Linha de 110kV">
-                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}" class="uk-border-rounded"
                         width="230px" height="20px" alt="" uk-img></a>
-            
+
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}"
                     data-caption="Linha de 220kV">
-                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}" class="uk-border-rounded"
                         width="230px" height="20px" alt="" uk-img></a>
-            
+
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}"
                     data-caption="Linha de 275kV">
-                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/linha_375kv.jpg') }}" class="uk-border-rounded"
                         width="230px" height="20px" alt="" uk-img></a>
-            
+
             </div>
         </div>
     </div>
