@@ -13,7 +13,7 @@
 
 html {
   /* 1 */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Arial Narrow;
   font-size: 16px;
   font-weight: normal;
   line-height: 1.5;
@@ -21,7 +21,7 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 3 */
   background: #fff;
-  color: #666;
+  color: rgb(3, 3, 3);
 }
 
 /*
@@ -98,7 +98,7 @@ strong {
 :not(pre) > kbd,
 :not(pre) > samp {
   /* 1 */
-  font-family: Consolas, monaco, monospace;
+  font-family: Arial Narrow;
   /* 2 */
   font-size: 0.875rem;
   /* 3 */
@@ -297,7 +297,7 @@ h6,
 .uk-heading-xlarge,
 .uk-heading-2xlarge {
   margin: 0 0 20px 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Arial Narrow;
   font-weight: normal;
   color: #333;
   text-transform: none;
@@ -2940,7 +2940,7 @@ select.uk-form-width-xsmall {
 /* Style modifiers
  ========================================================================== */
  .uk-text {
-    font-size: 1.05rem !important;
+    font-size: 1.06rem !important;
     color: #1b1b1b;
   }
   .uk-background-white{
@@ -6675,7 +6675,7 @@ ul.uk-nav-sub {
   padding: 0 15px;
   /* 3 */
   font-size: 0.875rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Arial Narrow;
   /* 4 */
   text-decoration: none;
 }
@@ -10715,8 +10715,8 @@ iframe.uk-cover {
  */
 
 .uk-logo {
-  font-size: 1.5rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-family: Arial Narrow;
   color: #666;
   /* 1 */
   text-decoration: none;

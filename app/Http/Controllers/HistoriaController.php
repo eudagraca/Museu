@@ -14,7 +14,7 @@ class HistoriaController extends Controller
      */
     public function index()
     {
-        //
+        return view('eletrificacao.index');
     }
 
     public function indexUser()
@@ -35,6 +35,11 @@ class HistoriaController extends Controller
     public function historiaElectDistribuicao()
     {
         return view('eletrificacao.distribuicao');
+    }
+
+    public function historiaElectComercial()
+    {
+        return view('eletrificacao.comercial');
     }
 
     /**

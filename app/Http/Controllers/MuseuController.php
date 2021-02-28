@@ -46,7 +46,7 @@ class MuseuController extends Controller
      */
     public function show($museu)
     {
-        return view('museu.details');
+        return view('museu.'.$museu);
     }
 
     public function apresentacao($apresentacao)
@@ -57,6 +57,10 @@ class MuseuController extends Controller
             return view('apresentacao.modelo');
         }elseif($apresentacao == "organica"){
             return view('apresentacao.organica');
+        }elseif($apresentacao == "missao"){
+            return view('apresentacao.missao_valores');
+        }else{
+            return abort(404);
         }
     }
 

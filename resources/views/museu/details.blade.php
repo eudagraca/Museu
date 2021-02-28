@@ -1,96 +1,90 @@
-@extends('layouts.app')
+@extends('layouts.single-app')
 
 @section('content')
-    <div class="uk-section uk-section-primary uk-margin-large-bottom uk-padding-remove-bottom">
-        <div class="uk-container" uk-sticky="top: 100; animation: uk-animation-slide-top; bottom: #sticky-on-scroll-up">
-            <nav class="uk-navbar uk-background-primary" uk-navbar style="position: relative; z-index: 980;">
-                <div class="uk-navbar-left">
-            <a class="uk-navbar-item uk-logo" href="{{ route('home')}}">
-            <h4 class="uk-heading-bullet uk-text-normal uk-margin-large-left uk-text-primary">Página inicial</h4>
-            </a>
-                </div>
-                <div class="uk-navbar-right">
-                    <ul class="uk-navbar-nav">
-                        <li class="uk-active uk-button-text"><a href="#" uk-scroll>Museu</a></li>
-                        <li class="uk-active">
-                            <a href="#missao" uk-scroll>Missão</a>
-                        </li>
-                        <li class="uk-active uk-button-text"><a href="#equipe" uk-scroll> Equipe e Mediateca</a></li>
-                    </ul>
-                </div>
-            </nav>
+
+<div class="uk-container uk-margin-large-bottom" id="museu">
+
+
+    <div uk-grid>
+        <div class="uk-width-1-1">
+            <ul class="uk-breadcrumb uk-align-right uk-margin-large-top">
+                <li><a class="uk-text-primary uk-active uk-text-normal" href="{{ route('home') }}">Inicio</a></li>
+
+                <li><a href="#">Museu</a></li>
+            </ul>
         </div>
-    </div>
-
-    <div class="uk-container uk-margin-large-bottom" id="museu">
-        <div uk-grid>
-            <div class="uk-width-expand@m uk-margin-large-right uk-margin-large-left">
-                <h2 class="uk-heading-bullet uk-margin-large-right uk-text-bold uk-text-primary uk-margin-small-bottom">O Museu</h2>
-                <p class="uk-text uk-dropcap uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    As primeiras iniciativas visando estabelecer a iluminação pública nas principais povoações da costa
-                    moçambicana datam da segunda metade do século XIX. Estes candeeiros, abastecidos a petróleo, foram pela
-                    primeira vez usados no baile que o então Capitão-General de Moçambique, realizado para celebrar o
-                    casamento do Rei D. Luís I de Portugal, em 18 de Julho de 18631. O mesmo viria a ocorrer em outras
-                    povoações como, por exemplo, na Beira, tendo-se estabelecido 30 candeeiros públicos, abastecidos a
-                    petróleo, logo em 18922.
-                </p>
-                <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    Em 1946 foi constituída a Sociedade Hidro-Eléctrica do Revué (SHER), com a concessão da exploração de
-                    energia hidroeléctrica do rio Revué e seus afluentes, na área de Chimoio.
-                </p>
-
-            </div>
+        <div class="uk-width-expand@m uk-margin-remove">
+            <h2 class="uk-heading-bullet uk-margin-large-right uk-text-bold uk-text-primary uk-margin-small-bottom">
+                O Museu</h2>
+            <p class="uk-text uk-dropcap uk-margin-left uk-margin-large-right uk-text-justify">
+                Museu da Eletricidade de Moçambique será um Museu Industrial da iniciativa empresarial, que surge no
+                seio da política da
+                Empresa Eletricidade de Moçambique (EDM),com objectivo de preservação do património elétrico e
+                divulgação da evolução da
+                EDM no seu todo.
+            </p>
+            <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+                Em Moçambique, não existe uma rede de museus da indústria, da técnica, ou sequer um Museu Nacional
+                vocacionado para esta
+                área de desenvolvimento do país, apesar de no passado recente ter existido um património industrial
+                e tecnológico
+                importante, na posse de grandes companhias privadas e instituições do Estado, tais como os casos dos
+                Caminhos de Ferro
+                de Moçambique e dos Correios, Telégrafos e Telefones, entre outros.
+            </p>
+            <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+                Os CAMINHOS DE FERRO DE MOÇAMBIQUE criaram o primeiro Museu Industrial em Moçambique, recolhendo
+                parte dos equipamentos
+                e maquinismos existentes no país, como são o caso das duas locomotivas que se encontram no átrio da
+                estação ferroviária
+                de Maputo. Este Museu teve um longo período de gestação, iniciado ainda na década de 1970, tendo
+                sido finalmente
+                inaugurado em 11 de junho de 2015.
+            </p>
         </div>
-        <hr class="uk-margin-medium-top">
-    </div>
-
-    {{-- Missao --}}
-    <div class="uk-container uk-margin-large-bottom" id="missao">
-
-        <div uk-grid>
-            <div class="uk-width-expand@m uk-margin-large-right uk-margin-large-left">
-                <h2 class="uk-heading-bullet uk-margin-large-right uk-text-bold uk-text-primary uk-margin-small-bottom">Missão</h2>
-                <p class="uk-text uk-dropcap uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    As primeiras iniciativas visando estabelecer a iluminação pública nas principais povoações da costa
-                    moçambicana datam da segunda metade do século XIX. Estes candeeiros, abastecidos a petróleo, foram pela
-                    primeira vez usados no baile que o então Capitão-General de Moçambique, realizado para celebrar o
-                    casamento do Rei D. Luís I de Portugal, em 18 de Julho de 18631. O mesmo viria a ocorrer em outras
-                    povoações como, por exemplo, na Beira, tendo-se estabelecido 30 candeeiros públicos, abastecidos a
-                    petróleo, logo em 18922.
-                </p>
-                <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    Em 1946 foi constituída a Sociedade Hidro-Eléctrica do Revué (SHER), com a concessão da exploração de
-                    energia hidroeléctrica do rio Revué e seus afluentes, na área de Chimoio.
-                </p>
-
-            </div>
-        </div>
-        <hr class="uk-margin-medium-top">
 
     </div>
 
-    {{-- Equipe --}}
-    <div class="uk-container uk-margin-large-bottom" id="equipe">
-
-        <div uk-grid>
-            <div class="uk-width-expand@m uk-margin-large-right uk-margin-large-left">
-                <h2 class="uk-heading-bullet uk-margin-large-right uk-text-bold uk-text-primary uk-margin-small-bottom">Equipe e Midiateca</h2>
-                <p class="uk-text uk-dropcap uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    As primeiras iniciativas visando estabelecer a iluminação pública nas principais povoações da costa
-                    moçambicana datam da segunda metade do século XIX. Estes candeeiros, abastecidos a petróleo, foram pela
-                    primeira vez usados no baile que o então Capitão-General de Moçambique, realizado para celebrar o
-                    casamento do Rei D. Luís I de Portugal, em 18 de Julho de 18631. O mesmo viria a ocorrer em outras
-                    povoações como, por exemplo, na Beira, tendo-se estabelecido 30 candeeiros públicos, abastecidos a
-                    petróleo, logo em 18922.
-                </p>
-                <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
-                    Em 1946 foi constituída a Sociedade Hidro-Eléctrica do Revué (SHER), com a concessão da exploração de
-                    energia hidroeléctrica do rio Revué e seus afluentes, na área de Chimoio.
-                </p>
-
-            </div>
-        </div>
-        <hr class="uk-margin-medium-top">
-
+    <div class="uk-width-1-1">
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+            Uma outra iniciativa foi igualmente tentada pela empresa TELECOMUNICAÇÕES DE MOÇAMBIQUE, na década
+            de 1990, chegando a
+            ter uma infraestrutura destinada a acolher o património a expor. Recolheu ainda alguns maquinismos e
+            equipamentos,
+            procedido à sua limpeza e manutenção, usando funcionários da empresa, já aposentados.
+        </p>
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+            O Museu da ELECTRICIDADE DE MOÇAMBIQUE, ganha assim uma especial relevância, pela quase inexistência
+            de outras
+            infraestruturas museológicas destinadas a preservar o património industrial. O âmbito do Museu da
+            ELECTRICIDADE DE
+            MOÇAMBIQUE ultrapassa a história da empresa, e o público interessado não só abrangem os seus
+            trabalhadores activos e
+            reformados e as suas famílias no seu todo, como também estudantes das diversas instituições de
+            ensino técnico do país a
+            que se junta ainda um vasto público ávido de conhecer aspectos ainda desconhecidos da história de
+            Moçambique. Pois, o
+            Museu da ELECTRICIDADE DE MOÇAMBIQUE, pode mostrar o percurso da empresa, participando na criação de
+            uma identidade
+            comum, ser usado como meio auxiliar do ensino das ciências e das técnicas nos níveis básico e
+            secundário, na
+            pós-graduação da história das ciências e técnicas bem como da museologia.
+        </p>
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+            Considerando que a instalação do Museu Permanente é um processo a médio e longo prazo, a EDM
+            decidiu, a curto prazo,
+            desenvolver acções com vista a tornar o Museu conhecido, tanto ao nível da EDM, assim como pelo
+            público em geral e,
+            simultaneamente, fazer a sensibilização para as questões da salvaguarda e proteção do Património da
+            Eletricidade.<br>
+            Uma dessas acções é a criação do presente “Museu Virtual da EDM”, para mostrar a evolução
+            tecnológica da EDM e da
+            eletrificação de Moçambique, narrativas ou depoimentos de alguns trabalhadores envolvidos na
+            operação de equipamentos e
+            em projectos de eletrificação e documentos relevantes (fotos, documentos, notícias).
+        </p>
     </div>
+</div>
+<hr class="uk-margin-medium-top">
+
 @endsection

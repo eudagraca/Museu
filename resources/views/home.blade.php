@@ -4,39 +4,33 @@
 
 <div>
     <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1"
-        uk-slideshow="min-height: 200; max-height: 450; animation: scale; autoplay: true; autoplay-interval: 1000">
+        uk-slideshow="min-height: 300; max-height: 550; animation: scale; autoplay: true; autoplay-interval: 3000">
         <ul class="uk-slideshow-items uk-background-contain">
             <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
-                <img src="{{ secure_asset('assets/images/subestacao.jpeg') }}" alt="" uk-cover>
-                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-background-secondary">
-                    <p class="uk-margin-remove uk-text-normal" style="color: white">Hidroelectrica de Revue Sussundenga
-                        Manica</p>
-                </div>
+                <img src="{{ secure_asset('assets/images/museu_virtual.png') }}" alt="" uk-img>
+
             </li>
             <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
+                <img src="{{ secure_asset('assets/images/Mocuba Central Solar (35).JPG') }}" alt="" uk-img>
+
+            </li>
+            {{--  <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
                 <img src="{{ secure_asset('assets/images/372.jpeg') }}" alt="" uk-cover>
                 <div class="uk-overlay uk-overlay-primary uk-background-secondary uk-position-bottom uk-text-center">
                     <p class="uk-margin-remove uk-text-normal" style="color: white">372.jpeg.</p>
                 </div>
+            </li>  --}}
+            <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
+                <img src="{{ secure_asset('assets/images/Central Chicambar5.JPG') }}" alt="" uk-contain>
+
+            </li>
+            {{--  <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle" >
+                <img src="{{ secure_asset('assets/images/Mocuba Central Solar (16).JPG') }}" alt="" uk-img>  --}}
+
             </li>
             <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
-                <img src="{{ secure_asset('assets/images/betonagem_infraestrutura.jpeg') }}" alt="" uk-cover>
-                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-background-secondary">
-                    <p class="uk-margin-remove uk-text-normal" style="color: white">Betonagem da infraestrutura.</p>
-                </div>
-            </li>
-            <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
-                <img src="{{ secure_asset('assets/images/subestacao_n2.jpeg') }}" alt="" uk-cover>
-                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-background-secondary">
-                    <p class="uk-margin-remove uk-text-normal" style="color: white">Subestação n*2 (S.E.2) da cidade
-                        de Maputo, 30/11 Kv.</p>
-                </div>
-            </li>
-            <li class="uk-background-contain uk-flex uk-flex-center uk-flex-middle">
-                <img src="{{ secure_asset('assets/images/central_de_chicamba.jpeg') }}">
-                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-background-secondary">
-                    <p class="uk-margin-remove uk-text-normal">Central de chicamba, conditas de agua</p>
-                </div>
+                <img src="{{ secure_asset('assets/images/central_de_chicamba.jpeg') }}" uk-img>
+
             </li>
         </ul>
         <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous

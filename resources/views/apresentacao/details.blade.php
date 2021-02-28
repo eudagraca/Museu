@@ -13,16 +13,11 @@
     <div class="uk-width-1-1@m" id="apresentacao">
         <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Apresentação da EDM</h3>
 
-        <p class="uk-dropcap uk-text uk-margin-left uk-margin-right uk-text-justify">
-            A Empresa Nacional de Electricidade de Moçambique Empresa Estatal, (EDM-E.E) foi criada em 27 de Agosto de
-            1977, através
-            do Decreto Lei nº 38/77 de 27 de Agosto, que resultou da integração de vários Serviços Municipais de Água e
-            Electricidade (SMAE), Sociedade Hidro-Eléctrica do Revué (SHER), Sociedade Nacional de Estudos e
-            Financiamentos de
-            Empreendimentos Ultramarinos (SONEFE), Serviços Municipalizados de Electricidade (SME) e Serviços de Água e
-            Electricidade (SAE). Em 1995 a EDM foi transformada numa empresa pública, ao abrigo do decreto nº 28/95, com
-            a
-            designação da EDM-Electricidade de Moçambique, Empresa Pública (EDM – E.P).
+        <p class="uk-text uk-margin-left uk-margin-large-top uk-margin-right uk-text-justify">
+            Em 27 de Agosto de 1977, através do Decreto Lei nº 38/77 de 27 de Agosto, foi criada a Electricidade de Moçambique,
+            Empresa Estatal, (EDM-E.E), que resultou da integração de vários Serviços Municipais de Água e Electricidade (SMAE),
+            Sociedade Hidro-Eléctrica do Revué (SHER), Sociedade Nacional de Estudos e Financiamentos de Empreendimentos
+            Ultramarinos (SONEFE), Serviços Municipalizados de Electricidade (SME) e Serviços Autónomos de Electricidade (SAE)..
         </p>
 
         <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">O sector de energia é considerado prioritário

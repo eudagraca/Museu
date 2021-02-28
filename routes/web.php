@@ -46,3 +46,4 @@ Route::resource('rede', App\Http\Controllers\RedeController::class);
 Route::get('eletrificacao/geracao', [App\Http\Controllers\HistoriaController::class, 'historiaElectGeracao'])->name('eletrificacao.geracao');
 Route::get('eletrificacao/transporte', [App\Http\Controllers\HistoriaController::class, 'historiaElectTransporte'])->name('eletrificacao.transporte');
 Route::get('eletrificacao/distribuicao', [App\Http\Controllers\HistoriaController::class, 'historiaElectDistribuicao'])->name('eletrificacao.distribuicao');
+Route::get('eletrificacao/comercial', [App\Http\Controllers\HistoriaController::class, 'historiaElectComercial'])->name('eletrificacao.comercial');

@@ -14,11 +14,20 @@
                 </div>
                 <h3
                     class="uk-h3 uk-text-bold uk-padding-small uk-margin-remove-top uk-background-default uk-text- uk-text-primary uk-align-center">
-                    Seja bem vindo ao Museu Virtual da EDM</h3>
-                <a class="uk-button uk-button-primary uk-align-center" href="{{ route('home')}}">Entrar no museu</a>
+                    Museu Virtual da EDM</h3>
+                <a class="uk-button uk-button-primary uk-align-center" href="{{ route('home')}}">Início</a>
             </div>
         </div>
     </div>
+</div>
+
+<div class=" uk-background-primary">
+    <p class="uk-text-center uk-custom-text-white uk-margin-remove uk-padding-small uk-text-light">
+        &copy; Todos direitos reservados
+        <script>
+            document.write(new Date().getFullYear());
+        </script>, Electricidade de Moçambique.
+    </p>
 </div>
 
 

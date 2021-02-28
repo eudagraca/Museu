@@ -8,7 +8,7 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>Museu EDM</title>
+        <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
@@ -19,28 +19,45 @@
         <div id="app">
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
-                    <a class="uk-logo" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}" alt=""
-                            srcset=""></a>
+                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
+                            alt="" srcset=""></a>
                 </div>
                 <div
                     uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
 
                     <nav class="uk-navbar-container" uk-navbar style="position: relative; z-index: 980;">
                         <div class="uk-navbar-left">
-                            <a class="uk-navbar-item uk-logo uk-custom-text-white" href="/">MUSEU</a>
+                            <a class="uk-navbar-item uk-logo uk-custom-text-white" href="/">INÍCIO</a>
                         </div>
                         <div class="uk-navbar-right">
                             <ul class="uk-navbar-nav uk-nav-parent-icon">
 
                                 <li class="uk-active">
-                                    <a href="#">Apresentação da EDM</a>
-                                    <div class="uk-navbar-dropdown">
+                                    <a href="{{ route('museu.show', 'details') }}">MUSEU<span
+                                            uk-icon="icon: chevron-down"></span></a>
+                                    <div class="uk-navbar-dropdown uk-margin-remove-top">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
                                             <li class="uk-active uk-text-normal"><a
-                                                    href="{{ route('apresentacao') }}">Apresentação da EDM</a></li>
+                                                    href="{{ route('museu.show', 'missao') }}">Missão</a></li>
+                                            <li class="uk-active uk-text-normal"><a
+                                                    href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a></li>
+
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="uk-active">
+                                    <a href="{{ route('apresentacao') }}">Apresentação da EDM<span
+                                            uk-icon="icon: chevron-down"></span></a>
+                                    <div class="uk-navbar-dropdown uk-margin-remove-top">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li class="uk-active uk-text-normal uk-parent"><a
+                                                    href="{{ route('apresentacao.display', 'missao') }}">Missão, visão e
+                                                    valores</a>
+                                            </li>
 
                                             <li class="uk-parent uk-active">
-                                                <a class="uk-active" href="{{ route('rede.index') }}">Rede da EDM</a>
+                                                <a class="uk-active" href="{{ route('rede.index') }}">Plano
+                                                    operacional</a>
                                                 <ul class="uk-nav-sub">
                                                     <li class="uk-active uk-text-normal"><a
                                                             href="{{ route('rede.show', "geracao") }}">1. Geração</a>
@@ -58,22 +75,10 @@
                                                             class="uk-active">4. Comercial</a>
                                                         <ul class="uk-nav-sub">
                                                             <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "servicos") }}">4.1.
-                                                                    Serviço essencial</a></li>
-                                                            <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "estruturaclientes") }}">4.2.
-                                                                    Estrutura de clientes</a></li>
-                                                            <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "atendimentoaocliente") }}">4.3.
-                                                                    Forma de atendimento</a></li>
-                                                            <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "formasdepagamento") }}">4.4.
-                                                                    Forma de pagamento</a></li>
-                                                            <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "categoriastarifarias") }}">4.5.
+                                                                    href="{{ route('rede.show', "categoriastarifarias") }}">4.1.
                                                                     Categorias tarifarias</a></li>
                                                             <li class="uk-active"><a
-                                                                    href="{{ route('rede.show', "perdasdeenergia") }}">4.6.
+                                                                    href="{{ route('rede.show', "perdasdeenergia") }}">4.1.
                                                                     Redução de perdas de energia</a></li>
 
                                                         </ul>
@@ -84,8 +89,9 @@
                                     </div>
                                 </li>
 
-                                <li class="uk-active uk-button-text"><a href="#">História de eletrificação</a>
-                                    <div class="uk-navbar-dropdown">
+                                <li class="uk-active uk-button-text"><a href="{{ route('historia.index') }}">História de
+                                        eletrificação<span uk-icon="icon: chevron-down"></span></a>
+                                    <div class="uk-navbar-dropdown uk-margin-remove-top">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
                                             <li class="uk-active"><a
                                                     href="{{ route('eletrificacao.geracao') }}">História de geração</a>
@@ -96,49 +102,35 @@
                                             <li class="uk-active"><a
                                                     href="{{ route('eletrificacao.distribuicao') }}">História de
                                                     distribuição </a></li>
+                                            <li class="uk-active"><a
+                                                    href="{{ route('eletrificacao.comercial') }}">História de
+                                                    comercialização </a></li>
                                         </ul>
                                     </div>
                                 </li>
-
-                                <li class="uk-active uk-button-text"><a href="linha_do_tempo.html">Legislação</a></li>
-
                                 <li class="uk-active uk-button-text"><a href="{{ route('linha_do_tempo')}}">Linha do
                                         tempo</a></li>
 
-                                {{-- <li class="uk-active uk-button-text"><a href="galeria.html">Galeria</a>
-                            <div class="uk-navbar-dropdown">
-                                <ul class="uk-nav uk-navbar-dropdown-nav">
-                                    <li class="uk-active"><a href="{{ route('galeria.show', 'comercial') }}">Área
-                                Comercial </a></li>
-                                <li class="uk-active"><a href="{{ route('galeria.show', 'geracao') }}">Geração</a></li>
-                                <li class="uk-active"><a href="{{ route('galeria.show', 'distribuicao') }}">Distribuição
-                                    </a></li>
-                                <li class="uk-active"><a href="#">Transmissão </a></li>
-
+                                <li class="uk-active uk-button-text"><a href="{{ route('historia.user') }}">Histórias de
+                                        Vida</a></li>
+                                <li class="uk-active uk-button-text"><a href="{{ route('contacto') }}">Contacto</a></li>
                             </ul>
+
                         </div>
-                        </li> --}}
-                        <li class="uk-active uk-button-text"><a href="{{ route('historia.user') }}">Histórias de
-                                Vida</a></li>
-                        <li class="uk-active uk-button-text"><a href="{{ route('contacto') }}">Contacto</a></li>
-                        </ul>
-
+                    </nav>
                 </div>
-                </nav>
-        </div>
-        @yield('content')
-        </main>
+                @yield('content')
+            </main>
 
-        <div class=" uk-background-secondary">
-            <p class="uk-text-center uk-custom-text-white uk-margin-remove uk-padding-small uk-text-light">
-                &copy; Todos direitos reservados
-                <script>
-                    document.write(new Date().getFullYear());
-                </script>, Electricidade de Moçambique.
-            </p>
-        </div>
-        </div>
-        <script src="{{ secure_asset('js/app.js') }}" defer></script>
+            <div class=" uk-background-secondary">
+                <p class="uk-text-center uk-custom-text-white uk-margin-remove uk-padding-small uk-text-light">
+                    &copy; Todos direitos reservados
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script>, Electricidade de Moçambique.
+                </p>
+            </div>
+            <script src="{{ secure_asset('js/app.js') }}" defer></script>
     </body>
 
 </html>

@@ -8,7 +8,7 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>Museu EDM</title>
+        <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet" type="text/css">
