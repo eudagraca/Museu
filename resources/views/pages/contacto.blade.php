@@ -53,14 +53,14 @@
                     <label class="uk-form-label" for="form-stacked-text">Localização | endereço</label>
                     <div class="uk-form-controls">
 
-                        <label id="form-stacked-text" >Direção da Academia da EDM</label>
+                        <label id="form-stacked-text" >Direção da Academia da EDM</label><br>
                         <label id="form-stacked-text">Av, Eduardo Mondlane nº 1352, 2º Andar, Maputo - Moçambique</label>
                     </div>
                 </div>
                 <div class="uk-margin-small">
                     <label class="uk-form-label" for="form-stacked-text">Telefone</label>
                     <div class="uk-form-controls">
-                        <label id="form-stacked-text" >+258 843400098</label>
+                        <label id="form-stacked-text" >+258 843400098 | </label>
                         <label id="form-stacked-text" >+258 829970091</label>
                     </div>
                 </div>
