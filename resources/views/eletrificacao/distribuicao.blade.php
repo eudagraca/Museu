@@ -56,80 +56,82 @@
                 foi anulado.
                 Quando foi relançado em 1954, argumentaram da seguinte forma:</p>
 
-        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">&quot;Porém, no
-            concurso
-            agora em andamento foi introduzido algumas importantes alterações para corresponder ao enorme
-            desenvolvimento que a cidade, entretanto teve e aos condicionamentos que o Plano de Urbanização veio
-            impôr</p>
-        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
-            Prevendo-se uma redução sensível no peso dos cabos eléctricos, estabeleceu-se que a Rede passasse a
-            ser
-            emalhada na
-            Baixa Tensão e que o respectivo projecto fosse elaborado pelo respectivo concorrente a métodos de
-            cálculo mais recentes
-            e a análise experimental sobre o modelo eléctrico reduzido da Rede.</p>
-        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
-            Incluiu-se na empreitada o equipamento para iluminação pública e a montagem de todos os materiais e
-            construção dos
-            edifícios para as Subestações, postos de Transformação, etc. Impuseram-se medidas para permitir
-            ampliação da Rede para
-            as zonas de expansão indígenas e da indústria pesada etc..</p>
-        <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
-            Como a natureza característica, dimensionamento dos materiais a fornecer dependem do projecto a
-            apresentar e o concurso
-            ainda não está resolvido, fica-se impossibilitado de avaliar correctamente o custo da empreitada”.
-            (Acta
-            07/54, de 18 de
-            Fevereiro).
-        </p>
+            <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
+                &quot;Porém, no
+                concurso
+                agora em andamento foi introduzido algumas importantes alterações para corresponder ao enorme
+                desenvolvimento que a cidade, entretanto teve e aos condicionamentos que o Plano de Urbanização veio
+                impôr</p>
+            <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
+                Prevendo-se uma redução sensível no peso dos cabos eléctricos, estabeleceu-se que a Rede passasse a
+                ser
+                emalhada na
+                Baixa Tensão e que o respectivo projecto fosse elaborado pelo respectivo concorrente a métodos de
+                cálculo mais recentes
+                e a análise experimental sobre o modelo eléctrico reduzido da Rede.</p>
+            <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
+                Incluiu-se na empreitada o equipamento para iluminação pública e a montagem de todos os materiais e
+                construção dos
+                edifícios para as Subestações, postos de Transformação, etc. Impuseram-se medidas para permitir
+                ampliação da Rede para
+                as zonas de expansão indígenas e da indústria pesada etc..</p>
+            <p class="uk-text uk-text-italic uk-margin-left uk-margin-right uk-text-justify uk-margin-small-top">
+                Como a natureza característica, dimensionamento dos materiais a fornecer dependem do projecto a
+                apresentar e o concurso
+                ainda não está resolvido, fica-se impossibilitado de avaliar correctamente o custo da empreitada”.
+                (Acta
+                07/54, de 18 de
+                Fevereiro).
+            </p>
+
+            <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">A Câmara em 1954 autorizou o
+                relançamento
+                do concurso, com a prerrogativa de o projecto da Rede ser efectuado pelo
+                concorrente, com base nos cálculos recentes etc. Para suprir as despesas da empreitada, os SMAE
+                enveredaram pelo crédito
+                bancário no Banco Nacional Ultramarino no valor de 120.000 contos. O processo levou mais dois anos
+                antes
+                da adjudicação
+                das obras, apenas em 1956 era homologado e declarado vencedor a firma Justo Meneses (SEREL).
+                Contudo,
+                foi um concurso
+                recheado de controvérsias e contestações por parte dos S.M.A.E e a tutela (Câmara) incluindo outros
+                organismos
+                relevantes, quer em termos de quem devia ganhar o concurso quer na pressão para os pagamentos a
+                favor do
+                empreiteiro
+                etc.
+            </p>
         </div>
         <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/distribuicao.png') }}"
                 data-caption="Rede de distribuição de energia em Cuamba">
-                <img src="{{ secure_asset('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded" width="250px"
-                    height="50px" alt="" uk-img></a>
+                <img src="{{ secure_asset('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded"
+                    width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Rede de distribuição de energia em Cuamba</p>
 
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/distribuicao_poste.jpeg') }}"
                 data-caption="Obras de reabilitação da rede primária">
-                <img src="{{ secure_asset('assets/images/paginas/distribuicao_poste.jpeg') }}" class="uk-border-rounded" width="250px"
-                    height="50px" alt="" uk-img></a>
+                <img src="{{ secure_asset('assets/images/paginas/distribuicao_poste.jpeg') }}" class="uk-border-rounded"
+                    width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Obras de reabilitação da rede primária</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/posto_transformacao.jpeg') }}"
                 data-caption="Rede de distribuição de energia em Cuamba">
-                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao.jpeg') }}" class="uk-border-rounded" width="250px"
-                    height="50px" alt="" uk-img></a>
+                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao.jpeg') }}"
+                    class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Posto de transformção rual 33/0.4 kV</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/posto_transformacao01.jpeg') }}"
                 data-caption="Posto de transformção rual 33/0.4 kV">
-                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao01.jpeg') }}" class="uk-border-rounded" width="250px"
-                    height="50px" alt="" uk-img></a>
+                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao01.jpeg') }}"
+                    class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Posto de transformção rual 33/0.4 kV</p>
         </div>
 
-        <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">A Câmara em 1954 autorizou o
-            relançamento
-            do concurso, com a prerrogativa de o projecto da Rede ser efectuado pelo
-            concorrente, com base nos cálculos recentes etc. Para suprir as despesas da empreitada, os SMAE
-            enveredaram pelo crédito
-            bancário no Banco Nacional Ultramarino no valor de 120.000 contos. O processo levou mais dois anos
-            antes
-            da adjudicação
-            das obras, apenas em 1956 era homologado e declarado vencedor a firma Justo Meneses (SEREL).
-            Contudo,
-            foi um concurso
-            recheado de controvérsias e contestações por parte dos S.M.A.E e a tutela (Câmara) incluindo outros
-            organismos
-            relevantes, quer em termos de quem devia ganhar o concurso quer na pressão para os pagamentos a
-            favor do
-            empreiteiro
-            etc.
-        </p>
-
-        <p class="uk-text uk-margin-left uk-margin-small-topuk-margin-right uk-text-justify uk-margin-small-top">O  primeiro ano das obras foi
+        <p class="uk-text uk-margin-left uk-margin-small-topuk-margin-right uk-text-justify uk-margin-small-top">O
+            primeiro ano das obras foi
             dedicado
             essencialmente para aquisição dos materiais e os restantes a execução das obras.
             No final das obras da Rede de Distribuição da Cidade de Lourenço Marques foram removidos todos os
