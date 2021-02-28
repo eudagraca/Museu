@@ -53,7 +53,7 @@
                     <label class="uk-form-label uk-text-bold" for="form-stacked-text">Localização | endereço</label>
                     <div class="uk-form-controls">
 
-                        <label id="form-stacked-text" >Direção da Academia da EDM</label><br>
+                        <label id="form-stacked-text" >Direcção da Academia da EDM</label><br>
                         <label id="form-stacked-text">Av, Eduardo Mondlane nº 1352, 2º Andar, Maputo - Moçambique</label>
                     </div>
                 </div>
