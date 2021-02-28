@@ -50,7 +50,7 @@
             <div class="uk-width-1-2@s uk-margin-top">
 
                 <div class="uk-margin-small">
-                    <label class="uk-form-label" for="form-stacked-text">Localização | endereço</label>
+                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Localização | endereço</label>
                     <div class="uk-form-controls">
 
                         <label id="form-stacked-text" >Direção da Academia da EDM</label><br>
@@ -58,9 +58,9 @@
                     </div>
                 </div>
                 <div class="uk-margin-small">
-                    <label class="uk-form-label" for="form-stacked-text">Telefone</label>
+                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Telefone</label>
                     <div class="uk-form-controls">
-                        <label id="form-stacked-text" >+258 843400098 | </label>
+                        <label id="form-stacked-text" >+258 843400098 <br> </label>
                         <label id="form-stacked-text" >+258 829970091</label>
                     </div>
                 </div>
