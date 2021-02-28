@@ -43,7 +43,7 @@
                         <div class="uk-card">
                             <div class="uk-card-media-top">
                                 <img class="uk-border-circle" style="height: 200px;"
-                                    src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                                    src="{{ secure_asset('/assets/images/equipe/Jeronimo.JPG') }}" alt="">
                             </div>
                             <div class="uk-card-body">
                                 <h5 class="uk-text-primary uk-text-bold">Jerónimo Nhussi</h5>
