@@ -4,17 +4,17 @@
 
 <div class="uk-container uk-margin-large-bottom uk-margin-large-top">
 
-    <div uk-grid>
+    <div uk-grid >
         <div class="uk-width-1-1">
-            <ul class="uk-breadcrumb uk-align-right uk-margin-large-top">
+            <ul class="uk-breadcrumb uk-align-right uk-margin-top">
                 <li><a class="uk-text-primary uk-active uk-text-normal" href="{{ route('home') }}">Inicio</a></li>
 
                 <li><a class="uk-text-primary uk-active uk-text-normal"
                         href="{{ route('museu.show', 'details') }}">Museu</a></li>
-                <li><a href="#">Equie técnica</a></li>
+                <li><a href="#">Apresentação do MUSEU</a></li>
             </ul>
         </div>
-        <div class="uk-width-1-1@m" id="apresentacao">
+        <div class="uk-width-1-1@m uk-margin-remove" id="apresentacao">
             <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Apresentação da EDM</h3>
 
             <p class="uk-text uk-margin-left uk-margin-large-top uk-margin-right uk-text-justify">
