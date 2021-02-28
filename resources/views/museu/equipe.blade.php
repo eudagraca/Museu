@@ -31,7 +31,7 @@
 
                         <div class="uk-card">
                             <div class="uk-card-media-top">
-                                <img class="uk-border-circle" style="height: 200px;"
+                                <img class="uk-border-rounded" style="height: 200px;"
                                     src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
                             </div>
                             <div class="uk-card-body">
@@ -42,7 +42,7 @@
 
                         <div class="uk-card">
                             <div class="uk-card-media-top">
-                                <img class="uk-border-circle" style="height: 200px;"
+                                <img class="uk-border-rounded" style="height: 200px;"
                                     src="{{ secure_asset('/assets/images/equipe/Jeronimo.JPG') }}" alt="">
                             </div>
                             <div class="uk-card-body">
@@ -53,7 +53,7 @@
 
                         <div class="uk-card">
                             <div class="uk-card-media-top">
-                                <img class="uk-border-circle" style="height: 200px;"
+                                <img class="uk-border-rounded" style="height: 200px;"
                                     src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
                             </div>
                             <div class="uk-card-body">
