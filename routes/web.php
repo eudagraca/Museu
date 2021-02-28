@@ -47,3 +47,4 @@ Route::get('eletrificacao/geracao', [App\Http\Controllers\HistoriaController::cl
 Route::get('eletrificacao/transporte', [App\Http\Controllers\HistoriaController::class, 'historiaElectTransporte'])->name('eletrificacao.transporte');
 Route::get('eletrificacao/distribuicao', [App\Http\Controllers\HistoriaController::class, 'historiaElectDistribuicao'])->name('eletrificacao.distribuicao');
 Route::get('eletrificacao/comercial', [App\Http\Controllers\HistoriaController::class, 'historiaElectComercial'])->name('eletrificacao.comercial');
+Route::get('eletrificacao/credelec', [App\Http\Controllers\HistoriaController::class, 'historiaElectCredelec'])->name('eletrificacao.credelec');

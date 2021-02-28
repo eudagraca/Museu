@@ -70,7 +70,8 @@
                         <label class="uk-form-label uk-text-bold" for="form-stacked-text">Localização | endereço</label>
                         <div class="uk-form-controls">
 
-                            <label id="form-stacked-text">Direcção da Academia da EDM</label><br>
+                            <label id="form-stacked-text" class="uk-text-bold uk-text-normal uk-text-uppercase">Direcção da Academia da EDM</label><br>
+                            <label id="form-stacked-text" class="uk-text-bold uk-text-normal">Departamento de gestão de conhecimento</label><br>
                             <label id="form-stacked-text">Av, Eduardo Mondlane nº 1352, 2º Andar, Maputo -
                                 Moçambique</label>
                         </div>
@@ -84,9 +85,9 @@
                     </div>
 
                     <p class="uk-text uk-text-justify">
-                        Caro visitante, pode entrar em contacto connosco apartir do formulário ao lado. Teremos imenso
+                        Caro visitante, pode entrar em contacto connosco apartir do formulário ao lado.<br> Teremos imenso
                         prazer em
-                        poder conversar | sanar as suas dúvidas. <br>Até logo! :)
+                        poder conversar ou sanar as suas dúvidas e receber suas contribuições. <br>Até logo! :)
                     </p>
                 </div>
             </div>

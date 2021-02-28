@@ -19,8 +19,8 @@
         <div id="app">
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
-                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
-                            alt="" srcset=""></a>
+                    <a class="uk-logo uk-text-normal" href="#"><img
+                            src="{{ secure_asset('assets/images/logo_edm.png') }}" alt="" srcset=""></a>
                 </div>
                 <div
                     uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
@@ -105,6 +105,10 @@
                                             <li class="uk-active"><a
                                                     href="{{ route('eletrificacao.comercial') }}">História de
                                                     comercialização </a></li>
+
+                                            <li class="uk-active"><a
+                                                    href="{{ route('eletrificacao.credelec') }}">Sistema de
+                                                    Pré-pagamento de Electricidade</a></li>
                                         </ul>
                                     </div>
                                 </li>

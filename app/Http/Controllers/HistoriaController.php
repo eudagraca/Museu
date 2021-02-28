@@ -42,6 +42,11 @@ class HistoriaController extends Controller
         return view('eletrificacao.comercial');
     }
 
+    public function historiaElectCredelec()
+    {
+        return view('eletrificacao.credelec');
+    }
+
     /**
      * Show the form for creating a new resource.
      *
