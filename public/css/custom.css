@@ -44,3 +44,11 @@
 .uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque{
     font-size: large;
 }
+
+.uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide {
+    background-color: #fa7f22;
+}
+
+.uk-navbar-toggle {
+    color: #fff !important;
+}

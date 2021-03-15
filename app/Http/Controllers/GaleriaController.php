@@ -14,7 +14,7 @@ class GaleriaController extends Controller
      */
     public function index()
     {
-        return view('galeria.index');
+        return view('galeria.user.index');
     }
 
     /**
