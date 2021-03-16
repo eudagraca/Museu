@@ -41,24 +41,4 @@
     <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
 </div>
 
-
-<div class="uk-container uk-margin-large-bottom" id="museu">
-    <h2 class="uk-heading-bullet uk-text-bolder uk-margin-large-left uk-text-primary">Museu Virtual</h2>
-
-    <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
-        O Museu da Electicidade de Moçambique é um espaço pedagógico de carácter científico e tecnológico, onde, de
-        forma lúdica e interactiva, poder-se-á ter acesso a informações sobre o passado e o presente desta
-        instituição.
-    </p>
-</div>
-
-<div class="uk-container uk-margin-large-bottom" id="museu">
-    <h2 class="uk-heading-bullet uk-text-bolder uk-margin-large-left uk-text-primary">Missão</h2>
-
-    <p class="uk-text uk-margin-large-left uk-margin-large-right uk-text-justify">
-        MUSEU VIRTUAL da EDM tem como proposito a promoção de Electricidade de Moçambique, enquanto conceito, imagem e paradigma
-        de Electrificação e valor histórico das suas Infraestruturas.
-    </p>
-</div>
-
 @endsection
