@@ -102,9 +102,9 @@
 
             <div class="uk-grid">
                 <div class="uk-width-1-3@m uk-align-center">
-                    <img data-src="{{ secure_asset('assets/images/modelo_de_governanca.png') }}"
+                    <img data-src="{{ secure_asset('('assets/images/modelo_de_governanca.png') }}"
                         class="uk-border-rounded"
-                        data-srcset="{{ secure_asset('assets/images/modelo_de_governanca.png') }}"
+                        data-srcset="{{ secure_asset('('assets/images/modelo_de_governanca.png') }}"
                         sizes="(min-width: 350px) 450px, 100vw" width="350px" height="233px" alt="" uk-img>
                 </div>
 
@@ -176,9 +176,9 @@
             <h3 class="uk-heading-bullet uk-text-bolder uk-text-primary">Estrutura Organizacional de Alto Nível</h3>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ secure_asset('assets/images/estrutura_organizacional.png') }}"
+                <a class="uk-inline" href="{{ secure_asset('('assets/images/estrutura_organizacional.png') }}"
                     data-caption="Estrutura Organizacional de Alto Nível">
-                    <img src="{{ secure_asset('assets/images/estrutura_organizacional.png') }}"
+                    <img src="{{ secure_asset('('assets/images/estrutura_organizacional.png') }}"
                         class="uk-border-rounded" width="850px" height="533px" alt="" uk-img></a>
             </div>
         </div>  --}}

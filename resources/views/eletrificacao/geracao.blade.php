@@ -52,9 +52,9 @@
                         </p>
                     </div>
                     <div class="uk-width-1-4@m uk-align-center" uk-lightbox="animation: slide">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/delagoa.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/delagoa.png') }}"
                             data-caption="Apesar dos progressos alcançados na vigência da COMPAGNE D’ELECTRICITE,  cedeu lugar, em finais de 1902, À DELAGOA BAY DEVELOPMENT CORPORATION LTDA, que havia ganho em 1901 o concurso para a implementação dos Carros Eléctricos na Cidade.">
-                            <img src="{{ secure_asset('assets/images/paginas/delagoa.png') }}" class="uk-border-rounded"
+                            <img src="{{ secure_asset('('assets/images/paginas/delagoa.png') }}" class="uk-border-rounded"
                                 width="250px" height="50px" alt="" uk-img></a>
                         <p class="uk-text-meta uk-text-justify">Apesar dos progressos alcançados na vigência da COMPAGNE
                             D’ELECTRICITE, cedeu lugar, em finais de 1902, À DELAGOA BAY
@@ -112,9 +112,9 @@
 
                     </div>
                     <div class="uk-width-1-4@m uk-align-center" uk-lightbox="animation: slide">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/centrais_sommerchield.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/centrais_sommerchield.png') }}"
                             data-caption="Imagem da central da 24 de Julho.  Iniciou como oficina dos carros electricos em 1901 e mais tarde associou a produção e Fornecimento de energia electrica a cidade de 1914-1963, altura que viria a ser encerrada a parte de geração.">
-                            <img src="{{ secure_asset('assets/images/paginas/centrais_sommerchield.png') }}"
+                            <img src="{{ secure_asset('('assets/images/paginas/centrais_sommerchield.png') }}"
                                 class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
                         <p class="uk-text-justify uk-text-meta">Imagem da central da 24 de Julho. Iniciou como oficina
                             dos
@@ -139,9 +139,9 @@
 
                     </div>
                     <div class="uk-width-1-4@m uk-align-center" uk-lightbox="animation: slide">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/nova_central_termica.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/nova_central_termica.png') }}"
                             data-caption="Central Térmica de Lourenço Marques">
-                            <img src="{{ secure_asset('assets/images/paginas/nova_central_termica.png') }}"
+                            <img src="{{ secure_asset('('assets/images/paginas/nova_central_termica.png') }}"
                                 class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
                         <p class="uk-text-meta">Central Térmica de Lourenço Marques</p>
                     </div>
@@ -200,9 +200,9 @@
                 </div>
 
                 <div class="uk-width-1-4@m uk-align-center" uk-lightbox="animation: slide">
-                    <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/central_munhava.jpg') }}" data-caption="Central Termoeléctrica de
+                    <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/central_munhava.jpg') }}" data-caption="Central Termoeléctrica de
             Munhava na Beira">
-                        <img src="{{ secure_asset('assets/images/paginas/central_munhava.jpg') }}" class="uk-border-rounded"
+                        <img src="{{ secure_asset('('assets/images/paginas/central_munhava.jpg') }}" class="uk-border-rounded"
                             width="250px" height="50px" alt="" uk-img></a>
                     <p class="uk-text-meta">Central Termoeléctrica de
                         Munhava na Beira</p>
@@ -233,24 +233,24 @@
 
                         <div class="uk-width-1-4@m uk-align-center" uk-lightbox="animation: slide">
                             <a class="uk-inline"
-                                href="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
+                                href="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
                                 data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                                <img src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
+                                <img src="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
                                     class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
                             <p>Central de Mavuzi com capacidade de 50 MW</p>
 
 
                             <a class="uk-inline uk-margin-top"
-                                href="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi01.png') }}"
+                                href="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi01.png') }}"
                                 data-caption="Interior da Central Hidroelectrica de Mavuzi, antes da Reabilitação.">
-                                <img src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi01.png') }}"
+                                <img src="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi01.png') }}"
                                     class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
                             <p>Central Hidroeléctrica de Mavuzi com a capacidade de 52 MW.</p>
 
                             <a class="uk-inline uk-margin-top"
-                                href="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi03.png') }}"
+                                href="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi03.png') }}"
                                 data-caption="Açude  de  Mavuzi.">
-                                <img src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi03.png') }}"
+                                <img src="{{ secure_asset('('assets/images/paginas/barragens_vhicamba__mavuzi03.png') }}"
                                     class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
                             <p>Açude de Mavuzi.</p>
                         </div>

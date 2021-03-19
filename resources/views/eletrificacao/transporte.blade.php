@@ -26,16 +26,16 @@
             </p>
         </div>
         <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
-            <a class="uk-inline" href="{{ secure_asset('assets/images/missing.jpg') }}" data-caption="Central Termoeléctrica de
+            <a class="uk-inline" href="{{ secure_asset('('assets/images/missing.jpg') }}" data-caption="Central Termoeléctrica de
                         Munhava na Beira">
-                <img src="{{ secure_asset('assets/images/missing.jpg') }}" class="uk-border-rounded"
+                <img src="{{ secure_asset('('assets/images/missing.jpg') }}" class="uk-border-rounded"
                     width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Central Termoeléctrica de
                 Munhava na Beira</p>
 
-            <a class="uk-inline" href="{{ secure_asset('assets/images/missing.jpg') }}" data-caption="Central Termoeléctrica de
+            <a class="uk-inline" href="{{ secure_asset('('assets/images/missing.jpg') }}" data-caption="Central Termoeléctrica de
                         Munhava na Beira">
-                <img src="{{ secure_asset('assets/images/missing.jpg') }}" class="uk-border-rounded"
+                <img src="{{ secure_asset('('assets/images/missing.jpg') }}" class="uk-border-rounded"
                     width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Central Termoeléctrica de
                 Munhava na Beira</p>

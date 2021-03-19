@@ -78,16 +78,16 @@
 
                 <div class="uk-width-1-3@m uk-align-center" uk-lightbox="animation: slide">
                     <a class="uk-inline uk-margin-right"
-                        href="{{ secure_asset('assets/images/plano_negocio.png') }}"
+                        href="{{ secure_asset('('assets/images/plano_negocio.png') }}"
                         data-caption="Plano de Negócio da EDM 2020 - 2024">
-                        <img src="{{ secure_asset('assets/images/plano_negocio.png') }}"
+                        <img src="{{ secure_asset('('assets/images/plano_negocio.png') }}"
                             class="uk-border-rounded" width="300px" height="100px" alt="" uk-img></a>
                             <p class="uk-margin-right">A tabela abaixo apresenta a capacidade de geração instalada e disponível por central.</p>
 
                     <a class="uk-inline uk-margin-right uk-margin-top"
-                        href="{{ secure_asset('assets/images/centrais/Central_Mini_Hidrica_Lichinga.JPG') }}"
+                        href="{{ secure_asset('('assets/images/centrais/Central_Mini_Hidrica_Lichinga.JPG') }}"
                         data-caption="Central Hídrica de Lichinga, na Província de Niassa – Norte de Moçambique">
-                        <img src="{{ secure_asset('assets/images/centrais/Central_Mini_Hidrica_Lichinga.JPG') }}" class="uk-border-rounded"
+                        <img src="{{ secure_asset('('assets/images/centrais/Central_Mini_Hidrica_Lichinga.JPG') }}" class="uk-border-rounded"
                             width="300px" height="100px" alt="" uk-img></a>
                             <p class="uk-margin-right">Central Hídrica de Lichinga, na Província de Niassa – Norte de Moçambique</p>
                 </div>

@@ -29,9 +29,9 @@
                     </p>
                     <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
                         <a class="uk-inline uk-margin-right uk-margin-top"
-                            href="{{ secure_asset('assets/images/elementos_da_rede.png') }}"
+                            href="{{ secure_asset('('assets/images/elementos_da_rede.png') }}"
                             data-caption="Rede Transporte Energia. Fonte: Plano de Negócio da EDM 2020 - 2024">
-                            <img src="{{ secure_asset('assets/images/elementos_da_rede.png') }}" class="uk-border-rounded" width="350px"
+                            <img src="{{ secure_asset('('assets/images/elementos_da_rede.png') }}" class="uk-border-rounded" width="350px"
                                 height="50px" alt="" uk-img></a>
                                 <p>Fonte: Plano de Negócio da EDM 2020 - 2024</p>
 
@@ -41,9 +41,9 @@
 
             <div class="uk-width-1-4@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/linha_66kv.jpg') }}"
+                    href="{{ secure_asset('('assets/images/paginas/linha_66kv.jpg') }}"
                     data-caption="Linha de 66kV">
-                    <img src="{{ secure_asset('assets/images/paginas/linha_66kv.jpg') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('('assets/images/paginas/linha_66kv.jpg') }}" class="uk-border-rounded"
                         width="180px" height="20px" alt="" uk-img></a>
 
                         <p>Linha de 66kV</p>

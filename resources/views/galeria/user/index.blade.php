@@ -15,11 +15,8 @@
                 uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 300; repeat: true">
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" >
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
                         <img style="height: 120px;" src="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
-
-                        <div class="uk-position-bottom uk-overlay uk-overlay-default uk-text-center">Bottom</div>
-    
                     </a>
                 </div>
 
