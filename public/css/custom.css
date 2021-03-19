@@ -69,6 +69,6 @@
     font-weight: 500 !important;
 }
 
-/* .uk-active uk-transition-active, img {
-    height: 90% !important;
-} */
+li.uk-active uk-transition-active img {
+    margin-bottom: 5% !important;
+}
