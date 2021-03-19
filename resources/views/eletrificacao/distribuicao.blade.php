@@ -41,28 +41,28 @@
             </p>
         </div>
         <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
-            <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/distribuicao.png') }}"
+            <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/distribuicao.png') }}"
                 data-caption="Rede de distribuição de energia em Cuamba">
-                <img src="{{ secure_asset('('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded"
+                <img src="{{ secure_asset('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded"
                     width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Rede de distribuição de energia em Cuamba</p>
 
 
-            <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/distribuicao_poste.jpeg') }}"
+            <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/distribuicao_poste.jpeg') }}"
                 data-caption="Obras de reabilitação da rede primária">
-                <img src="{{ secure_asset('('assets/images/paginas/distribuicao_poste.jpeg') }}" class="uk-border-rounded"
+                <img src="{{ secure_asset('assets/images/paginas/distribuicao_poste.jpeg') }}" class="uk-border-rounded"
                     width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Obras de reabilitação da rede primária</p>
 
-            <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/posto_transformacao.jpeg') }}"
+            <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/posto_transformacao.jpeg') }}"
                 data-caption="Rede de distribuição de energia em Cuamba">
-                <img src="{{ secure_asset('('assets/images/paginas/posto_transformacao.jpeg') }}"
+                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao.jpeg') }}"
                     class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Posto de transformção rual 33/0.4 kV</p>
 
-            <a class="uk-inline" href="{{ secure_asset('('assets/images/paginas/posto_transformacao01.jpeg') }}"
+            <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/posto_transformacao01.jpeg') }}"
                 data-caption="Posto de transformção rual 33/0.4 kV">
-                <img src="{{ secure_asset('('assets/images/paginas/posto_transformacao01.jpeg') }}"
+                <img src="{{ secure_asset('assets/images/paginas/posto_transformacao01.jpeg') }}"
                     class="uk-border-rounded" width="250px" height="50px" alt="" uk-img></a>
             <p class="uk-text-meta">Posto de transformção rual 33/0.4 kV</p>
         </div>

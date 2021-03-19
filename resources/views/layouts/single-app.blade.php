@@ -11,8 +11,8 @@
         <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
-        <link href="{{ secure_asset('('css/app.css') }}" rel="stylesheet">
-        <link href="{{ secure_asset('('css/custom.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
     </head>
 
     <body>
@@ -20,7 +20,7 @@
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
                     <a class="uk-logo uk-text-normal" href="#"><img
-                            src="{{ secure_asset('('assets/images/logo_edm.png') }}" alt="" srcset=""></a>
+                            src="{{ secure_asset('assets/images/logo_edm.png') }}" alt="" srcset=""></a>
                 </div>
                 <div
                     uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
@@ -242,7 +242,7 @@
                     </script>, Electricidade de Moçambique.
                 </p>
             </div>
-            <script src="{{ secure_asset('('js/app.js') }}" defer></script>
+            <script src="{{ secure_asset('js/app.js') }}" defer></script>
     </body>
 
 </html>

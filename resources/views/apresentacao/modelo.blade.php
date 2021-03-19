@@ -21,8 +21,8 @@
 
         <div class="uk-grid">
             <div class="uk-width-1-3@m uk-align-center">
-                <img data-src="{{ secure_asset('('assets/images/modelo_de_governanca.png') }}" class="uk-border-rounded"
-                    data-srcset="{{ secure_asset('('assets/images/modelo_de_governanca.png') }}"
+                <img data-src="{{ secure_asset('assets/images/modelo_de_governanca.png') }}" class="uk-border-rounded"
+                    data-srcset="{{ secure_asset('assets/images/modelo_de_governanca.png') }}"
                     sizes="(min-width: 350px) 450px, 100vw" width="350px" height="233px" alt="" uk-img>
             </div>
 

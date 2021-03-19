@@ -11,8 +11,8 @@
         <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
-        <link href="{{ secure_asset('('css/app.css') }}" rel="stylesheet" type="text/css">
-        <link href="{{ secure_asset('('css/custom.css') }}" rel="stylesheet" type="text/css">
+        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet" type="text/css">
+        <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet" type="text/css">
     </head>
 
     <body>
@@ -23,7 +23,7 @@
             </main>
 
         </div>
-        <script src="{{ secure_asset('('js/app.js') }}" defer></script>
+        <script src="{{ secure_asset('js/app.js') }}" defer></script>
     </body>
 
 </html>
