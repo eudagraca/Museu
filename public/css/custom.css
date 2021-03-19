@@ -52,3 +52,23 @@
 .uk-navbar-toggle {
     color: #fff !important;
 }
+
+.uk-lightbox-toolbar.uk-position-top.uk-text-right.uk-transition-slide-top.uk-transition-opaque {
+    display: none;
+}
+
+.uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque {
+    background-color: transparent;
+}
+
+.uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque {
+  
+    margin-bottom: 5% !important;
+    background-color: #020202;
+    color: white;
+    font-weight: 500 !important;
+}
+
+.uk-active uk-transition-active, img {
+    height: 90% !important;
+}
