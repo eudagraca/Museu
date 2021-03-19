@@ -22,47 +22,24 @@
             <div class="uk-width-expand@m uk-width-1-1@m">
                 <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Transporte</h4>
                 <p class="uk-text uk-margin-left uk-text-justify">
-                    Tem como missão dirigir, de forma eficiente e eficaz, as actividades de exploração e manutenção da
-                    Rede Nacional de
-                    Transporte, que compreendem:
+                    Tem como missão dirigir, de forma eficiente e eficaz, as actividades de exploração e manutenção da Rede Nacional de Transporte, que compreendem:
                 </p>
                 <ol class="uk-text uk-margin-large-left uk-margin-remove-top uk-text-justify" type="a">
-                    <li class="uk-margin-small">Instalações de interligação para os produtores de electricidade e para a
-                        importação de electricidade;</li>
+                    <li class="uk-margin-small">Instalações de interligação para os produtores de electricidade e para a importação de electricidade, </li>
                     <li class="uk-margin-small"><a class="uk-tex-normal"
-                            href="{{ route('rede.show', "infraestrutura") }}">Infra-estruturas de transporte</a> de
-                        energia
-                        eléctrica, para fornecer energia para
-                        exportação, clientes de grande porte
-                        e redes de distribuição conectadas a Rede de Transporte;</li>
+                            href="{{ route('rede.show', "infraestrutura") }}">Infra-estruturas de transporte</a> de energia eléctrica, para fornecer energia para exportação, clientes de grande porte e redes de distribuição conectadas a Rede de Transporte; </li>
                     <li class="uk-margin-small"><a href="{{ route('rede.show', "despacho") }}">Centro de Despacho</a>; e
                     </li>
-                    <li class="uk-margin-small">Infra-estruturas de telecomunicações, telemetria e controle remoto para
-                        a
-                        gestão
-                        eficaz e eficiente da <a href="{{ route('rede.show', "transporte") }}">Rede Nacional de
-                            Transporte</a> de acordo com as disposições do código de Rede, acordos e regulamentos da
-                        SAPP
-                        (Southern
-                        African Power
-                        Pool);</li>
+                    <li class="uk-margin-small">Infra-estruturas de telecomunicações, telemetria e controle remoto para a gestão eficaz e eficiente  da<a href="{{ route('rede.show', "transporte") }}"> Rede Nacional de
+                            Transporte</a> de acordo com as disposições do código de Rede, acordos e regulamentos da SAPP (Southern African Power Pool); </li>
                 </ol>
                 <div>
 
                     <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
-                        A Rede Nacional de Transporte de Energia é constituída por dois subsistemas isolados,
-                        nomeadamente, Centro - Norte e
-                        Sul.
+                        A Rede Nacional de Transporte de Energia é constituída por dois subsistemas isolados, nomeadamente, Centro - Norte e Sul. 
                     </p>
                     <p class="uk-text uk-margin-left uk-text-justify">
-                        A interconexão destes subsistemas é feita via países vizinhos, nomeadamente, Zimbabwe, através
-                        da
-                        rede de
-                        Transporte da
-                        ZESA, África do Sul, através da rede de Transporte da Eskom, esta última conecta-se à rede de
-                        Transporte
-                        Nacional (REN),
-                        através da rede da Motraco, no mapa
+                        A interconexão destes subsistemas é feita via países vizinhos, nomeadamente, Zimbabwe, através da rede de Transporte da ZESA e África do Sul, através da rede de Transporte da Eskom, esta última conecta-se à rede de Transporte Nacional (REN), através da rede da Motraco. Vide no mapa
                         </span>.
                     </p>
                     <hr>
@@ -71,10 +48,11 @@
             </div>
             <div class="uk-width-1-3@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/mapa_transporte.png') }}"
+                    href="{{ secure_asset('('assets/images/mapa_transporte.png') }}"
                     data-caption="Rede Transporte Energia. Fonte: Plano de Negócio da EDM 2020 - 2024">
-                    <img src="{{ secure_asset('assets/images/mapa_transporte.png') }}" class="uk-border-rounded" width="350px"
+                    <img src="{{ secure_asset('('assets/images/mapa_transporte.png') }}" class="uk-border-rounded" width="350px"
                         height="50px" alt="" uk-img></a>
+                        <p>Fonte: Plano de Negócio da EDM 2020 - 2024</p>
 
             </div>
         </div>

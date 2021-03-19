@@ -79,6 +79,11 @@ class HistoriaController extends Controller
         //
     }
 
+    public function entrevistado($entrevistado)
+    {
+        return view('historias.videos.'.$entrevistado);
+    }
+
     /**
      * Show the form for editing the specified resource.
      *

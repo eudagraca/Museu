@@ -24,6 +24,9 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'initial'])->name('
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'index'])->name('admin');
 
 Route::get('/historias', [App\Http\Controllers\HistoriaController::class, 'indexUser'])->name('historia.user');
+
+Route::get('/historias/{entrevistado}', [App\Http\Controllers\HistoriaController::class, 'entrevistado'])->name('historias.show');
+
 Route::get('/historia-edm', [App\Http\Controllers\LinhaTempoController::class, 'historia'])->name('historia.edm');
 Route::get('/linha_do_tempo', [App\Http\Controllers\LinhaTempoController::class, 'linhaDoTempo'])->name('linha_do_tempo');
 Route::get('/personalidades', [App\Http\Controllers\LinhaTempoController::class, 'personalidades']);

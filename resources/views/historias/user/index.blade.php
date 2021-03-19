@@ -25,12 +25,12 @@
         <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid
             uk-scrollspy="target: > a; cls: uk-animation-fade; delay: 500">
 
-            <a href="videos/antonio.html" class="uk-display-block uk-link-toggle uk-width-medium">
+            <a href="{{ route('historias.show', 'antonio') }}" class="uk-display-block uk-link-toggle uk-width-medium">
 
                 <div class="uk-card">
                     <div class="uk-card-media-top">
                         <img class="uk-border-circle" style="height: 200px;"
-                            src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                            src="{{ secure_asset('('/assets/images/historias/antonio_chamusso.png') }}" alt="">
                     </div>
                     <div class="uk-card-body">
                         <h5 class="uk-text-primary uk-text-bold">António Chamusso</h5>
@@ -38,11 +38,11 @@
                 </div>
             </a>
 
-            <a href="videos/fatima.html" class="uk-display-block uk-link-toggle uk-width-medium">
+            <a href="{{ route('historias.show', 'fatima') }}" class="uk-display-block uk-link-toggle uk-width-medium">
                 <div class="uk-card">
                     <div class="uk-card-media-top">
                         <img class="uk-border-circle" style="height: 200px;"
-                            src="{{ secure_asset('/assets/images/historias/fatima_artur.png') }}" alt="">
+                            src="{{ secure_asset('('/assets/images/historias/fatima_artur.png') }}" alt="">
                     </div>
                     <div class="uk-card-body">
                         <h5 class="uk-text-primary uk-text-bold">Fátima Artur</h5>
@@ -50,11 +50,11 @@
                 </div>
             </a>
 
-            <a href="videos/joao.html" class="uk-display-block uk-link-toggle uk-width-medium">
+            <a href="{{ route('historias.show', 'joao') }}" class="uk-display-block uk-link-toggle uk-width-medium">
                 <div class="uk-card">
                     <div class="uk-card-media-top">
                         <img class="uk-border-circle" style="height: 200px;"
-                            src="{{ secure_asset('/assets/images/historias/joao_cumbe.png') }}" alt="">
+                            src="{{ secure_asset('('/assets/images/historias/joao_cumbe.png') }}" alt="">
                     </div>
                     <div class="uk-card-body">
                         <h5 class="uk-text-primary uk-text-bold">João Cumbe</h5>
@@ -63,11 +63,11 @@
             </a>
 
 
-            <a href="videos/samuel.html" class="uk-display-block uk-link-toggle uk-width-medium">
+            <a href="{{ route('historias.show', 'samuel') }}" class="uk-display-block uk-link-toggle uk-width-medium">
                 <div class="uk-card">
                     <div class="uk-card-media-top">
                         <img class="uk-border-circle" style="height: 200px;"
-                            src="{{ secure_asset('/assets/images/historias/samuel_checo.png') }}" alt="">
+                            src="{{ secure_asset('('/assets/images/historias/samuel_checo.png') }}" alt="">
                     </div>
                     <div class="uk-card-body">
                         <h5 class="uk-text-primary uk-text-bold">Samuel Checo</h5>
