@@ -29,9 +29,9 @@
             </p>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ secure_asset('('assets/images/categorias_tarifarias.png') }}"
+                <a class="uk-inline" href="{{ secure_asset('assets/images/categorias_tarifarias.png') }}"
                     data-caption="Categorias Tarifárias">
-                    <img src="{{ secure_asset('('assets/images/categorias_tarifarias.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/categorias_tarifarias.png') }}" class="uk-border-rounded"
                         width="750px" height="133px" alt="" uk-img></a>
             </div>
 
