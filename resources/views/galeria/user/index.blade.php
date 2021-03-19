@@ -15,38 +15,38 @@
                 uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 300; repeat: true">
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
                     </a>
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
                     </a>
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/372.jpeg') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/372.jpeg') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/372.jpeg') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/372.jpeg') }}" alt="">
                     </a>
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
                     </a>
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/central_chicamba.jpeg') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/central_chicamba.jpeg') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/central_chicamba.jpeg') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/central_chicamba.jpeg') }}" alt="">
                     </a>
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
-                        <img style="height: 120px;" src="{{ secure_asset('('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" data-caption="Caption 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/Mocuba_Central_Solar.JPG') }}" alt="">
                     </a>
                 </div>
 
