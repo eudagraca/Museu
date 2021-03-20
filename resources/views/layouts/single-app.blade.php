@@ -49,6 +49,9 @@
                             <div class="uk-navbar-dropdown uk-margin-remove-top">
                                 <ul class="uk-nav uk-navbar-dropdown-nav">
                                     <li class="uk-active uk-text-normal uk-parent"><a
+                                            href="{{ route('apresentacao') }}">Apresentação da Empresa</a>
+                                    </li>
+                                    <li class="uk-active uk-text-normal uk-parent"><a
                                             href="{{ route('apresentacao.display', 'missao') }}">Missão, visão e
                                             valores</a>
                                     </li>
@@ -91,6 +94,9 @@
                         eletrificação<span uk-icon="icon: chevron-down"></span></a>
                     <div class="uk-navbar-dropdown uk-margin-remove-top">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li class="uk-active"><a href="{{ route('historia.index') }}">História de
+                                    eletrificação</a>
+                            </li>
                             <li class="uk-active"><a href="{{ route('eletrificacao.geracao') }}">História de
                                     geração</a>
                             </li>
@@ -130,8 +136,7 @@
                         Vida</a></li>
                 <li class="uk-active uk-button-text uk-text-uppercase"><a
                         href="{{ route('galeria.index') }}">GALERIA</a></li>
-                <li class="uk-active uk-button-text uk-text-uppercase"><a
-                        href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a>
+                <li class="uk-active uk-text-normal"><a href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a>
                 </li>
                 <li class="uk-active uk-button-text uk-text-uppercase"><a href="{{ route('contacto') }}">Contacto</a>
                 </li>
@@ -242,9 +247,6 @@
                             Vida</a></li>
                     <li class="uk-active uk-button-text uk-text-uppercase"><a
                             href="{{ route('galeria.index') }}">GALERIA</a></li>
-                    <li class="uk-active uk-button-text uk-text-uppercase"><a
-                            href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a>
-                    </li>
                     <li class="uk-active uk-button-text uk-text-uppercase"><a
                             href="{{ route('contacto') }}">Contacto</a></li>
                 </ul>

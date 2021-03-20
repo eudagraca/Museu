@@ -79,9 +79,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ secure_asset('assets/images/missing.jpg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/missing.JPG') }}"
                                 data-caption="Central Hídrica de Mavuzi">
-                                <img src="{{ secure_asset('assets/images/missing.jpg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/missing.JPG') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -163,9 +163,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.jpg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}"
                                 data-caption="Central Térmica-Gás de Temane">
-                                <img src="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.jpg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
