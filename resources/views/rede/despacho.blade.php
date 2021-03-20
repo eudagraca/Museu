@@ -51,9 +51,9 @@
 
             <div class="uk-width-1-3@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ asset('assets/images/paginas/centro_despacho_maputo.png') }}"
                     data-caption="Centre de despacho de Maputo">
-                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
                         width="350px" height="50px" alt="" uk-img></a>
 
             </div>

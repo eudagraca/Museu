@@ -36,9 +36,9 @@
             </p>
 
             <div class="uk-flex-middle uk-flex uk-align-center uk-margin-remove-bottom" uk-lightbox="animation: slide">
-                <a class="uk-inline uk-align-center" href="{{ secure_asset('assets/images/perdas_de_energia.png') }}"
+                <a class="uk-inline uk-align-center" href="{{ asset('assets/images/perdas_de_energia.png') }}"
                     data-caption="Redução de Perdas de energia ">
-                    <img src="{{ secure_asset('assets/images/perdas_de_energia.png') }}" class="uk-border-rounded"
+                    <img src="{{ asset('assets/images/perdas_de_energia.png') }}" class="uk-border-rounded"
                         width="850px" height="133px" alt="" uk-img></a>
 
             </div>

@@ -62,13 +62,26 @@
 }
 
 .uk-lightbox-toolbar.uk-lightbox-caption.uk-position-bottom.uk-text-center.uk-transition-slide-bottom.uk-transition-opaque {
-  
-    margin-bottom: 5% !important;
+
+    /* margin-bottom: 1% !important; */
+    margin-bottom: 50px !important;
     background-color: #020202;
     color: white;
     font-weight: 500 !important;
 }
 
 li.uk-active uk-transition-active img {
-    margin-bottom: 5% !important;
+    margin-bottom: 20% !important;
+}
+
+li.uk-active.uk-transition-active img {
+    padding: 100px;
+}
+
+.uk-lightbox-toolbar.uk-position-top.uk-text-right.uk-transition-slide-top.uk-transition-opaque {
+    margin-top: 5%;
+    color: white;
+}
+.uk-lightbox {
+    background: #191919bf;
 }

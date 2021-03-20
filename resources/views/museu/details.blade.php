@@ -74,10 +74,6 @@
             a história da eletrificação de Moçambique, narrativas ou depoimentos de alguns trabalhadores envolvidos na operação de
             equipamentos e em projectos de eletrificação e documentos relevantes (fotos, documentos, notícias).
         </p>
-        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
-            MUSEU VIRTUAL da EDM tem como propósito a promoção de Electricidade de Moçambique, enquanto conceito, imagem e paradigma
-            de Electrificação e valor histórico das suas Infraestruturas.
-        </p>
     </div>
 </div>
 <hr class="uk-margin-medium-top">

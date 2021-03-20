@@ -37,20 +37,20 @@
             </div>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ secure_asset('assets/images/provincias_delegacoes.png') }}"
+                <a class="uk-inline" href="{{ asset('assets/images/provincias_delegacoes.png') }}"
                     data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                    <img src="{{ secure_asset('assets/images/provincias_delegacoes.png') }}" class="uk-border-rounded"
-                        width="200px" height="133px" alt="" uk-img></a>
-                        <p>Províncias e delegações sob jurisdição de cada Direcção Regional. <br>Fonte: Plano de Negócio da EDM 2020 – 2024</p>
+                    <img src="{{ asset('assets/images/provincias_delegacoes.png') }}" class="uk-border-rounded"
+                        width="300px" height="133px" alt="" uk-img></a>
+                        <p class="uk-text-primary ">Províncias e delegações sob jurisdição de cada Direcção Regional. <br>Fonte: Plano de Negócio da EDM 2020 – 2024</p>
                
             </div>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ secure_asset('assets/images/provincias_delegacoes.png') }}"
+                <a class="uk-inline" href="{{ asset('assets/images/provincias_delegacoes.png') }}"
                     data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                    <img src="{{ secure_asset('assets/images/infraestrutura_rede_distribuicao.png') }}" class="uk-border-rounded"
-                        width="350px" height="133px" alt="" uk-img></a>
-                        <p>Infraestrutura da Rede de Distribuição <br>Fonte: Plano de Negócio da EDM 2020 - 2024</p>
+                    <img src="{{ asset('assets/images/infraestrutura_rede_distribuicao.png') }}" class="uk-border-rounded"
+                        width="500px" height="300px" alt="" uk-img></a>
+                        <p class="uk-text-primary uk-text-center">Infraestrutura da Rede de Distribuição <br>Fonte: Plano de Negócio da EDM 2020 - 2024</p>
             </div>
 
 
@@ -61,7 +61,7 @@
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
                 O facto de a maior parte da população moçambicana residir nas zonas rurais é evidenciado pelos rácios de densificação que constam da tabela acima.  
             </p>
-            <p class="uk-dropcap uk-text uk-margin-left uk-margin-right uk-text-justify">
+            <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
                 Com a excepção da Região da Cidade de Maputo, outras regiões têm uma média de 80 clientes por quilómetro de rede de distribuição em baixa tensão e menos de 1 (um) posto de transformação por quilómetro de rede de média tensão. Assim, para a universalização do acesso de energia à população, a EDM irá apostar, não só na expansão da rede para novos centros de consumos, mas também na densificação, que consiste em maximizar a exploração das infra-estruturas existentes  
             </p>
         </div>

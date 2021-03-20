@@ -30,9 +30,9 @@
             </div>
 
             <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}"
+                <a class="uk-inline" href="{{ asset('assets/images/paginas/contador_pos_pago.png') }}"
                     data-caption="Contador de energia pós-pago">
-                    <img src="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
+                    <img src="{{ asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
                         width="250px" height="50px" alt="" uk-img></a>
                 <p class="uk-text-meta">Contador de energia pós-pago</p>
             </div>
@@ -71,6 +71,19 @@
             </div>
 
         </div>
+    </div>
+<hr>
+ <div class="uk-width-1-2@s uk-width-2-5@m uk-margin-left uk-margin-remove-bottom uk-margin-top">
+        <ul class="uk-nav uk-nav-default uk-align-left">
+            <li class="uk-nav-header uk-text-bold uk-text-primary">Próximas páginas relacionadas</li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('eletrificacao.geracao') }}">História de geração</a></li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('eletrificacao.transporte') }}">História de transporte</a></li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('eletrificacao.distribuicao') }}">História de
+                    distribuição</a></li>
+        </ul>
     </div>
 
 </div>

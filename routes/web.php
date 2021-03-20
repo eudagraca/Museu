@@ -34,6 +34,7 @@ Route::get('/personalidades', [App\Http\Controllers\LinhaTempoController::class,
 Route::resource('galeria', App\Http\Controllers\GaleriaController::class);
 Route::resource('destaque', App\Http\Controllers\DestaqueController::class);
 Route::resource('historia', App\Http\Controllers\HistoriaController::class);
+Route::resource('patrimonio', App\Http\Controllers\PatrimonioController::class);
 Route::resource('pagina', App\Http\Controllers\PaginaController::class);
 Route::get('contacto', [App\Http\Controllers\PaginaController::class, 'contacto'])->name('contacto');
 Route::resource('museu', App\Http\Controllers\MuseuController::class);
