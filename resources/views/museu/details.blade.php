@@ -70,9 +70,13 @@
             Eletricidade
         </p>
         <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
-            Uma dessas acções é a criação do presente "<a class="uk-link" href="{{ route('home') }}">Museu Virtual da EDM</a>", que pretende partilhar a evolução tecnológica da EDM e
+            Uma dessas acções é a criação do presente Museu Virtual da EDM, que pretende partilhar a evolução tecnológica da EDM e
             a história da eletrificação de Moçambique, narrativas ou depoimentos de alguns trabalhadores envolvidos na operação de
             equipamentos e em projectos de eletrificação e documentos relevantes (fotos, documentos, notícias).
+        </p>
+        <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
+            MISSÃO do MUSEU VIRTUAL da EDM é de promover a Electricidade de Moçambique, enquanto conceito, imagem e paradigma de
+            Electrificação e valor histórico das suas Infraestruturas.
         </p>
     </div>
 </div>

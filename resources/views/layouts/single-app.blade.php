@@ -11,15 +11,15 @@
         <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-        <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
     </head>
 
     <body>
         <div id="app">
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
-                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ asset('assets/images/logo_edm.png') }}"
+                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
                             alt="" srcset=""></a>
                 </div>
                 <div
@@ -33,17 +33,15 @@
                             <ul class="uk-navbar-nav uk-visible@s uk-nav-parent-icon">
 
                                 <li class="uk-active uk-text-uppercase">
-                                    <a href="{{ route('museu.show', 'details') }}">MUSEU<span
-                                            uk-icon="icon: chevron-down"></span></a>
-                                    <div class="uk-navbar-dropdown uk-margin-remove-top">
+                                    <a href="{{ route('museu.show', 'details') }}">MUSEU</span></a>
+                                    {{--  <div class="uk-navbar-dropdown uk-margin-remove-top">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li class="uk-active uk-text-normal"><a
-                                                    href="{{ route('museu.show', 'missao') }}">Missão</a></li>
+
                                             <li class="uk-active uk-text-normal"><a
                                                     href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a></li>
 
                                         </ul>
-                                    </div>
+                                    </div>  --}}
                                 </li>
                                 <li class="uk-active uk-text-uppercase">
                                     <a href="{{ route('apresentacao') }}">Apresentação da Empresa<span
@@ -120,8 +118,6 @@
                                     </li>
                                     <li class="uk-active"><a
                                             href="{{ route('patrimonio.show', 'transmissao') }}">Transmissão</a></li>
-                                    <li class="uk-active"><a
-                                            href="{{ route('patrimonio.show', 'distribuicao') }}">Distribuição </a></li>
 
 
                                 </ul>
@@ -261,7 +257,7 @@
                 </script>, Electricidade de Moçambique.
             </p>
         </div>
-        <script src="{{ asset('js/app.js') }}" defer></script>
+        <script src="{{ secure_asset('js/app.js') }}" defer></script>
     </body>
 
 </html>

@@ -20,16 +20,16 @@
         </div>
         <div uk-grid class="uk-margin-remove">
             <div class="uk-width-expand@m uk-width-1-1@m">
-                <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Centro Nacional do Despacho 
+                <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Centro Nacional do Despacho
                 </h4>
                 <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
-                    O Centro Nacional de Despacho é uma alavanca fundamental para a gestão global do Sistema Eléctrico Nacional e para a sua interligação com as redes dos países vizinhos e centrais de produção. 
+                    O Centro Nacional de Despacho é uma alavanca fundamental para a gestão global do Sistema Eléctrico Nacional e para a sua interligação com as redes dos países vizinhos e centrais de produção.
                 </p>
                 <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
-                    Actualmente, a EDM opera com um Centro de Despacho, que assegura apenas o controlo centralizado da rede de transporte da zona sul, incluindo a monitorização das interligações com a Eskom e Eswatine, cuja entrada em funcionamento data de Março de 2009. 
+                    Actualmente, a EDM opera com um Centro de Despacho, que assegura apenas o controlo centralizado da rede de transporte da zona sul, incluindo a monitorização das interligações com a Eskom e Eswatine, cuja entrada em funcionamento data de Março de 2009.
                 </p>
                 <p class="uk-text uk-margin-left uk-margin-right uk-text-justify">
-                    Com os diversos projectos de geração e de transporte, previstos para o presente quinquénio, a EDM é desafiada a acelerar a implementação do projecto do Centro Nacional de Despacho, acompanhado de dois centros de controlo regional, para desempenhar, de forma eficiente e segura, o seguinte papel: 
+                    Com os diversos projectos de geração e de transporte, previstos para o presente quinquénio, a EDM é desafiada a acelerar a implementação do projecto do Centro Nacional de Despacho, acompanhado de dois centros de controlo regional, para desempenhar, de forma eficiente e segura, o seguinte papel:
                 </p>
                 <ul class="uk-text uk-margin-left uk-text-justify">
                     <li class="uk-margin-top">Monitoria e Controlo da rede nacional de transporte (533kV, 400kV, 275kV, 220kV,110kV e 66kV);</li>
@@ -51,9 +51,9 @@
 
             <div class="uk-width-1-3@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ asset('assets/images/paginas/centro_despacho_maputo.png') }}"
+                    href="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}"
                     data-caption="Centre de despacho de Maputo">
-                    <img src="{{ asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/centro_despacho_maputo.png') }}" class="uk-border-rounded"
                         width="350px" height="50px" alt="" uk-img></a>
 
             </div>

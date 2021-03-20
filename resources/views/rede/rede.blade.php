@@ -32,20 +32,20 @@
 
 
              <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                    <a class="uk-inline" href="{{ asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" data-caption="Aulas práticas do curso de electricidade no Centro de Formação da EDM  ">
-                        <img src="{{ asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" class="uk-border-rounded"
+                    <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" data-caption="Aulas práticas do curso de electricidade no Centro de Formação da EDM  ">
+                        <img src="{{ secure_asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" class="uk-border-rounded"
                             width="500px" height="250px" alt="" uk-img></a>
                     <p class="uk-text-primary">Aulas práticas do curso de electricidade no Centro de Formação da EDM </p>
                 </div>
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify uk-width-1-1@m">
                 Em 1977, 65% da energia consumida no País provinha da SONEFE, em Maputo, e SHER, em Manica. Os restantes 35% provinham de setecentas Centrais Privadas, onde 500 delas tinham uma capacidade inferior a 50KVA; sendo que a Cidade de Maputo é que consumia mais de metade da energia produzida, seguida de Manica e Sofala. Tanto nestas Cidades como noutras Cidades, o consumo doméstico era também restrito às zonas geralmente referidas como zona ‘cimento’ – i.e. as áreas ocupadas essencialmente pela população branca.
             </p>
-            
+
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify uk-width-1-1@m">
                 Segundo dados com referencia a 31 de Dezembro de 2019, a Rede da EDM conta hoje com aproximadamente 245,2 MW de Capacidade Instalada e 192,3 MW de Capacidade Disponível; 5.6601Km de Rede de Transporte; 43.806Km de Rede de Distribuição com 12.777 Postos de Transformação (PTs); ao Serviço de quase 2.052.802 Milhões de Clientes (34% da população),  em 2020
             </p>
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify uk-width-1-1@m">
-                Esta transformação substancial da Rede da EDM deveu-se à integração de outras fontes hídricas e térmicas, quer da empresa, como da HCB e produtores independentes, que possibilitaram a expansão da rede para vários centros urbanos. Contudo, resta ainda integrar o sistema Sul com os sistemas Centro e Norte; reabilitar e expandir a infraestrutura de distribuição existente para garantir redundâncias, reduzir perdas técnicas e melhorar a qualidade da energia fornecida; bem como aumentar a capacidade de produção de modo a dar resposta à crescente demanda de energia eléctrica (Baptista, 2017). 
+                Esta transformação substancial da Rede da EDM deveu-se à integração de outras fontes hídricas e térmicas, quer da empresa, como da HCB e produtores independentes, que possibilitaram a expansão da rede para vários centros urbanos. Contudo, resta ainda integrar o sistema Sul com os sistemas Centro e Norte; reabilitar e expandir a infraestrutura de distribuição existente para garantir redundâncias, reduzir perdas técnicas e melhorar a qualidade da energia fornecida; bem como aumentar a capacidade de produção de modo a dar resposta à crescente demanda de energia eléctrica (Baptista, 2017).
             </p>
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify uk-width-1-1@m">
                 A empresa tem em vista uma carteira alargada de investimentos em produção, transporte e distribuição, mas as condições financeiras actuais da EDM e do país não têm sido favoráveis a esse investimento. A empresa continua a depender da ajuda de doadores para a realização de alguns destes investimentos, como é o caso do anúncio de investimento pelo Banco Mundial no valor de USD$150 milhões.&quot

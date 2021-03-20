@@ -30,9 +30,9 @@
             </div>
 
             <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ asset('assets/images/paginas/contador_pos_pago.png') }}"
+                <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}"
                     data-caption="Contador de energia pós-pago">
-                    <img src="{{ asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
                         width="250px" height="50px" alt="" uk-img></a>
                 <p class="uk-text-meta">Contador de energia pós-pago</p>
             </div>
@@ -57,7 +57,7 @@
                         Mais tarde fez-se upgrade para Cartões de 96 Colunas processados no IBM S70 e nos anos 1992 fez-se a migração para um Sistema da Empresa ICL conhecido por Billing System.
               </p>
 
-                <p class="uk-text uk-margin-right uk-text-justify">No <i>Billing System</i>, instalado em Maputo em 1992, para além de facturação de consumidores da Cidade de Maputo, eram também facturados consumidores da Matola, Beira, Chimoio, Nampula e Nacala. Os operadores destas Cidades levavam as Leituras da sua Cidade para Maputo para serem introduzidos no Sistema para se facturar. Regressavam para as suas cidades com as facturas para irem cobrar. No mês seguinte voltavam para Maputo com Leituras e Canhotos das cobranças efectuadas para serem Introduzidos no Sistema, fazer a reconciliação dos valores facturados e cobrados e depois voltar a facturar para o período seguinte. 
+                <p class="uk-text uk-margin-right uk-text-justify">No <i>Billing System</i>, instalado em Maputo em 1992, para além de facturação de consumidores da Cidade de Maputo, eram também facturados consumidores da Matola, Beira, Chimoio, Nampula e Nacala. Os operadores destas Cidades levavam as Leituras da sua Cidade para Maputo para serem introduzidos no Sistema para se facturar. Regressavam para as suas cidades com as facturas para irem cobrar. No mês seguinte voltavam para Maputo com Leituras e Canhotos das cobranças efectuadas para serem Introduzidos no Sistema, fazer a reconciliação dos valores facturados e cobrados e depois voltar a facturar para o período seguinte.
                 </p>
 
                 <p class="uk-text uk-text-justify">Para a facturação nas outras Áreas de Distribuição, consideradas na altura de Área de pequena dimensão, em 1995 foi implementado um Sistema paralelo ao do Billing System, conhecido por Sistema ACCESS, que inicialmente foi instalado na Áreas Operacional da Região Sul, começando por Chokwe seguindo Xai-Xai e mais tarde Inhambane. O Sistema ACESS foi evoluindo gradualmente, de tal sorte que até nos anos de 1997 abarcava completamente o Sul de Moçambique e nos anos seguintes, devido a capacidade e potencialidade associado ao uso simples, progrediu para Tete, Quelimane, Mocuba e nos anos de 2000 atingiu as Áreas de Pemba e Lichinga e mais tarde Angoche e Cuamba. A gestão do Sistema ACCESS era feita pelo técnico do OINF, Analista em Sistemas informáticos, ora perecido, Dr. Roberto Carlos Pereira.

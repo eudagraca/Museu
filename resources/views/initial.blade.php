@@ -6,10 +6,10 @@
 <div class="uk-child-width-1-1@s uk-light" uk-grid>
     <div>
         <div class="uk-background-blend-lighten uk-background-secondary uk-background-image@m uk-background-cover uk-background-muted uk-height-large uk-panel uk-flex uk-flex-middle uk-flex-center"
-            style="background-image: url({{ asset('assets/images/subestacao.jpeg') }}); width:100%; height: 600px; background-color: hsl(0, 0%, 30%);">
+            style="background-image: url({{ secure_asset('assets/images/subestacao.jpeg') }}); width:100%; height: 600px; background-color: hsl(0, 0%, 30%);">
             <div>
                 <div class="uk-flex uk-flex-center uk-background-default uk-padding-small uk-light">
-                    <img style="min-height: 50px !important" src="{{ asset('assets/images/logo_edm.png') }}" alt=""
+                    <img style="min-height: 50px !important" src="{{ secure_asset('assets/images/logo_edm.png') }}" alt=""
                         srcset="">
                 </div>
                 <h3
