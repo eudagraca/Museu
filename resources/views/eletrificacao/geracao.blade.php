@@ -314,9 +314,6 @@
                     href="{{ route('eletrificacao.comercial') }}">História de comercialização</a></li>
             <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
                     href="{{ route('eletrificacao.transporte') }}">História de transporte</a></li>
-            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
-                    href="{{ route('eletrificacao.distribuicao') }}">História de
-                    distribuição</a></li>
         </ul>
     </div>
 </div>

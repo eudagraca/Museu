@@ -254,8 +254,6 @@
         <ul class="uk-nav uk-nav-default uk-align-left">
             <li class="uk-nav-header uk-text-bold uk-text-primary">Próximas páginas relacionadas</li>
             <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
-                    href="{{ route('patrimonio.show', "distribuicao") }}">Distribuição</a></li>
-            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
                     href="{{ route('patrimonio.show', "geracao") }}">Geração</a></li>
         </ul>
     </div>
