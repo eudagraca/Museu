@@ -75,7 +75,7 @@
             equipamentos e em projectos de eletrificação e documentos relevantes (fotos, documentos, notícias).
         </p>
         <p class="uk-text uk-margin-left uk-margin-large-right uk-text-justify">
-            MISSÃO do MUSEU VIRTUAL da EDM é de promover a Electricidade de Moçambique, enquanto conceito, imagem e paradigma de
+            <b>MISSÃO do MUSEU VIRTUAL da EDM</b> é de promover a Electricidade de Moçambique, enquanto conceito, imagem e paradigma de
             Electrificação e valor histórico das suas Infraestruturas.
         </p>
     </div>
