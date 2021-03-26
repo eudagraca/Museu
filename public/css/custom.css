@@ -75,7 +75,7 @@ li.uk-active uk-transition-active img {
 }
 
 li.uk-active.uk-transition-active img {
-    padding: 100px;
+    /* padding: 100px; */
 }
 
 .uk-lightbox-toolbar.uk-position-top.uk-text-right.uk-transition-slide-top.uk-transition-opaque {
