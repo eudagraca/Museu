@@ -507,14 +507,14 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}"
-                            data-caption="LINHA B51 PS-NICOADALA – SE CERÂMICA">
+                            data-caption="LINHA B07 SE’S MOCUBA – ALTO MOLOCUÉ">
                             <img src="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B51 PS-NICOADALA – SE CERÂMICA
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B07 SE’S MOCUBA – ALTO MOLOCUÉ
                         </h4>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
@@ -554,6 +554,226 @@
                         </p>
                         <p class="uk-margin-small-top">
                             <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}"
+                            data-caption="LINHA B08 SE’S ALTO MOLOCUÉ – NAMPULA 220kV">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B08 SE’S ALTO MOLOCUÉ – NAMPULA 220kV
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Nampula 220kV
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1986
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 239MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 183km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: B08=157MW /Março de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}"
+                            data-caption="LINHA C20 SE’S ALTO MOLOCUÉ – UAPÉ">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C20 SE’S ALTO MOLOCUÉ – UAPÉ
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Uapé
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Porcelana e vidros
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: C20=1.40MW /Fevereiro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Aço galvanizado, 7x3.21
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}"
+                            data-caption="LINHA C21 SE’S ALTO MOLOCUÉ - GURUÉ">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C21 SE’S ALTO MOLOCUÉ - GURUÉ
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Gurué
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2000
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: C21=24.0MW /Fevereiro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado, 7x3.21
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}"
+                            data-caption="LINHA C24 SE’S CHIMUARA - MARROMEU">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C24 SE’S CHIMUARA - MARROMEU
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento</spa>: SE’s Chimuara – Marromeu
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 63MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Leopard
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: C24=5.40MW/Junho de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço
                         </p>
                     </div>
                 </div>
