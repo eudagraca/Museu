@@ -1281,6 +1281,354 @@
                     </div>
                 </div>
 
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}"
+                            data-caption="LINHA BL4 SE’S RESSANO GARCIA-KOMATTI PORT">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL4 SE’S RESSANO GARCIA-KOMATTI PORT
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Komatti Port
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1973
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Condutor</spa>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 9km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: BL4= 359,84MVA/01/2017
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}"
+                            data-caption="LINHA BL3 SE’S MAPUTO-MATOLA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL3 SE’S MAPUTO-MATOLA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Maputo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: SE Matola 275
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Condutor</spa>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 16km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: BL3= 497MVA/06/2015
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}"
+                            data-caption="LINHA BL2 SE’S INFULENE- RESSANO GARCIA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL2 SE’S INFULENE- RESSANO GARCIA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Infulene
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1972
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Condutor</spa>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: BL2= 498,25MVA (10/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}"
+                            data-caption="LINHA BL1 SE’S INFULENE-MATOLA 275">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL1 SE’S INFULENE-MATOLA 275
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Infulene
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: SE Matola 275
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2000
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Condutor</spa>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 16km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: BL1=405,73MVA (01/2016) e  BL1=401,97MVA (01/2017)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}"
+                            data-caption="LINHA CL9 SE’S CHICUMBANE- INHAMBANE">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL9 SE’S CHICUMBANE- INHAMBANE
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Chicumbane
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: SE Inhambane
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2002
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 68MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 233,8km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: AAAC 150
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Porcelana & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: CL9= 30,55MVA (02/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}"
+                            data-caption="LINHA CL7 SE’S KUVANINGA-MAPAI">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL7 SE’S KUVANINGA-MAPAI
+                        </h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: SE Kuvaninga
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: SE Mapai
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2002
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade da linha</spa>: 68MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Comprimento</spa>: 233,8km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: AAAC 150
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Porcelana & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: CL9= 30,55MVA (02/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
 
