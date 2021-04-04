@@ -8,9 +8,6 @@
         <div class="uk-width-1-1">
             <ul class="uk-breadcrumb uk-align-right uk-margin-top">
                 <li><a class="uk-text-primary uk-active uk-text-normal" href="{{ route('home') }}">Inicio</a></li>
-
-                <li><a class="uk-text-primary uk-active uk-text-normal"
-                        href="{{ route('museu.show', 'details') }}">Museu</a></li>
                 <li><a href="#">Apresentação da Empresa</a></li>
             </ul>
         </div>

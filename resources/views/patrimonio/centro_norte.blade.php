@@ -15,7 +15,7 @@
         </div>
         <div class="uk-width-1-1@m uk-margin-remove-top uk-margin-remove-right">
             <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Transmissão - Divisão de
-                transporte Norte</h4>
+                transporte Centro Norte</h4>
             <h3 class="uk-heading-divider  uk-text-bold uk-margin-small-top uk-margin-small-bottom">Subestações</h3>
             <div uk-grid="masonry: true" uk-lightbox="animation: slide">
 

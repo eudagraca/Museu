@@ -117,32 +117,32 @@
         <div class="uk-width-1-3@m uk-align-center" uk-lightbox="animation: slide">
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/distribuicao.png') }}"
                 data-caption="Rede de distribuição de energia em Cuamba">
-                <img src="{{ secure_asset('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded" width="500px"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/distribuicao.png') }}" class="uk-border-rounded" width="500px"
                     height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Rede de distribuição de energia em Cuamba</p>
 
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/inauguracao_pt_hospital_beira.jpeg') }}"
                 data-caption="Obras de reabilitação da rede primária">
-                <img src="{{ secure_asset('assets/images/paginas/inauguracao_pt_hospital_beira.jpeg') }}"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/inauguracao_pt_hospital_beira.jpeg') }}"
                     class="uk-border-rounded" width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Inaguração do P.T do Hospital Central da Beira - 2002</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/rede_de_xai_xai.jpeg') }}"
                 data-caption="Melhoramaneto da rede antiga (cabo de aluminio) - Xai-Xai 2010">
-                <img src="{{ secure_asset('assets/images/paginas/rede_de_xai_xai.jpeg') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/rede_de_xai_xai.jpeg') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Melhoramaneto da rede antiga (cabo de aluminio) - Xai-Xai 2010</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/nacaroa.JPG') }}"
                 data-caption="Inauguração da rede em Nacaroa - 2014">
-                <img src="{{ secure_asset('assets/images/paginas/nacaroa.JPG') }}" class="uk-border-rounded" width="500px"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/nacaroa.JPG') }}" class="uk-border-rounded" width="500px"
                     height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Inauguração da rede em Nacaroa - 2014</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/nacaroa_inauguracao.JPG') }}"
                 data-caption="Equipe da EDM na Inauguração da rede em Nacaroa - 2014">
-                <img src="{{ secure_asset('assets/images/paginas/nacaroa_inauguracao.JPG') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/nacaroa_inauguracao.JPG') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Equipe da EDM na Inauguração da rede em Nacaroa - 2014</p>
         </div>

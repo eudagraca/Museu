@@ -26,7 +26,7 @@
                         <div class="uk-card">
                             <div class="uk-card-media-top">
                                 <img class="uk-border-rounded" style="height: 200px;"
-                                    src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                                    src="{{ secure_asset('/assets/images/missing.jpg') }}" alt="">
                             </div>
                             <div class="uk-card-body">
                                 <h5 class="uk-text-primary uk-text-bold">Eng. Fabião Cumbe</h5>
@@ -48,7 +48,7 @@
                         <div class="uk-card">
                             <div class="uk-card-media-top">
                                 <img class="uk-border-rounded" style="height: 200px;"
-                                    src="{{ secure_asset('/assets/images/historias/antonio_chamusso.png') }}" alt="">
+                                    src="{{ secure_asset('/assets/images/missing.jpg') }}" alt="">
                             </div>
                             <div class="uk-card-body">
                                 <h5 class="uk-text-primary uk-text-bold">Rodriguez Laidone</h5>

@@ -52,7 +52,7 @@
             </p>
             <p class="uk-text uk-margin-left uk-margin-right uk-text-justify uk-width-1-1@m">
                 Actualmente, a EDM apresenta-se verticalmente integrada, cobrindo as áreas de <a href="{{  route('rede.show', "geracao") }}">Geração</a>, <a href="{{  route('rede.show', "transporte") }}">Transporte</a>, <a href="{{  route('rede.show', "distribuicao") }}">Distribuição</a> e
-                <a href="{{  route('rede.show', "comercializacao") }}">Comercialização</a> de Energia.
+                <a href="{{  route('rede.show', "comercial") }}">Comercialização</a> de Energia.
             </p>
 
         </div>

@@ -32,7 +32,7 @@
             <div class="uk-width-1-5@m uk-align-center" uk-lightbox="animation: slide">
                 <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}"
                     data-caption="Contador de energia pós-pago">
-                    <img src="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
+                    <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/contador_pos_pago.png') }}" class="uk-border-rounded"
                         width="250px" height="50px" alt="" uk-img></a>
                 <p class="uk-text-meta">Contador de energia pós-pago</p>
             </div>

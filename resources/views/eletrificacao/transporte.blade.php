@@ -39,26 +39,26 @@
         </ul>
 
         </div>
-        <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
+        <div class="uk-width-1-3@m uk-align-center" uk-lightbox="animation: slide">
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/subestacao_lamigo_1970.jpeg') }}" data-caption="Subestação de lamego Julho de 1970">
-                <img src="{{ secure_asset('assets/images/paginas/subestacao_lamigo_1970.jpeg') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/subestacao_lamigo_1970.jpeg') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Subestação de lamego Julho de 1970</p>
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/subestacao_de_lamigo_1972.jpeg') }}" data-caption="Subestação de Lamego, Julho de 1972">
-                <img src="{{ secure_asset('assets/images/paginas/subestacao_de_lamigo_1972.jpeg') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/subestacao_de_lamigo_1972.jpeg') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Subestação de Lamego, Julho de 1972</p>
 
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira.jpeg') }}" data-caption="Construção da linha de alta tensão , Beira - Mavuzi">
-                <img src="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira.jpeg') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira.jpeg') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Construção da linha de alta tensão , Beira - Mavuzi</p>
 
 
             <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira_2.jpeg') }}" data-caption="Construção da linha de alta tensao Beira 1 Central mavuzi-Beira, 29-09-1972">
-                <img src="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira_2.jpeg') }}" class="uk-border-rounded"
+                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/linha_mavuzi_beira_2.jpeg') }}" class="uk-border-rounded"
                     width="500px" height="150px" alt="" uk-img></a>
             <p class="uk-text-primary">Construção da linha de alta tensao Beira 1 Central mavuzi-Beira, 29-09-1972</p>
         </div>

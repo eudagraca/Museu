@@ -58,12 +58,12 @@
                     <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/delagoa.png') }}"
                             data-caption="A Primeira Central de Lourenço Marques (1895-1912), estava de frente do Mercado Municipal. Explorado pela Jost Gulber 1895 - 1897, Campagne D&apos;electricite 1897-1902 e Delagoa Bay 1903-1911">
-                            <img src="{{ secure_asset('assets/images/paginas/delagoa.png') }}" class="uk-border-rounded"
+                            <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/delagoa.png') }}" class="uk-border-rounded"
                                 width="500px" height="250px" alt="" uk-img></a>
                         <p class="uk-text-primary uk-text-justify">A Primeira Central de Lourenço Marques (1895-1912), estava de frente do Mercado Municipal. Explorado pela Jost Gulber 1895 - 1897, Campagne D&apos;electricite 1897-1902 e Delagoa Bay 1903-1911</p>
                         <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/Primeira_Central_Maputo.png') }}"
                             data-caption="A Primeira Central de Lourenço Marques (1895-1912), estava de frente do Mercado Municipal. Explorado pela Jost Gulber 1895 - 1897, Campagne D&apos;electricite 1897-1902 e Delagoa Bay 1903-1911">
-                            <img src="{{ secure_asset('assets/images/paginas/Primeira_Central_Maputo.png') }}" class="uk-border-rounded"
+                            <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/Primeira_Central_Maputo.png') }}" class="uk-border-rounded"
                                 width="500px" height="250px" alt="" uk-img></a>
                         <p class="uk-text-primary uk-text-justify">Primeira Central de Lourenço Marques 1895 - 1903 tendo permanescido com as concessionarias Jost Gulber 1895 - 1897, Campagne D&apos;electricite 1897-1902 e Delagoa Bay 1903-1911</p>
 
@@ -120,7 +120,7 @@
                     <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/centrais_sommerchield.png') }}"
                             data-caption="Central da 24 de Julho 1912 - 1963, tinha 6 (seis) máquinas a vapor, 5(cinco) Caldeiras de corrente continua. O encarregado era Guilherme Wilson que entrou em 1915 como aprendiz e com ele foi atéao fecho em 1963 já na qualidade de encarregado da mesma.">
-                            <img src="{{ secure_asset('assets/images/paginas/centrais_sommerchield.png') }}"
+                            <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/centrais_sommerchield.png') }}"
                                 class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                         <p class="uk-text-justify uk-text-primary">Central da 24 de Julho 1912 - 1963, tinha 6 (seis) máquinas a vapor, 5(cinco) Caldeiras de corrente continua. O encarregado era Guilherme Wilson que entrou em 1915 como aprendiz e com ele foi atéao fecho em 1963 já na qualidade de encarregado da mesma.</p>
                     </div>
@@ -161,12 +161,12 @@
                     <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/nova_central_termica.png') }}"
                             data-caption="Central Térmica de Lourenço Marques contruída entre 1950-1959, funcionou de Janeiro de 1959 a 1995">
-                            <img src="{{ secure_asset('assets/images/paginas/nova_central_termica.png') }}"
+                            <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/nova_central_termica.png') }}"
                                 class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                         <p class="uk-text-primary uk-text-justify">Central Térmica de Lourenço Marques contruída entre 1950-1959, funcionou de Janeiro de 1959 a 1995</p>
                         <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/Central_termica_Lourenco_M.png') }}"
                             data-caption="Central Térmica de Lourenço Marques na fase da construção, onde a CT1 estava operar e CT2 em construção">
-                            <img src="{{ secure_asset('assets/images/paginas/Central_termica_Lourenco_M.png') }}"
+                            <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/Central_termica_Lourenco_M.png') }}"
                                 class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                         <p class="uk-text-primary uk-text-justify">Central Térmica de Lourenço Marques na fase da construção, onde a CT1 estava operar e CT2 em construção</p>
                     </div>
@@ -205,7 +205,7 @@
                 <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
                     <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/central_munhava.jpg') }}" data-caption="Antiga Central Termoeléctrica de
             Munhava na Beira">
-                        <img src="{{ secure_asset('assets/images/paginas/central_munhava.jpg') }}" class="uk-border-rounded"
+                        <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/central_munhava.jpg') }}" class="uk-border-rounded"
                             width="400px" height="200px" alt="" uk-img></a>
                     <p class="uk-text-primary">Antiga Central Termoeléctrica de
                         Munhava na Beira</p>
@@ -270,7 +270,7 @@
                             <a class="uk-inline uk-margin-top"
                                 href="{{ secure_asset('assets/images/paginas/construcao_barragem_mavuzi_2.jpeg') }}"
                                 data-caption="Construção da central Mavuzi - 23-11-1957">
-                                <img src="{{ secure_asset('assets/images/paginas/construcao_barragem_mavuzi_2.jpeg') }}"
+                                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/construcao_barragem_mavuzi_2.jpeg') }}"
                                     class="uk-border-rounded" width="400px" height="150px" alt="" uk-img></a>
                             <p>Construção da central Mavuzi - 23-11-1957</p>
 
@@ -278,7 +278,7 @@
                             <a class="uk-inline"
                                 href="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
                                 data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                                <img src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
+                                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
                                     class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                             <p>Central de Mavuzi com capacidade de 50 MW</p>
 
@@ -286,14 +286,14 @@
                             <a class="uk-inline uk-margin-top"
                                 href="{{ secure_asset('assets/images/paginas/construcao_barragem_chicamba.jpeg') }}"
                                 data-caption="Construção da barragem de Chicamba e respectiva central ">
-                                <img src="{{ secure_asset('assets/images/paginas/construcao_barragem_chicamba.jpeg') }}"
+                                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/construcao_barragem_chicamba.jpeg') }}"
                                     class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                             <p>Construção da barragem de Chicamba e respectiva central </p>
 
                               <a class="uk-inline uk-margin-top"
                                 href="{{ secure_asset('assets/images/paginas/barragem_contruida_chicamba.jpeg') }}"
                                 data-caption="Barragem de Chicamba – 1997 ">
-                                <img src="{{ secure_asset('assets/images/paginas/barragem_contruida_chicamba.jpeg') }}"
+                                <img style="margin-right: -19%;"src="{{ secure_asset('assets/images/paginas/barragem_contruida_chicamba.jpeg') }}"
                                     class="uk-border-rounded" width="500px" height="250px" alt="" uk-img></a>
                             <p>Barragem de Chicamba – 1997 </p>
 
