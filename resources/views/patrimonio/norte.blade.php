@@ -21,40 +21,79 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}"
-                            data-caption="1.	SUBESTAÇÃO DA CERÂMICA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}"
+                            data-caption="Estado actual: Os equipamentos nesta subestação estão em bom estado operacional, mas com alguns casos que merecem um pouco de atenção, nomeadamente: O disjuntor do lado de alta do T1, cuja fixação do mecanismo de operação foi feita por adaptação; o tap changer do T5 com uma das molas do acumulador de energia partida e alguns seccionadores cujos mecanismos estão obsoletos.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação da Cerâmica</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação Nampula 220KV</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Zona da Cerâmica a 800m da EN 7, no
-                            distrito de Nicoadala;
+                            <spa class="uk-text-bold">Localizacação</spa>: Bairro de Mutauanha, Cidade de Nampula
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1986
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1988
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de recomissionamento</spa>: 2018
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 100MVA
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 25MVA
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada actual</spa>: 100MVA
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 200MVA
                         </p>
                         <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/33kV
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/110/33/22kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 220/33/33kV-50MVA e TR2
-                            220/33/33kV-50MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: T1[100MVA, 220/110/33kV]; T2[100MVA, 220/110/33kV]; T4[75MVA, 220/22kV], T5[40MVA, 110/33kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 23.5MW/Fevereiro 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 125.9MW/Janeiro de 2019
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Aquando da entrada em serviço a Subestação NPL220kV, contava com uma potência instalada de 100MVA, correspondente à do
+                            T2 e 2006 foi instalado o T1 de também 100MVA, aumentando a potência instalada para 200MVA.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}"
+                            data-caption="Estado actual: Os   equipamentos   nesta  substação  estão	em bom estado operacional, tendo porém problemas de obsolescência de seccionadores.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação Nampula 110KV</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Bairro de Mutauanha, Cidade de Nampula
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1984
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 35MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 90MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33/11kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: T102[40MVA, 110/33kV], T103[50MVA, 110/33kV], T31[10MVA, 33/11kV], T32[10MVA, 33/11kV], T33[10MVA, 33/11kV]
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 52,3MW/ Fevereiro de 2019
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Aquando da entrada em serviço desta Subestação, contava com uma potência instalada de 35MVA, entre os anos 2016 e 2017,
+                            foram instalados 2 transformadores um de 40MVA e outro de 50MVA e depois foi movimentado o transformador de 35MVA, para
+                            a subestação de Metoro; passando a potência instalada de 35MVA para 90MVA.
                         </p>
                     </div>
                 </div>
@@ -62,40 +101,79 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
-                            data-caption="Subestação da Alto Molocué">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_namialo.png') }}"
+                            data-caption="Equipamento novo e em bom estado operacional.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_namialo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação da Alto Molocué</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Namialo</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Alto Molocué, ao longo da Estrada
-                            nacional nr.1
+                            <spa class="uk-text-bold">Localizacação</spa>: Posto administrativo de Namialo, Província de Nampula
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2018
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 40MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 40MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[40MVA, 110/33kV]
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 7.5MW/Fevereiro de 2021
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Subestação recém construída.
+                        </p>
+                    </div>
+                </div>
+
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_monapo.png') }}"
+                            data-caption="Os   equipamentos   nesta  substação  estão	em bom estado operacional, tendo porém problemas de obsolescência de seccionadores">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_monapo.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Monapo</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Monapo, Província de Nampula.
                         </p>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1983
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de recomissionamento</spa>: 2018
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 116MVA
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada actual</spa>: 251MVA
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 16MVA
                         </p>
                         <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/110/33kV
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33/11kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 220/110/33kV-100MVA, TR2
-                            220/110/33kV-100MVA, TR4 110/33kV-16MVA e TR5 220/7.7kV-35MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: T101[16MVA, 110/33kV], T31[5MVA, 33/11kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 157MW/Março 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 9.61MW/11 de Dezembro de 2019
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Em 2019, o transformador de T101, beneficiou-se de trabalho de substituição do seu tap changer, dado que o anterior
+                            estava avariado.
                         </p>
                     </div>
                 </div>
@@ -103,40 +181,38 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_chimuara.png') }}"
-                            data-caption="SUBESTAÇÃO DE CHIMUARA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_chimuara.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nacala.png') }}"
+                            data-caption="Estado actual: Os equipamentos nesta Subestação estão em bom estado operacional, excepto alguns seccionadores que estão obsoletos.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nacala.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Chimuara</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Nacala</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Mopeia, Localidade de Chimuara,
-                            ao longo da Estrada nacional nr.1
+                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Nacala, província de Nampula
                         </p>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1982
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de recomissionamento</spa>: 2002/2018
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 70MVA
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 56MVA
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada actual</spa>: 152MVA
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 70MVA
                         </p>
                         <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/110/33kV
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33/11kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 220/110kV-40MVA, TR2
-                            110/33kV-16MVA, TR3 220/110/33kV-80MVA e TR4 110/33kV-16MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: T101[35MVA, 110/33kV], T102[35MVA, 110/33kV], T31[10MVA, 33/11kV], T33[10MVA, 33/10.5kV], T11[8MVA, 11/6.6kV].
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 202.3MW/Março 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 31.6MW/13 de Outubro de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Prevê-se a substituição do transformador T101, por um novo de 60MVA, com este projecto a substação irá contar com 95MVA.
                         </p>
                     </div>
                 </div>
@@ -144,38 +220,39 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_mocuba.png') }}"
-                            data-caption="SUBESTAÇÃO DE MOCUBA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_mocuba.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_metoro.png') }}"
+                            data-caption="Estado actual: Os equipamentos nesta Subestação estão em bom estado operacional.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_metoro.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Mocuba</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Metoro</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Mocuba, No regulado do Bive, a
-                            7km da Estrada
-                            nacional nr.1
+                            <spa class="uk-text-bold">Localizacação</spa>: Posto administrativo de Metoro, Província de Cabo Delgado
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1982
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2011
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 280MVA
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 10MVA
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada actual</spa>: 271.5MVA
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 45MVA
                         </p>
                         <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/110/33kV
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 220/110/33kV-100MVA, TR2
-                            220/110/33kV-100MVA, TR3 110/33kV-40MVA e TR5 33/11kV-31.5MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[10MVA, 11/33], TR2[35MVA, 110/33]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 173MW/Março 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 10MW/02 de Março de 2021
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Aquando da entrada desta Subestação em serviço, a sua potência instalada era de 10MVA e em 2019, foi instalado um
+                            transformador de 35MVA, vindo da Subestação Nampula 110, subindo assim a potência instalada para 45MVA.
                         </p>
                     </div>
                 </div>
@@ -183,22 +260,61 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_uape.png') }}"
-                            data-caption="SUBESTAÇÃO DE UAPÉ">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_uape.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_pemba.png') }}"
+                            data-caption="Estado actual: Equipamentos em bom estado operacional.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_pemba.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Uapé</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Pemba</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Gilé, na localidade de Uapé, a
-                            115km da Estrada
-                            nacional nr.1
+                            <spa class="uk-text-bold">Localizacação</spa>: Bairro de Muchara, Cidade de Pemba.
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 10MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 60MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[20MVA, 110/33kV], TR2[40MVA, 110/33kV]
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 20.4MW / 27 de Fevereiro 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Em 2015, foi feito o uprating do TR1, passando de 16 para 20MVA a potência do TR1, Em 2017, foi instalado um novo
+                            transformador de 40MVA, passando assim a potência instalada de nesta Subestação de 20 para 60MVA.
+                        </p>
+                    </div>
+                </div>
+
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
+                            data-caption="Estado actual: O equipamento é novo, mas não há informação sobre o estado de conservação do mesmo, dada a situação política-militar, que se vive na região.">
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Macomia</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Macomia, Província de Cabo Delgado
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2010
                         </p>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
@@ -210,10 +326,14 @@
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 110/33kV-16MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[16MVA,110/33kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 1.43MW/Abril 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 1.5MW/Abril de 2019
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Temos um nível de preocupação muito grande em poder fazer uma visita à esta Subestação, para termos dados sobre o estado
+                            real da mesma, há contactos com o objectivos de ter informação actualizada sobre os níveis de segurança na região.
                         </p>
                     </div>
                 </div>
@@ -221,20 +341,20 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_gurue.png') }}"
-                            data-caption="SUBESTAÇÃO DE GURUÉ">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_gurue.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_auasse.png') }}"
+                            data-caption="Estado actual: O equipamento é novo, mas não há informação sobre o estado de conservação do mesmo, dada a situação política-militar, que se vive na região.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_auasse.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Gurué</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Auasse</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Gurué, no perimetro da vila
+                            <spa class="uk-text-bold">Localizacação</spa>: Posta Administrativo de Auasse, Província de Cabo delgado
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2002
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2012
                         </p>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
@@ -246,10 +366,14 @@
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 110/33kV-16MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[16MVA,110/33kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 5.3MW/Janeiro 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 4.9 MW/Março de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Temos um nível de preocupação muito grande em poder fazer uma visita à esta Subestação, para termos dados sobre o estado
+                            real da mesma, há contactos com o objectivos de ter informação actualizada sobre os níveis de segurança na região.
                         </p>
                     </div>
                 </div>
@@ -257,20 +381,20 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_marromeu.png') }}"
-                            data-caption="SUBESTAÇÃO DE MARROMRU">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_marromeu.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_niassa.png') }}"
+                            data-caption="Estado actual: Equipamento em bom estado operacional">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_niassa.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Marromeu</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Cuamba</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Marromeu, no perimetro da vila
+                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Cuamba, Província de Niassa
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2004
                         </p>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
@@ -282,10 +406,14 @@
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 110/33kV-16MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[16MVA,110/33kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 5.4MW/Junho 2020
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 5.5MW/Abril de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Entre os anos 2018 e 2019, a Subestação de Cuamba teve uma ampliação, que consistiu na construção de BAY da linha C25
+                            (linha de marrupa), ampliação de sala de comando e instalação de um STATCOM.
                         </p>
                     </div>
                 </div>
@@ -293,42 +421,123 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_movel_ceramica.png') }}"
-                            data-caption="SUBESTAÇÃO MÓVEL DA CERÂMICA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_movel_ceramica.png') }}" width="500"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_marrupa.png') }}"
+                            data-caption="Estado actual: Equipamento em bom estado operacional">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_marrupa.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação móvel da cerâmica</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Marrupa</h4>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Zona da Cerâmica a 800m da EN 7, no distrito
-                            de Nicoadala
+                            <spa class="uk-text-bold">Localizacação</spa>: Distrito de Marrupa, Província de Niassa
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2017
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2019
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de recomissionamento</spa>: 2017
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 25MVA
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Potência instalada actual</spa>: 25MVA
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 16MVA
                         </p>
                         <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220/33kV
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1 220/33kV-25MVA
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[16MVA,110/33kV]
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: 22MW/Fevereiro 2018
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 1.03MW/ 24 de Outubro de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: A Subestação de Marrupa é a mais nova da DTNO, entrou em funcionamento em 2019 e contribuiu em grande medida na melhoria
+                            da qualidade de energia na Província de Niassa.
                         </p>
                     </div>
-                </div>>
+                </div>
+
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_lichinga.png') }}"
+                            data-caption="Estado actual: O equipamento nesta Subestação está em bom estado operacional">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_lichinga.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Lichinga</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Bairro de Lulimile, Cidade de Lichinga
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 16MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 26MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[16MVA, 110/33kV], Móvel[10MVA, 110/33kV]
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 11.9MW/ 01 de Outubro de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: Desta a sua entrada em funcionamento, a Subestação operou com o transformador TR1, em 2016 foi instalada a Subestação
+                            móvel de 10MVA, para responder ao aumento da carga
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
+                            data-caption="Estado actual:Os equipamentos estão em bom estado operacional.">
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Topuito</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Posto Administrativo de Topuito
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada aquando entrada em serviço</spa>: 50MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Potência instalada actual</spa>: 75MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110/22kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Transformadores de potência</spa>: TR1[25MVA, 110/33kV], TR1[25MVA, 110/33kV], TR1[25MVA, 110/33kV]
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta/Data</spa>: 11.9MW/ 01 de Outubro de 2020
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Nota</spa>: A Subestação é da Empresa de mineração Kenmare, mas a EDM é que faz a manutenção da mesma.
+                        </p>
+                    </div>
+                </div>
+
 
             </div>
 
@@ -339,307 +548,32 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}"
-                            data-caption="LINHA B05 SE’S CHIMUARA-MOCUBA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}" width="500" height="300"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
+                            data-caption="Esta linha tem cabo de guarda nas cinco torres iniciais em Gurue e cinco torres no fim da linha em Cuamba. A linha encontra se em bom estado de conservacao">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B05 SE’S CHIMUARA-MOCUBA</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C22</h4>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE Chimuara – SE Mocuba
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Zambézia no distrito de Gurué
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Niassa no distrito de Cuamba
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2004
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1984
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 477MVA
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 262km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B05=193.20MW/Março de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
-                        </p>
-                    </div>
-                </div>
-
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
-                            data-caption="LINHAS B03 & B04 SE’S MATAMBO – CHIMUARA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}" width="500"
-                                height="300" alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Linhas B03 & BO4 SE&quot; Matambo -
-                            Chimuara</h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE Matambo – SE Chimuara
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1983
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 477MVA para cada
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: B03=294km e B04=291km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: isoladores
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B03=101.90MW/Março de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B04=100.40MW/Março de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
-                        </p>
-                    </div>
-                </div>
-
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nicoadala.png') }}"
-                            data-caption="LINHA B51 PS-NICOADALA – SE CERÂMICA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_nicoadala.png') }}" width="500"
-                                height="300" alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B51 PS-NICOADALA – SE CERÂMICA
-                        </h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: PS Nicoadala – SE Cerâmica
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1986
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 239MVA
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 20km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B51=23.5 /Fevereiro de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
-                        </p>
-                    </div>
-                </div>
-
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}"
-                            data-caption="LINHA B07 SE’S MOCUBA – ALTO MOLOCUÉ">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}" width="500"
-                                height="300" alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B07 SE’S MOCUBA – ALTO MOLOCUÉ
-                        </h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE’s Mocuba – Alto Molocué
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1986
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 239MVA
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 151km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B07=166MW /Março de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
-                        </p>
-                    </div>
-                </div>
-
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}"
-                            data-caption="LINHA B08 SE’S ALTO MOLOCUÉ – NAMPULA 220kV">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}" width="500" height="300"
-                                alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA B08 SE’S ALTO MOLOCUÉ – NAMPULA 220kV
-                        </h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Nampula 220kV
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira Horizontal
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 1986
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 239MVA
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 220kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 183km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Condor
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: B08=157MW /Março de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado
-                        </p>
-                    </div>
-                </div>
-
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}"
-                            data-caption="LINHA C20 SE’S ALTO MOLOCUÉ – UAPÉ">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}" width="500" height="300"
-                                alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C20 SE’S ALTO MOLOCUÉ – UAPÉ
-                        </h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Uapé
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MVA
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 70MW
                         </p>
                         <p class="uk-margin-remove">
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
@@ -648,7 +582,7 @@
                             <spa class="uk-text-bold">Circuito</spa>: Simples
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                            <spa class="uk-text-bold">Comprimento</spa>: 100km
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
@@ -657,13 +591,16 @@
                             <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Porcelana e vidros
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: C20=1.40MW /Fevereiro de 2020
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Aço galvanizado, 7x3.21
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 19.05 no Mês de Setembro do ano de 2015
                         </p>
                     </div>
                 </div>
@@ -671,30 +608,32 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}"
-                            data-caption="LINHA C21 SE’S ALTO MOLOCUÉ - GURUÉ">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}" width="500" height="300"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                            data-caption="Esta linha tem cabo de guarda nas cinco torres iniciais em Gurue e cinco torres no fim da linha em Cuamba. A linha encontra se em bom estado de conservacao">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C21 SE’S ALTO MOLOCUÉ - GURUÉ
-                        </h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C22</h4>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE’s Alto Molocué – Gurué
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Niassa no distrito de Cuamba
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Esteira
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Niassa, cidade de Lichinga
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2005
                         </p>
                         <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2000
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 99MVA
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 70MW
                         </p>
                         <p class="uk-margin-remove">
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
@@ -703,80 +642,29 @@
                             <spa class="uk-text-bold">Circuito</spa>: Simples
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 76km
+                            <spa class="uk-text-bold">Comprimento</spa>: 235km
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Dove
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
+                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: C21=24.0MW /Fevereiro de 2020
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço galvanizado, 7x3.21
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 11.79 no mês de novembro de 2015
                         </p>
                     </div>
                 </div>
 
-                <div
-                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
-                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}"
-                            data-caption="LINHA C24 SE’S CHIMUARA - MARROMEU">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}" width="500" height="300"
-                                alt="" uk-cover>
-                            <canvas width="500" height="300"></canvas>
-                        </a>
-                    </div>
-                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C24 SE’S CHIMUARA - MARROMEU
-                        </h4>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Barramento</spa>: SE’s Chimuara – Marromeu
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Configuração</spa>: Triângulo
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Ano de entrada em serviço</spa>: 2008
-                        </p>
-                        <p class="uk-margin-small">
-                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 63MVA
-                        </p>
-                        <p class="uk-margin-remove">
-                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Comprimento</spa>: 76km
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de condutor</spa>: Leopard
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Vidros
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Ponta/Data</spa>: C24=5.40MW/Junho de 2020
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Cabo de guarda</spa>: Condutor de aço
-                        </p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>

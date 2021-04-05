@@ -148,10 +148,10 @@
                                                     href="{{ route('patrimonio.show', 'centro_norte') }}">3.
                                                     DIVISÃO DE TRANSPORTE CENTRO NORTE</a>
                                             </li>
-                                            {{--  <li class="uk-active uk-text-normal uk-text-uppercase"><a
+                                            <li class="uk-active uk-text-normal uk-text-uppercase"><a
                                                     href="{{ route('patrimonio.show', 'norte') }}">4.
                                                     DIVISÃO DE TRANSPORTE NORTE</a>
-                                            </li>  --}}
+                                            </li>
                                         </ul>
                                     </li>
 
