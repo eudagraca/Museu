@@ -197,8 +197,6 @@
                             <li class="uk-active uk-text-normal uk-text-uppercase"><a
                                     href="{{ route('museu.show', 'details') }}">MUSEU</a></li>
                             <li class="uk-active uk-text-normal uk-text-uppercase"><a
-                                    href="{{ route('museu.show', 'missao') }}">Missão</a></li>
-                            <li class="uk-active uk-text-normal uk-text-uppercase"><a
                                     href="{{ route('museu.show', 'equipe') }}">Equipa técnica</a></li>
 
                         </ul>
