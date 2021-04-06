@@ -549,7 +549,7 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
-                            data-caption="Esta linha tem cabo de guarda nas cinco torres iniciais em Gurue e cinco torres no fim da linha em Cuamba. A linha encontra se em bom estado de conservacao">
+                            data-caption="">
                             <img src="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
@@ -579,19 +579,10 @@
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Comprimento</spa>: 100km
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Proprietário</spa>: EDM
@@ -609,14 +600,14 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
-                            data-caption="Esta linha tem cabo de guarda nas cinco torres iniciais em Gurue e cinco torres no fim da linha em Cuamba. A linha encontra se em bom estado de conservacao">
+                            data-caption="">
                             <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
                     </div>
                     <div class="uk-card-body  uk-width-1-1@m uk-padding">
-                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C22</h4>
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C23</h4>
                         <p class="uk-margin-small">
                             <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
                         </p>
@@ -639,19 +630,62 @@
                             <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Circuito</spa>: Simples
+                            <spa class="uk-text-bold">Comprimento</spa>: 235km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
+                        </p>
+
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 11.79 no mês de novembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cuamba_marupa.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_marupa.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C25</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Niassa no distrito de Cuamba
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Niassa no distrito de Marupa
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2019
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2019
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 70MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Comprimento</spa>: 235km
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de torres</spa>: Metálicas
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
-                        </p>
-                        <p class="uk-margin-small-top uk-margin-small-bottom">
-                            <spa class="uk-text-bold">Tipo de isoladores</spa>: Polimérico e vidros
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Proprietário</spa>: EDM
@@ -661,6 +695,516 @@
                         </p>
                         <p class="uk-margin-small-top uk-margin-small-bottom">
                             <spa class="uk-text-bold">Ponta maxima:</spa>: 11.79 no mês de novembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_central.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_central.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C31</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província da cidade de Nampula (220kV)
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula, cidade de Nampula Central
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 1984
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 99MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 4km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Wolf
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 64.70 no mês de dezembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_monapo.png') }}"
+                            data-caption="Esta linha sofre vandalizacao e roubos contantes de cantoneiras. Erosao agudo na travessia sobre rio Monapo.	Tem espanta passaros danificados">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_monapo.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C32</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula, cidade de Nampula Central
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula no distrito de Monapo
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 1984
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 84MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 131km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Panther
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 33.08 no mês Junho de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_monapo_nacala.png') }}"
+                            data-caption="Esta linha sofre vandalizacao e roubos contantes de cantoneiras. Sofre de erosao em alguns trocos em particular na zona de Nacala Port">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_monapo_nacala.png') }}" width="500" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C33</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula no distrito de Monapo
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula no distrito de Nacala
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 1984
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 84MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 64km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Panther
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2004
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 25.01 no mês de Novembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_moma.png') }}"
+                            data-caption="Da torre 469 a 479 esta linha foi substituido o cabo de guarda por ter sido a fectado pela corosao. A Linha esta em bom estado de conservacao">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_moma.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C34</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula, cidade de Nampula 220kV
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula no distrito de Moma
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2007
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2007
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 70MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 170km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: kenmare
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2007
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 32.00 no mês de Maio de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_metoro.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_metoro.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C35</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula, cidade de Nampula 220kV
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Cabo Delgado no distrito de acuabe, localidade de Metoro
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 301km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: LYNX
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2007
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 32.00 no mês de Maio de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_metoro_pemba.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_metoro_pemba.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C36</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Cabo Delgado no distrito de acuabe, localidade de Metoro
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Cabo Delgado, cidade de Pemba
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 74km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: LYNX
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2005
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 17,30 no mês de Dezembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+<div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_metoro_macomia.png') }}"
+                            data-caption="A Linha C37 encontra se em estado avançado de corrosão de parafusos ao longo da linha, provocando queda de condutores em períodos de ventos fortes.">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_metoro_macomia.png') }}" width="400" height="300" alt=""
+                                uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C37</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Cabo Delgado no distrito de Acuabe, localidade de Metoro
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Cabo Delgado no distrito de Macomia
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2011
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2011
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 132km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: LYNX
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2011
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 5.80 no mês de Novembro de 2015
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
+                            data-caption="Esta linha linha, na travessia sobre o rio Messalo em Macomia esta a afectada pala erosão que culminou com a queda de duas torres ( Torre 151 e Torre 152), como solução foram implantados dois pórticos de estrutura de madeira para garantir o continuo fornecimento de energia na SE Auasse.">
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C38</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Cabo Delgado no distrito de Macomia
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Cabo Delgado no distrito de mosimba da praia, localidade de Auasse
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2012
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2012
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 77MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 87,5km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: LYNX
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2012
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: 4.20 no mês de Maio
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C39</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula no distrito de Nacala
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula no distrito de Nacala – Velha (VALE)
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2015
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2015
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: 99MW
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 28km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Dove
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: Vale
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2012
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: Sem informacao
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_karpowership_nacala.png') }}"
+                            data-caption="">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_karpowership_nacala.png') }}" width="400" height="300"
+                                alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA C40</h4>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Localizacação</spa>: Região Centro Norte
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento inicial</spa>: Província de Nampula no distrito de Nacala (Karpowership)
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Barramento final</spa>: Província de Nampula no distrito de Nacala
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de construção</spa>: 2016
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de Reabilitação</spa>: 2016
+                        </p>
+                        <p class="uk-margin-small">
+                            <spa class="uk-text-bold">Capacidade das linhas</spa>: -
+                        </p>
+                        <p class="uk-margin-remove">
+                            <spa class="uk-text-bold">Níveis de tensão</spa>: 110kV
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Comprimento</spa>: 1.1km
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Tipo de condutor</spa>: Tem
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Proprietário</spa>: EDM
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ano de comissionamento</spa>: 2016
+                        </p>
+                        <p class="uk-margin-small-top uk-margin-small-bottom">
+                            <spa class="uk-text-bold">Ponta maxima:</spa>: Sem informacao
                         </p>
                     </div>
                 </div>

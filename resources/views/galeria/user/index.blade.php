@@ -166,13 +166,6 @@
                 </div>
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/chicamba/37.jpeg') }}"
-                        data-caption="Betonagem da infraestrutura do grupo 4">
-                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/chicamba/37.jpeg') }}" alt="">
-                    </a>
-                </div>
-
-                <div>
                     <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/chicamba/44.jpeg') }}"
                         data-caption="Central Chicamba, 1as escavações">
                         <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/chicamba/44.jpeg') }}" alt="">
@@ -1146,6 +1139,857 @@
                     </a>
                 </div>
 
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/37.jpeg') }}"
+                        data-caption="Betonagem da infraestrutura do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/37.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/36.jpeg') }}"
+                        data-caption="Betonagem da infraestrutura do grupo4, mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/36.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/38.jpeg') }}"
+                        data-caption="Betonagem da infraestrutura, Grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/38.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/39.jpeg') }}"
+                        data-caption="Betonagem do grupo 4 e 3 - 1957, Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/39.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/40.jpeg') }}"
+                        data-caption="Canal de entrada de torre da tomada de água">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/40.jpeg') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/41.jpeg') }}"
+                        data-caption="Canal de entrada de torre da tomada de água">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/41.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/42.jpeg') }}"
+                        data-caption="Casa de válvulas e maciço">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/42.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/43.jpeg') }}"
+                        data-caption="Cela do transformador.">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/43.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/67.jpeg') }}"
+                        data-caption="Central de Mavuzi 07-05-1958.">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/67.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/68.jpeg') }}"
+                        data-caption="Central de Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/68.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/69.jpeg') }}"
+                        data-caption="Central de Mavuzi Escavaçōes do poço de bombagem">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/69.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/70.jpeg') }}"
+                        data-caption="Central de Mavuzi Escavaçōes do poço de bombagem">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/70.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/91.jpeg') }}"
+                        data-caption="Central de Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/91.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/71.jpeg') }}"
+                        data-caption="Central de Mavuzi, Aspectos dos trabalhos no grupo3 em meados de outubro, Fundação da turbina C">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/71.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/72.jpeg') }}"
+                        data-caption="Central de Mavuzi, betonagem da infraestrutura do bloco G-5">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/72.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/73.jpeg') }}"
+                        data-caption="Central de Mavuzi, betonagem da infraestrutura do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/73.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/74.jpeg') }}"
+                        data-caption="Central de Mavuzi, construção da super-estrutura do grupo5, principio de maio de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/74.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/75.jpeg') }}"
+                        data-caption="Central de Mavuzi, escavaçōes">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/75.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/76.jpeg') }}"
+                        data-caption="Central de Mavuzi, Faixa posterior do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/76.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/77.jpeg') }}"
+                        data-caption="Central de Mavuzi, final de novembro de 1957">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/77.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/78.jpeg') }}"
+                        data-caption="Central de Mavuzi, Grupo3 - Fundação do servo-mestre">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/78.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/79.jpeg') }}"
+                        data-caption="Central de Mavuzi, Infa-extrutura do berço G-5">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/79.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/80.jpeg') }}"
+                        data-caption="Central de Mavuzi, infra-estrutura de anexos do grupo IV, fins de maio de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/80.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/81.jpeg') }}"
+                        data-caption="Central de Mavuzi, infra-estrutura de anexos do grupo IV, fins de maio de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/81.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/82.jpeg') }}"
+                        data-caption="Central de Mavuzi, Inicio da betonagem do grupo5">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/82.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/83.jpeg') }}"
+                        data-caption="Central de Mavuzi, Montagem de cofragem e armaduras do grupo3">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/83.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/84.jpeg') }}"
+                        data-caption="Central de Mavuzi, Murro de suporte da estação">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/84.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/85.jpeg') }}"
+                        data-caption="Central de Mavuzi, murro de suporte da estrada da subestação - 17-01-1951">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/85.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/86.jpeg') }}"
+                        data-caption="Central de Mavuzi, poço de bombagem">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/86.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/87.jpeg') }}"
+                        data-caption="Central de Mavuzi, superestrutura do blocoG-4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/87.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/88.jpeg') }}"
+                        data-caption="Central de Mavuzi, transporte do transformador do grupo 4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/88.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/90.jpeg') }}"
+                        data-caption="Central de Mavuzi, Transporte do transformador do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/90.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/89.jpeg') }}"
+                        data-caption="Central de Mavuzi, Transporte do transformador do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/89.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/92.jpeg') }}"
+                        data-caption="Central de Mavuzi 12">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/92.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/93.jpeg') }}"
+                        data-caption="Central em construcao, chicamba1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/93.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/94.jpeg') }}"
+                        data-caption="Central Mavuzi - Transporte do transformador">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/94.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/95.jpeg') }}"
+                        data-caption="Central Mavuzi - Transporte do transformador 1">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/95.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/96.jpeg') }}"
+                        data-caption="Central Mavuzi - Transporte do transformador 2">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/96.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/97.jpeg') }}"
+                        data-caption="Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/97.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/98.jpeg') }}"
+                        data-caption="Central Mavuzi, Canal de fuga, bloco5">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/98.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/99.jpeg') }}"
+                        data-caption="Central Mavuzi, Rolhao de fecho da conduta forcada em construcao 1955">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/99.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/100.jpeg') }}"
+                        data-caption="Central Mavuzi, Rolhao de fecho da conduta forcada em construcao 1955">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/100.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/101.jpeg') }}"
+                        data-caption="Central Mavuzi, Rolhao de fecho da conduta forcada em construcao 1955">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/101.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/102.jpeg') }}"
+                        data-caption="Central Mavuzi, Rolhao de fecho da conduta forcada em construcao 1955">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/102.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/103.jpeg') }}"
+                        data-caption="Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/103.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/104.jpeg') }}"
+                        data-caption="Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/104.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/105.jpeg') }}"
+                        data-caption="Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/105.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/185.jpeg') }}"
+                        data-caption="Junta da delimitação da conduta forcada, Central mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/185.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/186.jpeg') }}"
+                        data-caption="Junta de delatacao da conduta forcada, central mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/186.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/187.jpeg') }}"
+                        data-caption="Lado de cima do Alternador">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/187.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/188.jpeg') }}"
+                        data-caption="Linha 66 Kv, mavuzi - Chimoio">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/188.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/189.jpeg') }}"
+                        data-caption="Linha 66kv Mavuzi - 1950">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/189.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/190.jpeg') }}"
+                        data-caption="Linha 66kv, Mavuzi - Chimoio, Postes">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/190.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/191.jpeg') }}"
+                        data-caption="Linha Beira-Mavuzi em construcao, alta tensa">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/191.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/192.jpeg') }}"
+                        data-caption="Linha de alta tensao em construcao, Beira mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/192.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/193.jpeg') }}"
+                        data-caption="Linha de alta tensao em construcao, Beira mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/193.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/194.jpeg') }}"
+                        data-caption="Linha Mavuzi-Beira, alta tensao, 29-09-1972">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/194.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/198.jpeg') }}"
+                        data-caption="Mavuze">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/198.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/199.jpeg') }}"
+                        data-caption="Mavuzi, alteamento do acude, maio de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/199.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/200.jpeg') }}"
+                        data-caption="Mavuzi, Arcos da ponte Acude">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/200.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/201.jpeg') }}"
+                        data-caption="Mavuzi, Carga do estrator do alternador do grupo4 para o camião Albim">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/201.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/202.jpeg') }}"
+                        data-caption="Mavuzi, evolução da turbina do grupo4 em vila peng - 10-03-1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/202.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/203.jpeg') }}"
+                        data-caption="Mavuzi, infra-estrutura do grupo3 - armaduras. principio de Setembro">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/203.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/204.jpeg') }}"
+                        data-caption="Mavuzi, Maio 1977- Valvulas e condutas">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/204.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/205.jpeg') }}"
+                        data-caption="Mavuzi, Passagem na ponte açude - abril de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/205.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/206.jpeg') }}"
+                        data-caption="Mavuzi, ponte acude, margem direita">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/206.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/207.jpeg') }}"
+                        data-caption="Mavuzi, ponte açude">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/207.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/208.jpeg') }}"
+                        data-caption="Mavuzi, vista da ponte acude">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/208.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/209.jpeg') }}"
+                        data-caption="Moldagem de fundação, Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/209.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/210.jpeg') }}"
+                        data-caption="Molde de construção de postes de betão, linha 66kv, Mavuzi - Chimoio">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/210.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/211.jpeg') }}"
+                        data-caption="Molde de construção do túnel na central Mavuzi - 1950">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/211.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/212.jpeg') }}"
+                        data-caption="Molde de contrução ou fabrico de poste de betão das linhas 66ku - Mavuzi, Chimoio">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/212.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/213.jpeg') }}"
+                        data-caption="Moldes do tabuleiro da ponte acude, Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/213.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/214.jpeg') }}"
+                        data-caption="Montagem da turbina, Grupo4, Central mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/214.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/215.jpeg') }}"
+                        data-caption="Montagem da turbina">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/215.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/216.jpeg') }}"
+                        data-caption="Montagemda evoluta da turbina do grupo4">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/216.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/218.jpeg') }}"
+                        data-caption="Na construção da linha beira-Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/218.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/226.jpeg') }}"
+                        data-caption="Planta de ficcao dos orgaos de manobras das comportas, mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/226.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/227.jpeg') }}"
+                        data-caption="Ponte açude - Arcos, Central mavuze">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/227.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/228.jpeg') }}"
+                        data-caption="Ponte acude com pilares Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/228.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/230.jpeg') }}"
+                        data-caption="Ponte açude, Moldagem tibreiro, 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/230.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/231.jpeg') }}"
+                        data-caption="Ponte açude, vista geral, mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/231.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/232.jpeg') }}"
+                        data-caption="Poste de alta tensão, linha Beira-Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/232.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/233.jpeg') }}"
+                        data-caption="Postes de betão da linha 66kv - Mavuzi, Chimoio 1950">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/233.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/234.jpeg') }}"
+                        data-caption="Postes de betão da linha 66kv Mavuzi, Chimoio, década 50">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/234.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/235.jpeg') }}"
+                        data-caption="Quedas do rio Revué CDM 55m">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/235.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/236.jpeg') }}"
+                        data-caption="Retirada do material sólido no interior da galeria do túnel em construção, Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/236.jpeg') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/241.jpeg') }}"
+                        data-caption="Subestação da central de Mavuzi na 1a fase 1952">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/241.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/255.jpeg') }}"
+                        data-caption="Válvula n1, jacto de 25m3/s - Central Mavuzi">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/255.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/256.jpeg') }}"
+                        data-caption="Vigamento dos tabuleiros de ponte acude">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/256.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/257.jpeg') }}"
+                        data-caption="Vista geral da ponte açude julho de 1958">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/257.jpeg') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}" alt="">
+                    </a>
+                </div>
+
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/609.JPG') }}" alt="">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/610.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/610.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/611.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/611.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/612.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/612.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/613.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/613.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/614.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/614.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/615.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/615.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/616.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/616.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/617.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/617.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/618.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/618.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/619.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/619.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/620.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/620.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/621.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/621.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/622.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/622.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/623.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/623.JPG') }}" alt="">
+                    </a>
+                </div>
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/624.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/624.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/625.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/625.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/626.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/626.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/627.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/627.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/628.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/628.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/629.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/629.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/630.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/630.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/631.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/631.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/632.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/632.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/633.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/633.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/634.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/634.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/660.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/660.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/661.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/661.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/662.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/662.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/663.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/663.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/664.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/664.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/665.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/665.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/666.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/666.JPG') }}" alt="">
+                    </a>
+                </div>
+
+                <div>
+                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/mavuzi/667.JPG') }}">
+                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/mavuzi/667.JPG') }}" alt="">
+                    </a>
+                </div>
+
 
             </div>
         </li>
@@ -1270,14 +2114,6 @@
                         <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/timane/405.JPG') }}" alt="">
                     </a>
                 </div>
-
-                <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/timane/406.JPG') }}"
-                        data-caption="">
-                        <img style="height: 120px;" src="{{ secure_asset('/assets/images/galeria/timane/406.JPG') }}" alt="">
-                    </a>
-                </div>
-
 
                 <div>
                     <a class="uk-inline uk-border-rounded" href="{{ secure_asset('/assets/images/galeria/timane/407.JPG') }}"

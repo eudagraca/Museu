@@ -999,4 +999,1103 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se25.png') }}"
+                            data-caption="Essa Subestação funciona também como ponto de transição ou transferência de carga a partir das Subestações de Infulene através da linha DL3 e Matola através da linha DL11 para alimentar o Centro de cidade de Maputo e uma parte da Cidade da Matola.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se25.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação da CTM</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Cidade de Maputo, no bairro Luis Cabral.
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: N/D
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: N/D
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 30MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 66/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR13 [66/33kV - 30MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: N/D
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: Essa Subestação funciona também como ponto de
+                            transição ou transferência de carga a partir das Subestações de Infulene
+                            através da linha DL3 e Matola através da linha DL11 para alimentar o Centro de cidade de
+                            Maputo e uma parte da Cidade da
+                            Matola.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se26.png') }}"
+                            data-caption="A subestação recebe a tensão a partir da subestação de Infulene através da linha CL1  a 110kV e alimenta a vila municipal de Macia e arredores do distrito de Bilene a 33kV.
+                        No projecto Inicial a subestação erra composta por um transformador de 110/33KV-10MVA, posteriormente foi substituído por um de 16MVA.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se26.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação Macia</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Província de Gaza, Distrito de Bilene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2003/4
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 10MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 26MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 16MVA] e TR
+                            Móvel [110/33kV - 10MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 16.5MW em dezembro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: A subestação recebe a tensão a partir da subestação de
+                            Infulene através da linha CL1 a 110kV e alimenta a vila municipal
+                            de Macia e arredores do distrito de Bilene a 33kV.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se27.png') }}"
+                            data-caption="A subestação recebe a tensão a partir de duas fontes, a BL5 apartir da SE Ressano Garcia e CL3B apartir da SE Kuvaninga e alimenta a SE Macia atravez da Linha CL3A.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se27.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Dzimbene</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Província de Gaza, Distrito de Bilene,
+                            localidade de Dzimbene.
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2017
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 250MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 250MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275/110kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 16MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 69.7MW Janeiro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: A subestação recebe a tensão a partir de duas fontes,
+                            a BL5 apartir da SE Ressano Garcia e CL3B apartir da SE Kuvaninga
+                            e alimenta a SE Macia atravez da Linha CL3A.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se28.png') }}"
+                            data-caption="Importa referir que apenas o TR2 esta em funcionamento. A subestacao recebe a tensão a partir da linha CL3. Essa Subestação alimenta o distrito de Chokwé e através da interligação com a subestação de Macia, a Subestação de Lionde pode alimentar a Vila de Macia – distrito de Bilene.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se28.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Lionde</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Provincia de Gaza, Distrito de Chokwe, na
+                            Localidade de Lionde.
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1985 e recondicionada em 2018
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 32MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 32MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR3 [110/33kV - 16MVA] e TR2
+                            [110/33kV - 16MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 12.08MW em Janeiro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: Importa referir que apenas o TR2 esta em
+                            funcionamento. A subestacao recebe a tensão a partir da linha CL3.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se29.png') }}"
+                            data-caption="A subestacao é alimentada a partir da subestação de Lionde através da linha CL7 a 110KV e alimenta a vila de Mapai e arredores do distrito com o mesmo nome a 33KV. Igualmente alimenta os distritos de Mabalane e Massingir a 33KV.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se29.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Mapai</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Província de Gaza, no Distrito de Mapai.
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2016
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 16MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 16MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 16MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 2MW
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: A subestacao é alimentada a partir da subestação de
+                            Lionde através da linha CL7 a 110KV e alimenta a vila de Mapai e
+                            arredores do distrito com o mesmo nome a 33KV.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se30.png') }}"
+                            data-caption="A subestacao recebe tensão a partir da Subestação de Infulene através da linha CL2 proveniente da SE Macia e interliga com a SE Lindela através de CL9. Alimenta a Cidade de Xai – Xai, Posto Administrativo de Chissano, Distrito de Chidenguele, Chibuto e a região de Chonguene e Zunguene. Foi inaugurado em 1984 e 2004 aumentou-se a sua capacidade de 16 MVA para 40 MVA.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se30.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Chicumbane</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Provincia de Gaza, no distrito de Xai – Xai,
+                            localidade de Chicumbane.
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1984 e requalificada em 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 16MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 40MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 40MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 30MW em Dezembro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: A subestacao recebe tensão a partir da Subestação de
+                            Infulene através da linha CL2 proveniente da SE Macia e interliga
+                            com a SE Lindela através de CL9.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se31.png') }}"
+                            data-caption="Recebe a partir de SE Chicumbane através das linhas CL9. Alimenta cidade de Inhambane a partir da linha EL1-Inhambane, Maxixe a partir da linha EL2-Maxixe, Inharrime a partir da linha EL3-Inharrime, Funhalouro a partir da linha EL4-Funhalouro, Praia de Paindane a partir da linha EL5 e os restantes distritos da Província de Inhambane.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se31.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Lindela</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Provincia de Inhambane, Distrito de Jangamo,
+                            Localidade de Lindela
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2002
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 16MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 32MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 66/11kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 16MVA] e TR2
+                            [110/33kV - 16MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 25.42MW em Dezembro de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: Recebe a partir de SE Chicumbane através das linhas
+                            CL9.
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_massinga.png') }}"
+                            data-caption="Recebe 110kv a partir de SE Lionde através das linhas CL10.">
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_massinga.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">Subestação de Massinga</h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Provincia de Inhambane, Municipio de
+                            Massinga, Localidade de Nguluve
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2018
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada aquando entrada em serviço</span>: 30MVA
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Potência instalada actual</span>: 30MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110/33kV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Transformadores de potência</span>: TR1 [110/33kV - 30MVA]
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: 5.26MW em Junho de 2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Nota</span>: Recebe 110kv a partir de SE Lionde através das linhas
+                            CL10.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h3 class="uk-heading-divider  uk-text-bold uk-margin-large-top">Linhas</h3>
+
+            <div uk-grid="masonry: true" uk-lightbox="animation: slide">
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                            data-caption="LINHA BL5 SE’S RESSANO GARCIA-MACIA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL5 SE’S RESSANO GARCIA-MACIA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Dzimbene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2017
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Condutor</span>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 187km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: BL5=59,24/12/2019
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}"
+                            data-caption="LINHA BL4 SE’S RESSANO GARCIA-KOMATTI PORT">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL4 SE’S RESSANO GARCIA-KOMATTI
+                            PORT
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: Komatti Port
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1973
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Condutor</span>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 9km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: BL4= 359,84MVA/01/2017
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}"
+                            data-caption="LINHA BL3 SE’S MAPUTO-MATOLA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL3 SE’S MAPUTO-MATOLA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Maputo
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Matola 275
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2004
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Condutor</span>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 16km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: BL3= 497MVA/06/2015
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}"
+                            data-caption="LINHA BL2 SE’S INFULENE- RESSANO GARCIA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL2 SE’S INFULENE- RESSANO
+                            GARCIA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Infulene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1972
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Condutor</span>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 76km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: BL2= 498,25MVA (10/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}"
+                            data-caption="LINHA BL1 SE’S INFULENE-MATOLA 275">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA BL1 SE’S INFULENE-MATOLA 275
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Infulene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Matola 275
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2000
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 479MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 275KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Condutor</span>: Duplo por fase
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 16km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: 2xBear
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Polimérico
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: BL1=405,73MVA (01/2016) e BL1=401,97MVA
+                            (01/2017)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado + OPW
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}"
+                            data-caption="LINHA CL9 SE’S CHICUMBANE- INHAMBANE">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL9 SE’S CHICUMBANE- INHAMBANE
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Chicumbane
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Inhambane
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2002
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 68MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 233,8km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: AAAC 150
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Porcelana & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL9= 30,55MVA (02/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}"
+                            data-caption="LINHA CL7 SE’S KUVANINGA-MAPAI">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL7 SE’S KUVANINGA-MAPAI
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Kuvaninga
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Mapai
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2002
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 68MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 233,8km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: AAAC 150
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Porcelana & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL9= 30,55MVA (02/2015)
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}"
+                            data-caption="LINHA CL6 SE’S LIONDE-KUVANINGA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL6 SE’S LIONDE-KUVANINGA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Lione
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Ressano
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Triângulo
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 2015
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 31,5km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Porcelana
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL6= 32,3MVA/02/2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Condutor de aço galvanizado
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline"
+                            href="{{ secure_asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
+                            data-caption="LINHA CL5 SE’S CORRUMANA-KOMATTI PORT">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
+                                width="500" height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL5 SE’S CORRUMANA-KOMATTI PORT
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Corrumana
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: komatti Port
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1990
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 40km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL5=
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Não desenhada para cabo de guarda
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_corrumana.png') }}"
+                            data-caption="LINHA CL4 SE’S INFULENE-CORRUMANA">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_corrumana.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL4 SE’S INFULENE-CORRUMANA
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Infulene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: Corrumana
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1984
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 92km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Poliméricos & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL4= 52,75MVA/04/2017
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Não desenhada para cabo de guarda
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_macia_dzimbene.png') }}"
+                            data-caption="LINHA CL3A SE’S MACIA – DZIMBENE">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_macia_dzimbene.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL3A SE’S MACIA – DZIMBENE
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Macia
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: Dzimbene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1983
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 4km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Poliméricos & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL3A= 77,18MVA/12/2019
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Não desenhada para cabo de guarda
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_dzimbene_lionde.png') }}"
+                            data-caption="LINHA CL3B SE’S DZIMBENE – LIONDE">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_dzimbene_lionde.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL3B SE’S DZIMBENE – LIONDE
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Dzimbene
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Lionde
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1983
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 49km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Poliméricos & Vidro
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL3B=23,205MVA/01/2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Não desenhada para cabo de guarda
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_macia_chicumbane.png') }}"
+                            data-caption="LINHA CL2 SE’S MACIA – CHICUMBANE">
+                            <img src="{{ secure_asset('assets/images/centrais/linha_macia_chicumbane.png') }}" width="500"
+                                height="300" alt="" uk-cover>
+                            <canvas width="500" height="300"></canvas>
+                        </a>
+                    </div>
+                    <div class="uk-card-body  uk-width-1-1@m uk-padding">
+                        <h4 class="uk-text-bold uk-text-primary uk-margin-remove">LINHA CL2 SE’S MACIA – CHICUMBANE
+                        </h4>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Localizacação</span>: Região Centro Sul
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento inicial</span>: SE Macia
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Barramento final</span>: SE Chicumbane
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Configuração</span>: Esteira Horizontal
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Ano de entrada em serviço</span>: 1983
+                        </p>
+                        <p class="uk-margin-small">
+                            <span class="uk-text-bold">Capacidade da linha</span>: 99MVA
+                        </p>
+                        <p class="uk-margin-remove">
+                            <span class="uk-text-bold">Níveis de tensão</span>: 110KV
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Circuito</span>: Simples
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Comprimento</span>: 49km
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de torres</span>: Metálicas
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de condutor</span>: Dove
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Tipo de isoladores</span>: Poliméricos
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Ponta/Data</span>: CL2=59,16MVA/12/2020
+                        </p>
+                        <p class="uk-margin-small-top">
+                            <span class="uk-text-bold">Cabo de guarda</span>: Não desenhada para cabo de guarda
+                        </p>
+                    </div>
+                </div>
+
+                <div
+                    class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
+                    <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline" href="{{ 
