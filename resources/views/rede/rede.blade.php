@@ -32,8 +32,8 @@
 
 
              <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                    <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" data-caption="Aulas práticas do curso de electricidade no Centro de Formação da EDM  ">
-                        <img src="{{ secure_asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" class="uk-border-rounded"
+                    <a class="uk-inline" href="{{ asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" data-caption="Aulas práticas do curso de electricidade no Centro de Formação da EDM  ">
+                        <img src="{{ asset('assets/images/paginas/foto_formacao_40_parte_1.jpeg') }}" class="uk-border-rounded"
                             width="500px" height="250px" alt="" uk-img></a>
                     <p class="uk-text-primary">Aulas práticas do curso de electricidade no Centro de Formação da EDM </p>
                 </div>

@@ -46,9 +46,9 @@
             </div>
             <div class="uk-width-1-3@m" uk-lightbox="animation: slide">
                 <a class="uk-inline uk-margin-right uk-margin-top"
-                    href="{{ secure_asset('assets/images/mapa_transporte.png') }}"
+                    href="{{ asset('assets/images/mapa_transporte.png') }}"
                     data-caption="Rede Transporte Energia. Fonte: Plano de Negócio da EDM 2020 - 2024">
-                    <img src="{{ secure_asset('assets/images/mapa_transporte.png') }}" class="uk-border-rounded" width="350px"
+                    <img src="{{ asset('assets/images/mapa_transporte.png') }}" class="uk-border-rounded" width="350px"
                         height="50px" alt="" uk-img></a>
                         <p>Rede Transporte Energia. Fonte: Plano de Negócio da EDM 2020 - 2024</p>
 
@@ -65,9 +65,9 @@
                     </p>
                     <div class="uk-width-1-1@m uk-flex uk-flex-center" uk-lightbox="animation: slide">
                         <a class="uk-inline uk-margin-right uk-margin-top"
-                            href="{{ secure_asset('assets/images/elementos_da_rede.png') }}"
+                            href="{{ asset('assets/images/elementos_da_rede.png') }}"
                             data-caption="Descrição dos elementos da rede. Fonte: Plano de Negócio da EDM 2020 - 2024">
-                            <img src="{{ secure_asset('assets/images/elementos_da_rede.png') }}" class="uk-border-rounded uk-margin-large-left" width="500px"
+                            <img src="{{ asset('assets/images/elementos_da_rede.png') }}" class="uk-border-rounded uk-margin-large-left" width="500px"
                                 height="100px" alt="" uk-img></a>
 
                     </div>
