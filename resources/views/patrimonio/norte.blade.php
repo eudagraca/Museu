@@ -21,9 +21,9 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_nampula.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}"
                             data-caption="Estado actual: Os equipamentos nesta subestação estão em bom estado operacional, mas com alguns casos que merecem um pouco de atenção, nomeadamente: O disjuntor do lado de alta do T1, cuja fixação do mecanismo de operação foi feita por adaptação; o tap changer do T5 com uma das molas do acumulador de energia partida e alguns seccionadores cujos mecanismos estão obsoletos.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_nampula.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -60,9 +60,9 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_nampula_2.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}"
                             data-caption="Estado actual: Os   equipamentos   nesta  substação  estão	em bom estado operacional, tendo porém problemas de obsolescência de seccionadores.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_nampula_2.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -101,9 +101,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_namialo.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_namialo.png') }}"
                             data-caption="Equipamento novo e em bom estado operacional.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_namialo.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_namialo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -141,9 +141,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_monapo.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_monapo.png') }}"
                             data-caption="Os   equipamentos   nesta  substação  estão	em bom estado operacional, tendo porém problemas de obsolescência de seccionadores">
-                            <img src="{{ asset('assets/images/centrais/subestacao_monapo.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_monapo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -181,9 +181,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_nacala.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_nacala.png') }}"
                             data-caption="Estado actual: Os equipamentos nesta Subestação estão em bom estado operacional, excepto alguns seccionadores que estão obsoletos.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_nacala.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_nacala.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -220,9 +220,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_metoro.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_metoro.png') }}"
                             data-caption="Estado actual: Os equipamentos nesta Subestação estão em bom estado operacional.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_metoro.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_metoro.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -260,9 +260,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_pemba.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_pemba.png') }}"
                             data-caption="Estado actual: Equipamentos em bom estado operacional.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_pemba.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_pemba.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -301,9 +301,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/no_image.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
                             data-caption="Estado actual: O equipamento é novo, mas não há informação sobre o estado de conservação do mesmo, dada a situação política-militar, que se vive na região.">
-                            <img src="{{ asset('assets/images/centrais/no_image.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -341,9 +341,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_auasse.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_auasse.png') }}"
                             data-caption="Estado actual: O equipamento é novo, mas não há informação sobre o estado de conservação do mesmo, dada a situação política-militar, que se vive na região.">
-                            <img src="{{ asset('assets/images/centrais/subestacao_auasse.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_auasse.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -381,9 +381,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_niassa.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_niassa.png') }}"
                             data-caption="Estado actual: Equipamento em bom estado operacional">
-                            <img src="{{ asset('assets/images/centrais/subestacao_niassa.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_niassa.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -421,9 +421,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_marrupa.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_marrupa.png') }}"
                             data-caption="Estado actual: Equipamento em bom estado operacional">
-                            <img src="{{ asset('assets/images/centrais/subestacao_marrupa.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_marrupa.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -462,9 +462,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_lichinga.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_lichinga.png') }}"
                             data-caption="Estado actual: O equipamento nesta Subestação está em bom estado operacional">
-                            <img src="{{ asset('assets/images/centrais/subestacao_lichinga.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_lichinga.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -502,9 +502,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/no_image.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
                             data-caption="Estado actual:Os equipamentos estão em bom estado operacional.">
-                            <img src="{{ asset('assets/images/centrais/no_image.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -548,9 +548,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_gurue_cuamba.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -599,9 +599,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -651,9 +651,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_cuamba_marupa.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cuamba_marupa.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_cuamba_marupa.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_marupa.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -702,9 +702,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nampula_central.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_central.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_nampula_central.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_central.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -753,9 +753,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nampula_monapo.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_monapo.png') }}"
                             data-caption="Esta linha sofre vandalizacao e roubos contantes de cantoneiras. Erosao agudo na travessia sobre rio Monapo.	Tem espanta passaros danificados">
-                            <img src="{{ asset('assets/images/centrais/linha_nampula_monapo.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_monapo.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -804,9 +804,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_monapo_nacala.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_monapo_nacala.png') }}"
                             data-caption="Esta linha sofre vandalizacao e roubos contantes de cantoneiras. Sofre de erosao em alguns trocos em particular na zona de Nacala Port">
-                            <img src="{{ asset('assets/images/centrais/linha_monapo_nacala.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_monapo_nacala.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -855,9 +855,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nampula_moma.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_moma.png') }}"
                             data-caption="Da torre 469 a 479 esta linha foi substituido o cabo de guarda por ter sido a fectado pela corosao. A Linha esta em bom estado de conservacao">
-                            <img src="{{ asset('assets/images/centrais/linha_nampula_moma.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_moma.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -906,9 +906,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nampula_metoro.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nampula_metoro.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_nampula_metoro.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nampula_metoro.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -957,9 +957,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_metoro_pemba.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_metoro_pemba.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_metoro_pemba.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_metoro_pemba.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1008,9 +1008,9 @@
 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_metoro_macomia.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_metoro_macomia.png') }}"
                             data-caption="A Linha C37 encontra se em estado avançado de corrosão de parafusos ao longo da linha, provocando queda de condutores em períodos de ventos fortes.">
-                            <img src="{{ asset('assets/images/centrais/linha_metoro_macomia.png') }}" width="400" height="300" alt=""
+                            <img src="{{ secure_asset('assets/images/centrais/linha_metoro_macomia.png') }}" width="400" height="300" alt=""
                                 uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1059,9 +1059,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/no_image.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/no_image.png') }}"
                             data-caption="Esta linha linha, na travessia sobre o rio Messalo em Macomia esta a afectada pala erosão que culminou com a queda de duas torres ( Torre 151 e Torre 152), como solução foram implantados dois pórticos de estrutura de madeira para garantir o continuo fornecimento de energia na SE Auasse.">
-                            <img src="{{ asset('assets/images/centrais/no_image.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/no_image.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1110,9 +1110,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nacala_nacala_velha.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1161,9 +1161,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_karpowership_nacala.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_karpowership_nacala.png') }}"
                             data-caption="">
-                            <img src="{{ asset('assets/images/centrais/linha_karpowership_nacala.png') }}" width="400" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_karpowership_nacala.png') }}" width="400" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>

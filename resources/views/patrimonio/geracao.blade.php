@@ -23,9 +23,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/Central_Corumana.jpg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_Corumana.jpg') }}"
                                 data-caption="Central Hídrica de Corumana">
-                                <img src="{{ asset('assets/images/centrais/Central_Corumana.jpg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/Central_Corumana.jpg') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -51,9 +51,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/Central_Chicamba_II.jpg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_Chicamba_II.jpg') }}"
                                 data-caption="Central Hídrica de Chicamba">
-                                <img src="{{ asset('assets/images/centrais/Central_Chicamba_II.jpg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/Central_Chicamba_II.jpg') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -79,9 +79,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}"
                                 data-caption="Central Hídrica de Mavuzi">
-                                <img src="{{ asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/paginas/barragens_vhicamba__mavuzi02.png') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -107,9 +107,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/central_termica_gas.jpg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/central_termica_gas.jpg') }}"
                                 data-caption="Central Térmica-Gás de Temane">
-                                <img src="{{ asset('assets/images/centrais/central_termica_gas.jpg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/central_termica_gas.jpg') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -135,9 +135,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/GTG.jpeg') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/GTG.jpeg') }}"
                                 data-caption="GTG - Beira">
-                                <img src="{{ asset('assets/images/centrais/GTG.jpeg') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/GTG.jpeg') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -163,9 +163,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}"
                                 data-caption="Central Térmica-Gás de Temane">
-                                <img src="{{ asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/Central_terminca_Lichinga.JPG') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -191,9 +191,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/Central_Cuamba.JPG') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/Central_Cuamba.JPG') }}"
                                 data-caption="Central Térmica-Gás de Temane">
-                                <img src="{{ asset('assets/images/centrais/Central_Cuamba.JPG') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/Central_Cuamba.JPG') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -219,9 +219,9 @@
                 <div class="uk-grid-small uk-width-1-2@m">
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove" uk-grid>
                         <div class="uk-card-media-left uk-cover-container">
-                            <a class="uk-inline" href="{{ asset('assets/images/centrais/GTGII_da_CTM.png') }}"
+                            <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/GTGII_da_CTM.png') }}"
                                 data-caption="Central Térmica-Gás de Temane">
-                                <img src="{{ asset('assets/images/centrais/GTGII_da_CTM.png') }}" width="600"
+                                <img src="{{ secure_asset('assets/images/centrais/GTGII_da_CTM.png') }}" width="600"
                                     height="500" alt="" uk-cover>
                                 <canvas width="600" height="500"></canvas>
                             </a>
@@ -254,7 +254,13 @@
         <ul class="uk-nav uk-nav-default uk-align-left">
             <li class="uk-nav-header uk-text-bold uk-text-primary">Próximas páginas relacionadas</li>
             <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
-                    href="{{ route('patrimonio.show', "transmissao") }}">Transmissão</a></li>
+                    href="{{ route('patrimonio.show', "sul") }}">Transmissão - Divisão de transporte Sul</a></li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('patrimonio.show', "centro") }}">Transmissão - Divisão de transporte Centro</a></li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('patrimonio.show', "centro_norte") }}">Transmissão - Divisão de transporte Centro Norte</a></li>
+            <li class="uk-flex uk-flex-left"><a class="uk-button uk-button-text"
+                    href="{{ route('patrimonio.show', "norte") }}">Transmissão - Divisão de transporte Norte</a></li>
         </ul>
     </div>
 </div>

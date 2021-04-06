@@ -11,15 +11,15 @@
         <title>Museu Virtual da EDM</title>
 
         <!-- Styles -->
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-        <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/custom.css') }}" rel="stylesheet">
     </head>
 
     <body>
         <div id="app">
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
-                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ asset('assets/images/logo_edm.png') }}"
+                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
                             alt="" srcset=""></a>
                 </div>
                 <div
@@ -271,11 +271,19 @@
 
                             <li class="uk-parent ">
                                 <a class="uk-active uk-text-normal uk-text-uppercase"
-                                    href="{{ route('patrimonio.show', 'transmissao') }}">Transmissão</a>
+                                    href="#">Transmissão</a>
                                 <ul class="uk-nav-sub">
-                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a
-                                            href="{{ route('rede.show', 'geracao') }}">1.
-                                            Geração</a>
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'sul') }}">1.
+                                            DIVISÃO DE TRANSPORTE SUL</a>
+                                    </li>
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'centro') }}">2.
+                                            DIVISÃO DE TRANSPORTE CENTRO</a>
+                                    </li>
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'centro_norte') }}">3.
+                                            DIVISÃO DE TRANSPORTE CENTRO NORTE</a>
+                                    </li>
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'norte') }}">4.
+                                            DIVISÃO DE TRANSPORTE NORTE</a>
                                     </li>
                                 </ul>
                             </li>
@@ -307,7 +315,7 @@
                 </script>, Electricidade de Moçambique.
             </p>
         </div>
-        <script src="{{ asset('js/app.js') }}" defer></script>
+        <script src="{{ secure_asset('js/app.js') }}" defer></script>
     </body>
 
 </html>

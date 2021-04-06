@@ -21,9 +21,9 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_ceramica.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}"
                             data-caption="1.	SUBESTAÇÃO DA CERÂMICA">
-                            <img src="{{ asset('assets/images/centrais/subestacao_ceramica.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -62,9 +62,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
                             data-caption="Subestação da Alto Molocué">
-                            <img src="{{ asset('assets/images/centrais/subestacao_alto_molocue.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -103,9 +103,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_chimuara.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_chimuara.png') }}"
                             data-caption="SUBESTAÇÃO DE CHIMUARA">
-                            <img src="{{ asset('assets/images/centrais/subestacao_chimuara.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_chimuara.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -144,9 +144,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_mocuba.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_mocuba.png') }}"
                             data-caption="SUBESTAÇÃO DE MOCUBA">
-                            <img src="{{ asset('assets/images/centrais/subestacao_mocuba.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_mocuba.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -183,9 +183,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_uape.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_uape.png') }}"
                             data-caption="SUBESTAÇÃO DE UAPÉ">
-                            <img src="{{ asset('assets/images/centrais/subestacao_uape.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_uape.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -221,9 +221,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_gurue.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_gurue.png') }}"
                             data-caption="SUBESTAÇÃO DE GURUÉ">
-                            <img src="{{ asset('assets/images/centrais/subestacao_gurue.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_gurue.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -257,9 +257,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_marromeu.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_marromeu.png') }}"
                             data-caption="SUBESTAÇÃO DE MARROMRU">
-                            <img src="{{ asset('assets/images/centrais/subestacao_marromeu.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_marromeu.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -293,9 +293,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_movel_ceramica.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_movel_ceramica.png') }}"
                             data-caption="SUBESTAÇÃO MÓVEL DA CERÂMICA">
-                            <img src="{{ asset('assets/images/centrais/subestacao_movel_ceramica.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_movel_ceramica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -339,9 +339,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chimuara.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}"
                             data-caption="LINHA B05 SE’S CHIMUARA-MOCUBA">
-                            <img src="{{ asset('assets/images/centrais/linha_chimuara.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -393,9 +393,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
                             data-caption="LINHAS B03 & B04 SE’S MATAMBO – CHIMUARA">
-                            <img src="{{ asset('assets/images/centrais/subestacao_linha_matambo.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -451,9 +451,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_nicoadala.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_nicoadala.png') }}"
                             data-caption="LINHA B51 PS-NICOADALA – SE CERÂMICA">
-                            <img src="{{ asset('assets/images/centrais/linha_nicoadala.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_nicoadala.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -506,9 +506,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}"
                             data-caption="LINHA B07 SE’S MOCUBA – ALTO MOLOCUÉ">
-                            <img src="{{ asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}" width="500"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_mocuba_alto_molocue.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -561,9 +561,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}"
                             data-caption="LINHA B08 SE’S ALTO MOLOCUÉ – NAMPULA 220kV">
-                            <img src="{{ asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_nampula.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -616,9 +616,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_alto_molocue_uape.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}"
                             data-caption="LINHA C20 SE’S ALTO MOLOCUÉ – UAPÉ">
-                            <img src="{{ asset('assets/images/centrais/linha_alto_molocue_uape.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_uape.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -671,9 +671,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}"
                             data-caption="LINHA C21 SE’S ALTO MOLOCUÉ - GURUÉ">
-                            <img src="{{ asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_alto_molocue_gurue.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -726,9 +726,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chimuara_marromeu.png') }}"
+                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}"
                             data-caption="LINHA C24 SE’S CHIMUARA - MARROMEU">
-                            <img src="{{ asset('assets/images/centrais/linha_chimuara_marromeu.png') }}" width="500" height="300"
+                            <img src="{{ secure_asset('assets/images/centrais/linha_chimuara_marromeu.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>

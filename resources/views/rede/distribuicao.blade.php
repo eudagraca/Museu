@@ -37,18 +37,18 @@
             </div>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ asset('assets/images/provincias_delegacoes.png') }}"
+                <a class="uk-inline" href="{{ secure_asset('assets/images/provincias_delegacoes.png') }}"
                     data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                    <img src="{{ asset('assets/images/provincias_delegacoes.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/provincias_delegacoes.png') }}" class="uk-border-rounded"
                         width="300px" height="133px" alt="" uk-img></a>
                         <p class="uk-text-primary ">Províncias e delegações sob jurisdição de cada Direcção Regional. <br>Fonte: Plano de Negócio da EDM 2020 – 2024</p>
 
             </div>
 
             <div class="uk-width-1-2@m uk-align-center" uk-lightbox="animation: slide">
-                <a class="uk-inline" href="{{ asset('assets/images/provincias_delegacoes.png') }}"
+                <a class="uk-inline" href="{{ secure_asset('assets/images/provincias_delegacoes.png') }}"
                     data-caption="Fonte: Plano de Negócio da EDM 2020 – 2024">
-                    <img src="{{ asset('assets/images/infraestrutura_rede_distribuicao.png') }}" class="uk-border-rounded"
+                    <img src="{{ secure_asset('assets/images/infraestrutura_rede_distribuicao.png') }}" class="uk-border-rounded"
                         width="500px" height="300px" alt="" uk-img></a>
                         <p class="uk-text-primary uk-text-center">Infraestrutura da Rede de Distribuição <br>Fonte: Plano de Negócio da EDM 2020 - 2024</p>
             </div>
