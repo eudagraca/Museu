@@ -71,6 +71,13 @@
 
 
                 <li class="uk-nav-header">
+                    Património
+                </li>
+                <li><a href="{{ route('patrimonio.index') }}">Lista</a></li>
+                <li><a href="{{ route('patrimonio.create') }}">Adicionar novo</a></li>
+
+
+                {{--  <li class="uk-nav-header">
                     Página
                 </li>
 
@@ -81,7 +88,7 @@
                         <li><a href="{{ route('institucional.create') }}">Institucional</a></li>
                         <li><a href="{{ route('pagina.create') }}">Normal</a></li>
                     </ul>
-                </li>
+                </li>  --}}
 
 
             </ul>

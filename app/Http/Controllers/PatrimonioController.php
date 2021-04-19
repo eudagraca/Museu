@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\PatrimonioRequest;
 use App\Models\Patrimonio;
 use Illuminate\Http\Request;
 
@@ -14,7 +15,6 @@ class PatrimonioController extends Controller
      */
     public function index()
     {
-        //
     }
 
     /**
@@ -24,7 +24,7 @@ class PatrimonioController extends Controller
      */
     public function create()
     {
-        //
+        return view('patrimonio.create');
     }
 
     /**
@@ -33,9 +33,18 @@ class PatrimonioController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(PatrimonioRequest $request)
     {
-        //
+        $imageName = trim($request->titulo) . '_' . time() . '.' . $request->imagem->extension();
+
+        $request->imagem->move(public_path('images'), $imageName);
+
+        $patrimonio = new Patrimonio();
+        $patrimonio->fill($request->except('imagem'));
+        $patrimonio->titulo = $request->titulo;
+        $patrimonio->imagem =  $imageName;
+        $patrimonio->save();
+        return redirect()->back()->with('success', 'Patrimonio adiconado com sucesso');
     }
 
     /**
@@ -46,7 +55,11 @@ class PatrimonioController extends Controller
      */
     public function show($patrimonio)
     {
-        return view('patrimonio.'.$patrimonio);
+        // $patrimonios = Patrimonio::where('tipo', '=', $patrimonio)->get();
+        return view('patrimonio.' . $patrimonio);
+
+        // return view('patrimonio.', compact('patrimonios'));
+
     }
 
     /**
