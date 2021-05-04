@@ -34,7 +34,7 @@
                     <div class="uk-navbar-right uk-light">
                         <ul class="uk-navbar-nav">
                             <li class="uk-active">
-                                <a href="#">{{ Auth::user()->name }} &nbsp;<span class="ion-ios-arrow-down"></span></a>
+                                <a href="#">{{ Auth::user()->name?? 'N/A' }} &nbsp;<span class="ion-ios-arrow-down"></span></a>
                                 <div uk-dropdown="pos: bottom-right; mode: click; offset: -17;">
                                     <ul class="uk-nav uk-navbar-dropdown-nav">
                                         <li class="uk-nav-header">Opções</li>
