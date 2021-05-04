@@ -26,7 +26,8 @@ class CreatePatrimoniosTable extends Migration
             $table->string('ponta_data')->nullable();
             $table->string('estado_ actual')->nullable();
             $table->string('nota')->nullable();
-            $table->text('barramento')->nullable();
+            $table->text('barramento_inicial')->nullable();
+            $table->text('barramento_final')->nullable();
             $table->string('configuracao')->nullable();
             $table->string('capacidade_linhas')->nullable();
             $table->string('circuito')->nullable();
@@ -34,6 +35,7 @@ class CreatePatrimoniosTable extends Migration
             $table->string('tipo_torres')->nullable();
             $table->string('tipo')->nullable();
             $table->string('tipo_condutor')->nullable();
+            $table->string('condutor')->nullable();
             $table->string('tipo_isoladores')->nullable();
             $table->string('cabo_guarda')->nullable();
             $table->string('estado_actual')->nullable();

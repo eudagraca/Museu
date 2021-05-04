@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\PatrimonioRequest;
+use App\Http\Requests\PatrimonioUpdate;
 use App\Models\Patrimonio;
 use Illuminate\Http\Request;
 
@@ -15,6 +16,8 @@ class PatrimonioController extends Controller
      */
     public function index()
     {
+        $patrimonios = Patrimonio::all();
+        return view('patrimonio.index', compact('patrimonios'));
     }
 
     /**
@@ -33,12 +36,10 @@ class PatrimonioController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(PatrimonioRequest $request)
+    public function store(Request $request)
     {
         $imageName = trim($request->titulo) . '_' . time() . '.' . $request->imagem->extension();
-
-        $request->imagem->move(public_path('images'), $imageName);
-
+        $request->imagem->move(public_path('images/patrimonio'), $imageName);
         $patrimonio = new Patrimonio();
         $patrimonio->fill($request->except('imagem'));
         $patrimonio->titulo = $request->titulo;
@@ -55,11 +56,14 @@ class PatrimonioController extends Controller
      */
     public function show($patrimonio)
     {
-        // $patrimonios = Patrimonio::where('tipo', '=', $patrimonio)->get();
-        return view('patrimonio.' . $patrimonio);
+        $patrimonios = Patrimonio::where('zona', '=', $patrimonio)->get();
+        return view('patrimonio.lista', compact('patrimonios'));
+    }
 
-        // return view('patrimonio.', compact('patrimonios'));
-
+    public function details($patrimonio)
+    {
+        $patrimonio = Patrimonio::findOrFail($patrimonio);
+        return view('patrimonio.details', compact('patrimonio'));
     }
 
     /**
@@ -70,7 +74,7 @@ class PatrimonioController extends Controller
      */
     public function edit(Patrimonio $patrimonio)
     {
-        //
+        return view('patrimonio.edit', compact('patrimonio'));
     }
 
     /**
@@ -80,9 +84,19 @@ class PatrimonioController extends Controller
      * @param  \App\Models\Patrimonio  $patrimonio
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Patrimonio $patrimonio)
+    public function update(PatrimonioUpdate $request, Patrimonio $patrimonio)
     {
-        //
+        if ($request->imagem != null) {
+            if ($request->hasFile('imagem')) {
+                $imageName = trim($request->titulo) . '_' . time() . '.' . $request->imagem->extension();
+                $request->imagem->move(public_path('images/patrimonio'), $imageName);
+                $patrimonio->imagem =  $imageName;
+            }
+        }
+        $patrimonio->fill($request->except('imagem'));
+        $patrimonio->titulo = $request->titulo;
+        $patrimonio->save();
+        return redirect(route('patrimonio.index'))->with('success', 'Actualizado com sucesso');
     }
 
     /**

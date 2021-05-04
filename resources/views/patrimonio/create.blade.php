@@ -81,7 +81,7 @@ Património
                     </div>
                 </div>
 
-                <div class="js-upload uk-placeholder uk-border-rounded uk-margin uk-text-center uk-width-1-2@s"
+                <div class="js-upload uk-placeholder uk-border-rounded uk-margin uk-text-center uk-width-1-3@s"
                     style="border: 1px dashed #000; margin-left: 40px">
                     <span uk-icon="icon: cloud-upload"></span>
                     <span class="uk-text-middle">Adicione uma imagem</span>
@@ -100,6 +100,21 @@ Património
                             <option selected>Seleccione</option>
                             <option value="linha">Linha</option>
                             <option value="subestacao">Subestação</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="uk-margin-small uk-width-1-3@s">
+                    <label for="zona" class="uk-form-label uk-text-bold">
+                        {{ __('Zona') }}
+                    </label>
+                    <div class="uk-form-control">
+                        <select name="zona" required id="zona" class="uk-select uk-border-rounded">
+                            <option selected>Seleccione</option>
+                            <option value="centro">Centro</option>
+                            <option value="centro norte">Centro Norte</option>
+                            <option value="norte">Norte</option>
+                            <option value="sul">Sul</option>
                         </select>
                     </div>
                 </div>
@@ -225,6 +240,48 @@ Património
                     </div>
 
                     <div class="uk-margin-small uk-width-1-3@s">
+                        <label for="barramento_inicial" class="uk-form-label uk-text-bold">
+                            {{ __('Barramento inicial') }}
+                        </label>
+                        <div class="uk-form-control">
+                            <input class="uk-input uk-border-rounded @error('barramento_inicial') uk-form-danger @enderror"
+                                id="barramento_inicial" name="barramento_inicial" type="text" value="{{ old('barramento_inicial') }}"
+                                autofocus>
+                            @error('barramento_inicial')
+                            <span class="uk-text-danger">{{ $message }}</span>
+                            @enderror
+                        </div>
+                    </div>
+
+                    <div class="uk-margin-small uk-width-1-3@s">
+                        <label for="barramento_final" class="uk-form-label uk-text-bold">
+                            {{ __('Barramento final') }}
+                        </label>
+                        <div class="uk-form-control">
+                            <input class="uk-input uk-border-rounded @error('barramento_final') uk-form-danger @enderror"
+                                id="barramento_final" name="barramento_final" type="text" value="{{ old('barramento_final') }}"
+                                autofocus>
+                            @error('barramento_final')
+                            <span class="uk-text-danger">{{ $message }}</span>
+                            @enderror
+                        </div>
+                    </div>
+
+                    <div class="uk-margin-small uk-width-1-3@s">
+                        <label for="condutor" class="uk-form-label uk-text-bold">
+                            {{ __('Condutor') }}
+                        </label>
+                        <div class="uk-form-control">
+                            <input class="uk-input uk-border-rounded @error('condutor') uk-form-danger @enderror"
+                                id="condutor" name="condutor" type="text" value="{{ old('condutor') }}"
+                                autofocus>
+                            @error('condutor')
+                            <span class="uk-text-danger">{{ $message }}</span>
+                            @enderror
+                        </div>
+                    </div>
+
+                    <div class="uk-margin-small uk-width-1-3@s">
                         <label for="tipo_torres" class="uk-form-label uk-text-bold">
                             {{ __('Tipo de torres') }}
                         </label>
@@ -281,7 +338,7 @@ Património
                     </div>
                 </div>
 
-                <div class="uk-width-1-1@s">
+                <div class="uk-width-1-1@s uk-margin-small">
                     <label for="nota" class="uk-form-label uk-text-bold">
                         {{ __('Nota') }}
                     </label>
@@ -296,7 +353,7 @@ Património
             </div>
             <div class="uk-form-control uk-card-footer">
                 <button type="submit" class="uk-button uk-align-right uk-border-rounded uk-button-secondary">
-                    {{ __('Publicar a página') }}
+                    {{ __('Actualizar') }}
                 </button>
             </div>
         </form>

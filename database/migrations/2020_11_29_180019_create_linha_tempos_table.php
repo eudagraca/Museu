@@ -15,6 +15,8 @@ class CreateLinhaTemposTable extends Migration
     {
         Schema::create('linha_tempos', function (Blueprint $table) {
             $table->id();
+            $table->text('nota');
+            $table->year('ano');
             $table->timestamps();
         });
     }

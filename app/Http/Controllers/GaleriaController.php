@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use App\Models\Galeria;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
+
+use function PHPSTORM_META\map;
 
 class GaleriaController extends Controller
 {
@@ -14,7 +17,14 @@ class GaleriaController extends Controller
      */
     public function index()
     {
-        return view('galeria.user.index');
+        $galeria = Galeria::all();
+        return view('galeria.user.index', compact('galeria'));
+    }
+
+    public function indexMain()
+    {
+        $galerias = Galeria::all();
+        return view('galeria.index', compact('galerias'));
     }
 
     /**
@@ -35,7 +45,23 @@ class GaleriaController extends Controller
      */
     public function store(Request $request)
     {
-        return $request;
+        // return $request->imagem[0]->extension();
+
+        if ($request->imagem !=null) {
+            for ($i = 0; $i < count($request->imagem); $i++) {
+                if ($request->imagem[$i] != null) {
+                    $galeria = new Galeria();
+                    $imageName = trim(Str::random(10)) . '_' . time() . '.' . $request->imagem[$i]->extension();
+                    $request->imagem[$i]->move(public_path('images/galeria'), $imageName);
+                    $galeria->imagem = $imageName;
+                    $galeria->descricao = $request->descricao[$i];
+                    $galeria->ponto = $request->ponto[$i];
+                    $galeria->save();
+                }
+            }
+            return redirect()->back()->with('success', 'Adicionada com sucesso');
+        }
+        return redirect()->back()->with('error', 'Nenhuma imagem');
     }
 
     /**
@@ -48,11 +74,11 @@ class GaleriaController extends Controller
     {
         if ($galeria == 'geracao') {
             return view('galeria.details.geracao');
-        }elseif ($galeria == 'comercial') {
+        } elseif ($galeria == 'comercial') {
             return view('galeria.details.comercial');
-        }elseif ($galeria == 'distribuicao') {
+        } elseif ($galeria == 'distribuicao') {
             return view('galeria.details.distribuicao');
-        }elseif ($galeria == 'transporte') {
+        } elseif ($galeria == 'transporte') {
             return view('galeria.details.transporte');
         }
     }
@@ -86,8 +112,9 @@ class GaleriaController extends Controller
      * @param  \App\Models\Galeria  $galeria
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Galeria $galeria)
+    public function destroy($galeria)
     {
-        //
+        $galeria = Galeria::findOrFail($galeria);
+        return redirect(route('galeria.indexMain'))->with('success', 'Imagem apagada');
     }
 }

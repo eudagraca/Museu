@@ -14,12 +14,15 @@ class LinhaTempoController extends Controller
      */
     public function index()
     {
-        //
+        $linhasTempo = LinhaTempo::all();
+        return view('linha_do_tempo.index', compact('linhasTempo'));
     }
 
     public function linhaDoTempo()
     {
-        return view('linha_do_tempo.linha');
+        $anos = LinhaTempo::select('ano')->groupBy('ano')->get();
+
+        return view('linha_do_tempo.linha', compact('anos'));
     }
 
     public function historia()
@@ -39,7 +42,7 @@ class LinhaTempoController extends Controller
      */
     public function create()
     {
-        //
+        return view('linha_do_tempo.create');
     }
 
     /**
@@ -50,7 +53,12 @@ class LinhaTempoController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $year = date('Y', strtotime($request->ano));
+        $linhaTempo =   LinhaTempo::create([
+            'ano' => $year,
+            'nota' => $request->nota
+        ]);
+        return redirect(route('linhaTempo.index'))->with('success', 'Linha do tempo registada');
     }
 
     /**
@@ -59,9 +67,10 @@ class LinhaTempoController extends Controller
      * @param  \App\Models\LinhaTempo  $linhaTempo
      * @return \Illuminate\Http\Response
      */
-    public function show(LinhaTempo $linhaTempo)
+    public function show($ano)
     {
-        //
+        $linhasTempo = LinhaTempo::where('ano', $ano)->get();
+        return view('linha_do_tempo.details', compact(['linhasTempo', 'ano']));
     }
 
     /**
@@ -70,9 +79,10 @@ class LinhaTempoController extends Controller
      * @param  \App\Models\LinhaTempo  $linhaTempo
      * @return \Illuminate\Http\Response
      */
-    public function edit(LinhaTempo $linhaTempo)
+    public function edit($linhaTempo)
     {
-        //
+        $linhaTempo = LinhaTempo::findOrFail($linhaTempo);
+        return view('linha_do_tempo.edit', compact('linhaTempo'));
     }
 
     /**
@@ -82,9 +92,13 @@ class LinhaTempoController extends Controller
      * @param  \App\Models\LinhaTempo  $linhaTempo
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, LinhaTempo $linhaTempo)
+    public function update(Request $request, $linhaTempo)
     {
-        //
+        $linhaTempo = LinhaTempo::findOrFail($linhaTempo);
+        $linhaTempo->ano = $request->ano;
+        $linhaTempo->nota = $request->nota;
+        $linhaTempo->save();
+        return redirect(route('linhaTempo.index'))->with('success', 'Actualizado com sucesso');
     }
 
     /**

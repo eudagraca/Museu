@@ -19,9 +19,18 @@
         <div id="app">
             <main data-uk-height-viewport="expand: true">
                 <div class="uk-panel uk-padding-small uk-background-default uk-light">
-                    <a class="uk-logo uk-text-normal" href="#"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
+                    <a class="uk-logo uk-text-normal" href="/"><img src="{{ secure_asset('assets/images/logo_edm.png') }}"
                             alt="" srcset=""></a>
+
+                    @auth
+                    <a class="uk-text-normal uk-text-black uk-button uk-button-text uk-margin-top uk-align-right"
+                        style="color: #000" href="{{ route('admin') }}">{{ Auth::user()->name }}</a>
+                    @else
+                    <a class="uk-text-normal uk-text-black uk-button uk-button-text uk-margin-top uk-align-right"
+                        style="color: #000" href="{{ route('login') }}">Entrar</a>
+                    @endauth
                 </div>
+
                 <div
                     uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
 
@@ -145,7 +154,7 @@
                                                     DIVISÃO DE TRANSPORTE CENTRO</a>
                                             </li>
                                             <li class="uk-active uk-text-normal uk-text-uppercase"><a
-                                                    href="{{ route('patrimonio.show', 'centro_norte') }}">3.
+                                                    href="{{ route('patrimonio.show', 'centro norte') }}">3.
                                                     DIVISÃO DE TRANSPORTE CENTRO NORTE</a>
                                             </li>
                                             <li class="uk-active uk-text-normal uk-text-uppercase"><a
@@ -268,19 +277,22 @@
                             </li>
 
                             <li class="uk-parent ">
-                                <a class="uk-active uk-text-normal uk-text-uppercase"
-                                    href="#">Transmissão</a>
+                                <a class="uk-active uk-text-normal uk-text-uppercase" href="#">Transmissão</a>
                                 <ul class="uk-nav-sub">
-                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'sul') }}">1.
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a
+                                            href="{{ route('patrimonio.show', 'sul') }}">1.
                                             DIVISÃO DE TRANSPORTE SUL</a>
                                     </li>
-                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'centro') }}">2.
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a
+                                            href="{{ route('patrimonio.show', 'centro') }}">2.
                                             DIVISÃO DE TRANSPORTE CENTRO</a>
                                     </li>
-                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'centro_norte') }}">3.
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a
+                                            href="{{ route('patrimonio.show', 'centro norte') }}">3.
                                             DIVISÃO DE TRANSPORTE CENTRO NORTE</a>
                                     </li>
-                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a href="{{ route('patrimonio.show', 'norte') }}">4.
+                                    <li class="uk-active uk-text-normal uk-text-uppercase"><a
+                                            href="{{ route('patrimonio.show', 'norte') }}">4.
                                             DIVISÃO DE TRANSPORTE NORTE</a>
                                     </li>
                                 </ul>

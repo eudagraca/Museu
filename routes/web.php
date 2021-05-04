@@ -19,7 +19,12 @@ use Illuminate\Support\Facades\Route;
 
 Auth::routes();
 
+Route::post('user/store', [App\Http\Controllers\UsuarioController::class, 'store'])->name('usuario.store');
+
+
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
 Route::get('/', [App\Http\Controllers\HomeController::class, 'initial'])->name('initial');;
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'index'])->name('admin');
 
@@ -29,12 +34,18 @@ Route::get('/historias/{entrevistado}', [App\Http\Controllers\HistoriaController
 
 Route::get('/historia-edm', [App\Http\Controllers\LinhaTempoController::class, 'historia'])->name('historia.edm');
 Route::get('/linha_do_tempo', [App\Http\Controllers\LinhaTempoController::class, 'linhaDoTempo'])->name('linha_do_tempo');
+Route::get('/linha_do_tempo/{id}', [App\Http\Controllers\LinhaTempoController::class, 'show'])->name('linha_do_tempo.show');
 Route::get('/personalidades', [App\Http\Controllers\LinhaTempoController::class, 'personalidades']);
+Route::get('/galerias', [App\Http\Controllers\GaleriaController::class, 'indexMain'])->name('galeria.indexMain');
 
 Route::resource('galeria', App\Http\Controllers\GaleriaController::class);
+Route::resource('linhaTempo', App\Http\Controllers\LinhaTempoController::class);
 Route::resource('destaque', App\Http\Controllers\DestaqueController::class);
 Route::resource('historia', App\Http\Controllers\HistoriaController::class);
 Route::resource('patrimonio', App\Http\Controllers\PatrimonioController::class);
+
+Route::get('/patrimonios/{patrimonio}', [App\Http\Controllers\PatrimonioController::class, 'details'])->name('patrimonio.details');
+
 Route::resource('pagina', App\Http\Controllers\PaginaController::class);
 Route::get('contacto', [App\Http\Controllers\PaginaController::class, 'contacto'])->name('contacto');
 Route::resource('museu', App\Http\Controllers\MuseuController::class);
