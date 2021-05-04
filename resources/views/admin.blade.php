@@ -55,8 +55,8 @@
                     <img id="avatar" width="180px" class="uk-border-rounded"
                         src="{{ secure_asset('assets/images/logo_edm.png') }}" />
                     <div class="uk-margin-top"></div>
-                    <div id="name" class="uk-text-truncate">{{ Auth::user()->name }}</div>
-                    <div id="email" class="uk-text-truncate">{{ Auth::user()->email }}</div>
+                    <div id="name" class="uk-text-truncate">{{ Auth::user()->name??'N/A' }}</div>
+                    <div id="email" class="uk-text-truncate">{{ Auth::user()->email??'N/A' }}</div>
                     <span id="status" data-enabled="true" data-online-text="Online" data-away-text="Away"
                         data-interval="10000" class="uk-margin-top uk-label uk-label-success"></span>
                 </div>
