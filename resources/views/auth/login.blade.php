@@ -4,11 +4,17 @@
 
 <div class="uk-container uk-margin-top  uk-flex-center">
 
-    @include('layouts.flash-messages')
-
     <div class="uk-flex uk-flex-center uk-margin-top">
         <a href="/" class="uk-button uk-button-text uk-margin-left">Museu</a>
     </div>
+    @if($errors->any())
+    <div class="uk-alert-warning" uk-alert>
+        @foreach ($errors->all() as $error)
+        <a href="#" class="uk-alert-close" uk-close></a>
+        <p>{{ $error }}</p>
+        @endforeach
+    </div>
+    @endif
     <div class="uk-flex uk-flex-center uk-margin-top">
         <div class="uk-card uk-box-shadow-small  uk-card-default uk-width-1-2@s">
             <div class="uk-card-header" style="background: #fa7f22">
