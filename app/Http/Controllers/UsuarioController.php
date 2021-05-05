@@ -65,12 +65,6 @@ class UsuarioController extends Controller
      */
     public function edit($id)
     {
-        $user = new User();
-        $id = $user->decode($id)[0];
-
-        $user = User::findOrFail($id);
-        $roles = Role::all();
-        return view('usuario.edit', compact('user', 'roles'));
     }
 
     /**

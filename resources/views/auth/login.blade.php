@@ -4,11 +4,7 @@
 
 <div class="uk-container uk-margin-top  uk-flex-center">
 
-    @if ($message = Session::get('warning'))
-    <div class="uk-alert-warning uk-text-center uk-text-large" uk-alert>
-        {{ $message }}
-    </div>
-    @endif
+    @include('layouts.flash-messages')
 
     <div class="uk-flex uk-flex-center uk-margin-top">
         <a href="/" class="uk-button uk-button-text uk-margin-left">Museu</a>
