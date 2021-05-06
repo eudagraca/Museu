@@ -17,6 +17,7 @@ class PatrimonioController extends Controller
     public function index()
     {
         $patrimonios = Patrimonio::all();
+        return $patrimonios;
         return view('patrimonio.index', compact('patrimonios'));
     }
 
