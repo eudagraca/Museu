@@ -20,9 +20,9 @@
             <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                 <div class="uk-width-1-3@m">
                     <div class="uk-card  uk-card-body"><a class="uk-inline"
-                            href="{{ secure_asset('images/patrimonio/'.$patrimonio->imagem) }}"
+                            href="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}"
                             data-caption="{{ $patrimonio->titulo }}">
-                            <img src="{{ secure_asset('images/patrimonio/'.$patrimonio->imagem) }}" width="300" height="300"
+                            <img src="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}" width="300" height="300"
                                 alt="" uk-cover>
                             <canvas width="300" height="300"></canvas>
                         </a></div>

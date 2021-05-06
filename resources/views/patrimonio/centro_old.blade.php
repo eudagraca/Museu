@@ -23,9 +23,9 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_matambo.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_matambo.png') }}"
                             data-caption="SUBESTAÇÃO DE MATAMBO [BAY DA EDM] - Em Outubro de 2015 foi instalado o TR2 de 130MVA pertencente a EDM. O TR1 de 60MVA pertence a HCB e ambos alternativamente podem alimentar as linhas de 66kV e 33kV.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_matambo.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_matambo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -65,9 +65,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_tete.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_tete.png') }}"
                             data-caption="A Subestação pertencia a antiga Área Operacional de Tete, actualmente Área do Serviço Cliente de Tete. Apos uma reabilitação total que terminou em 2007, passou a pertencer a DTCE (antiga ATCE).">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_tete.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_tete.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -111,9 +111,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_movel_tete.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_movel_tete.png') }}"
                             data-caption="Subestação de móvel Tete">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_movel_tete.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_movel_tete.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -152,9 +152,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_manje.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_manje.png') }}"
                             data-caption="Subestação de Manje">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_manje.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_manje.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -200,9 +200,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_catandica.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_catandica.png') }}"
                             data-caption="Subestação de Manje">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_catandica.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_catandica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -248,10 +248,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_chibata.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_chibata.png') }}"
                             data-caption="A Subestação foi inaugurada oficialmente no dia 10/03/2004, operando com um TR de 84MVA até 2015, pois no dia 25 de Abril de 2015 entrou em serviço o TR2 em paralelo, perfazendo uma capacidade total Instalada da Subestação de 168MVA.
                             Está instalada na Subestação uma Reactância de 220kV – 15MVAr">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_chibata.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_chibata.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -298,9 +298,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_manica.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_manica.png') }}"
                             data-caption="A Subestação de Manica beneficiou-se de uma total mudança, tendo sido construída uma nova de raiz ao lado da antiga, que entrou em serviço no dia 19 Julho de 2020 em vazio, e no dia 16 de Agosto de 2020 foram transferidas todas as cargas da Antiga para a Nova Subestação com uma capacidade Instalada de 40MVA.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_manica.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_manica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -346,9 +346,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_messica.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_messica.png') }}"
                             data-caption="Subestação de Messica">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_messica.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_messica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -389,9 +389,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_mavita.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_mavita.png') }}"
                             data-caption="Subestação de Mavita">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_mavita.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_mavita.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -430,9 +430,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_chimoio_1.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_chimoio_1.png') }}"
                             data-caption="Subestação de Chimoio- O barramento de 22kV da Subestação de Chimoio1 é alimentado a partir de uma linha (em 22kV) que sai da Subestação de Chimoio2 (TR de 20MVA).">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_chimoio_1.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_chimoio_1.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -477,9 +477,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_chimoio_2.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_chimoio_2.png') }}"
                             data-caption="A Subestação de Chimoio 2 beneficiou-se de 2 reabilitações, sendo a primeira concluída em 2011, e a segunda com vista a operacionalização de IN & OUT da linha CL75 (que parte de Chibata a Dondo) que antes fazia o T- OFF na Subestação de Chimoio 2. O IN & OUT foi operacionalizada no dia 08 de Dezembro de 2019.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_chimoio_2.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_chimoio_2.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -526,10 +526,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_gondola.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_gondola.png') }}"
                             data-caption="A Subestação de Gondola já atingiu 9.9MW num caso excepcional em que foram alimentadas algumas cargas da SE Chimoio devido a uma avaria registada em Março de 2020.
                             A Subestação de Gondola beneficiou-se de uma reabilitação total cuja conclusão foi em 2016.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_gondola.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_gondola.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -573,9 +573,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_inchope.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_inchope.png') }}"
                             data-caption="Subestação de Inchope">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_inchope.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_inchope.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -613,9 +613,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_movel_casa_nova.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_movel_casa_nova.png') }}"
                             data-caption="A Subestação Móvel Casa Nova foi instalada para o restabelecimento de energia eléctrica aos Distritos de Chibabava na Província de Sofala, Machaze, Mussorizi e Posto Administrativo de Dombe na Província de Manica, logo após a passagem do Ciclone IDAI que interrompeu o fornecimento de energia eléctrica a estes pontos do País.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_movel_casa_nova.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_movel_casa_nova.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -661,9 +661,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_lamego.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_lamego.png') }}"
                             data-caption="A Subestação beneficiou-se de uma total reabilitação que foi concluído em 2017, transitando de sistema T-OFF para IN & OUT, e elevando a sua capacidade de 18.8 para 25MVA através de instalação de um novo Transformador.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_lamego.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_lamego.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -709,9 +709,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_guara_guara.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_guara_guara.png') }}"
                             data-caption="A quando da sua entrada em serviço operou com um Transformador de 6.3MVA – 66/33kV, tendo de seguido se beneficiado de uma reabilitação e instalado o Transformador de 16MVA">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_guara_guara.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_guara_guara.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -755,9 +755,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_mafambisse.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_mafambisse.png') }}"
                             data-caption="A Subestação de Mafambisse beneficiou-se de uma reabilitação total e a conclusão foi em 2017, passando de 12.5 para 25MVA da sua capacidade instalada.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_mafambisse.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_mafambisse.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -800,12 +800,12 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_munhava.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_munhava.png') }}"
                             data-caption="A Subestação beneficiou-se uma reabilitação parcial (equipamentos de 110kV) cuja conclusão foi em 2013. Para efeito de
                             compensação foram instalados nesta Subestação 5 bancos de condensadores (2 de 22kV e 1 de 6.6kV) perfazendo um total de
                             22.5MVAr, porém, 1 banco de 5MVAr-22kV foi transferido para PS da Manga e 1 de 7.5MVAr-22kV encontra-se avariado,
                             estando disponíveis 3 bancos (2 de 6.6kV com 2.5MVAr cada e 1 de 22kV – 5MVAr) com 15MVAr no total.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_munhava.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_munhava.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -855,10 +855,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_dondo.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_dondo.png') }}"
                             data-caption="A subestação de Dondo beneficiou-se de uma reabilitação total, em 2016 foi concluída a parte de 110 e 22KV, em 2017 concluída a parte de 220kV que com a entrada da linha B10 no mesmo ano passou dos 20 para 100MVA da sua capacidade instalada.
                             Nesta Subestação está instalado para efeito de compensação um Reactor de 15MVAr – 220kV, e um banco de condensadores de 4.8MVAr – 22kV">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_dondo.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_dondo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -912,9 +912,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_b10_dondo.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_b10_dondo.png') }}"
                             data-caption="LINHA B10 [S/E CHIBATA – S/E DONDO]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_b10_dondo.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_b10_dondo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -965,9 +965,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mavuzi_beira.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_mavuzi_beira.png') }}"
                             data-caption="LINHA CL71 [CENTRAL MAVUZI- BEIRA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_mavuzi_beira.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_mavuzi_beira.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1021,9 +1021,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mavuzi_beira.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_mavuzi_beira.png') }}"
                             data-caption="LINHA CL73 [CENTRAL MAVUZI-CENTRAL DE CHICAMBA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_mavuzi_beira.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_mavuzi_beira.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1076,9 +1076,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chibata_nhamatanda.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chibata_nhamatanda.png') }}"
                             data-caption="LINHA CL75 A [XIGODOLA- S/E CHIBATA – PS NHAMATANDA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chibata_nhamatanda.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_chibata_nhamatanda.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1131,9 +1131,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_dondo_munhava.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_dondo_munhava.png') }}"
                             data-caption="LINHA CL75 BC [PS NHAMATANDA – S/E DONDO – S/E MUNHAVA BEIRA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_dondo_munhava.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_dondo_munhava.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1186,9 +1186,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chicamba_machipanda.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chicamba_machipanda.png') }}"
                             data-caption="LINHA CL76 [CENTRAL DE CHICAMBA - MACHIPANDA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chicamba_machipanda.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_chicamba_machipanda.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1241,9 +1241,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_mavuzi_casa_nova.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_mavuzi_casa_nova.png') }}"
                             data-caption="LINHA CL77 [CENTRAL MAVUZI - CASA NOVA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_mavuzi_casa_nova.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_mavuzi_casa_nova.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1297,9 +1297,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chimoio_1_chimoio_2.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chimoio_1_chimoio_2.png') }}"
                             data-caption="LINHA DL1 [S/E CHIMOIO 1 - S/E CHIMOIO 2]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chimoio_1_chimoio_2.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_chimoio_1_chimoio_2.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1353,9 +1353,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_lamego_guaraguara.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_lamego_guaraguara.png') }}"
                             data-caption="LINHA DL2 [S/E LAMEGO – S/E GUARAGUARA]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_lamego_guaraguara.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_lamego_guaraguara.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1409,9 +1409,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_matambo_tete.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_matambo_tete.png') }}"
                             data-caption="LINHA DL3 [S/E MATAMBO – S/E TETE]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_matambo_tete.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_matambo_tete.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1464,9 +1464,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_tete_manje.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_tete_manje.png') }}"
                             data-caption="LINHA DL4 [S/E TETE – S/E MANJE]">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_tete_manje.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_tete_manje.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>

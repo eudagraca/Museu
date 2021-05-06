@@ -14,7 +14,7 @@
         </div>
         <div uk-grid>
             @foreach ($linhasTempo as $item)
-            <div class="uk-card uk-card-default uk-padding-small uk-margin-right uk-border-rounded">
+            <div class="uk-width-1-1@s uk-card uk-card-default uk-padding-small uk-margin-right uk-border-rounded">
                 <h6 class="uk-text-bold uk-text-muted uk-margin-small">{{ $item->ano }}</h6>
                 <p class="uk-text-muted uk-align-right uk-margin-remove">{{ $item->nota }}</p>
             </div>

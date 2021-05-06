@@ -20,9 +20,9 @@
                 @if (strtoupper($item->ponto) == 'BARRAGEM')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ secure_asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -37,9 +37,9 @@
                 @if (strtoupper($item->ponto)== 'HIDROELECTRICA')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ secure_asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -54,9 +54,9 @@
                 @if (strtoupper($item->ponto)== 'LINHA')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ secure_asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -71,9 +71,9 @@
                 @if (strtoupper($item->ponto)== 'SUBESTAÇÃO')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ secure_asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -88,9 +88,9 @@
                 @if (!in_array(strtoupper($item->ponto), ['SUBESTAÇÃO', 'LINHA', 'HIDROELECTRICA', 'BARRAGEM']))
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ secure_asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif

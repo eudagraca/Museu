@@ -22,9 +22,9 @@
 
                 <div class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se1.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se1.png') }}"
                             data-caption="Subestação SE1 - Tem como fonte de alimentação a linha DL24 a partir da SE3. No projecto Inicial a subestação erra composta por dois transformadores de 33/11KV-10MVA, que posteriormente foram movimentados para outras subestações.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se1.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se1.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -60,9 +60,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_s2.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_s2.png') }}"
                             data-caption="Subestação SE2">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_s2.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_s2.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -104,11 +104,11 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se3.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se3.png') }}"
                             data-caption="A subestação recebe energia a partir da CTM através das linhas DL18 e DL19 em 66KV e possui interligação com as subestações SE7 através da DL25 e com a SE1 atraves da DL24. Esta subestação alimenta a baixa da cidade de Maputo e bairros circunvizinhos com uma tensão de 11kV.
                             No projecto Inicial a subestação erra composta por dois transformadores de 33/11KV-10MVA, que posteriormente foram movimentados para outras subestações.
                             O TR1 [33/11kV - 20MVA] encontrasse fora de serviço devido avaria do cabo que o alimenta.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se3.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se3.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -144,9 +144,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se4.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se4.png') }}"
                             data-caption="Ela pode ser alimentada a partir da SE5 atraves da DL17 ou apartir da SE6 atraves da DL16 em 66KV..">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se4.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se4.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -182,9 +182,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se5.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se5.png') }}"
                             data-caption="Devido ao crescimento de carga foi adicionado o TR2 [66/11kV - 20MVA]">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se5.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se5.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -220,9 +220,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se6.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se6.png') }}"
                             data-caption="Recebe tensão de 66KV a partir da subestação do Infulene linha DL2 que interliga a DL16. Ela foi concebida para tirar tensões de 33KV e 11KV para alimentar os bairros periféricos da cidade de Maputo.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se6.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se6.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -256,8 +256,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se7.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se7.png') }}" width="500" height="300"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se7.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se7.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -292,8 +292,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se8.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se8.png') }}" width="500" height="300"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se8.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se8.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -328,8 +328,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se9.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se9.png') }}" width="500" height="300"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se9.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se9.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -369,8 +369,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se10.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se10.png') }}" width="500"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se10.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se10.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -412,8 +412,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se11.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se11.png') }}" width="500"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se11.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se11.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -454,8 +454,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se12.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se12.png') }}" width="500"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se12.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se12.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -493,8 +493,8 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se13.png') }}">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se13.png') }}" width="500"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se13.png') }}">
+                            <img src="{{ asset('assets/images/centrais/subestacao_se13.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -532,10 +532,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se14.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se14.png') }}"
                             data-caption="Recebe da linha DL14 a partir da Subestação de Matola. Da Subestaçãoo de Matola Rio saem as linhas EL1 que alimenta parte Alta da Cidade da Matola, linha EL2 alimenta Umbeluzi, EL3 alimenta Djuba e EL4 alimenta Texlon.
                         No projecto Inicial a subestação erra composta por um transformador de 66/33KV-10MVA, devido ao crescimento de carga foi substituído pelo TR de 30MVA.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se14.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se14.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -576,9 +576,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se15.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se15.png') }}"
                             data-caption="A Subestação de Boane recebe a partir da Subestação de Infulene através da linha DL1, da Subestação de Matola através da linha DL14 e Salamanga através da linha DL20. A Subestação de Boane alimenta a Vila de Namaacha e distrito de Boane.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se15.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se15.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -619,10 +619,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se16.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se16.png') }}"
                             data-caption="Recebe da Subestação de Infulene a partir de DL1A e também pode receber da Subestação de Boane a partir de DL1B. Têm saídas para Machava, Moamba e Casa Branca a 33kV.
                         No projecto Inicial a subestação erra composta por um transformador de 66/33KV-10MVA, devido ao crescimento de carga foi adicionado o TR de 30MVA e posteriormente em 2020 foi ligada uma SE Móvel de [66/33kV - 20MVA].">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se16.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se16.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -663,10 +663,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se17.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se17.png') }}"
                             data-caption="A Subestação recebe de SE Infulene através da linha DL6 e SE Matola através da linha DL13. Alimenta a zona Industrial da Machava, Posto Administrativo da Machava e arredores. No projecto Inicial a subestação erra composta por um transformador de 66/33KV-30MVA, devido ao crescimento de carga foi adicionado o TR2 [66/33kV - 30MVA].
                         Importa referir que o transformador 2 da SE Machava avariou em 2018 e foi substiuido pelo transformador 2 da SE CTM com as mesmas caracteristicas.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se17.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se17.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -707,10 +707,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se18.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se18.png') }}"
                             data-caption="A Subestação é alimentada a partir de SE Infulene, através da linha DL1. A Subestação alimenta o parque Industrial de Beluluane e a zona Residencial de Beluluane.
                         Importa referir que o TR1 avariou, actualmente somente o TR Movel está operacional, enquanto faz-se a movimentacao do TR2 para o local do TR1.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se18.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se18.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -752,9 +752,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se19.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se19.png') }}"
                             data-caption="Tem uma central eléctrica constituído por dois geradores de 11kV e capacidade de 9MVA cada totalizando 18MVA de potência instalada. A sua subestação é constituída por dois transformadores, um transformador 110/33/11kV. Alimenta a localidade de Sabié a partir da linha EL18, e outro transformador de 11/110kV em paralelo com o primeiro transformador alimenta a Subestação de Infulene a partir da linha CL4.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se19.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se19.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -796,9 +796,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se20.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se20.png') }}"
                             data-caption="É uma subestaco de interligacao, sendo que interliga com Comat Port atravez da linha BL4, interliga com a CTRG atravez das linhas CTRG1 e CTRG2), interliga com a Gigawat atravez atraves da extencao dos Barramentos 1 e 2, interliga com SE Infulene atravez da linha BL2 e por fim Interliga com a SE Dzimbene atravez da linha BL5.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se20.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se20.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -840,9 +840,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se21.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se21.png') }}"
                             data-caption="É alimentada em 275kV a partir da BL3 com origem na subestação de Ressano Garcia e possui uma interligação a 275kV com a subestação da Matola através da BL1. É a principal fonte de fornecimento de energia eléctrica a região sul de Moçambique incluindo a linha sul que alimenta as províncias de Gaza e Inhambane a 110kV através da CL1. Possui um interligação com a central de Corrumana através da CL4 a 110kV.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se21.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se21.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -884,10 +884,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se22.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se22.png') }}"
                             data-caption="A sua alimentação é feita através de duas linhas de 275kV -BL3 com origem na SE- Maputo e BL1 com origem da SE-Infulene. Possui 6 linhas de saída em 66kV sendo 3 dedicadas a Cidade do Maputo(DL09, DL11, DL12) e as restantes 3 a Província de Maputo (DL13, DL14, DL15).
                         Importa referir que o TR3 esta em processo de montagem, por isso não foi incluído na potencia instalada.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se22.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se22.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -928,9 +928,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se23.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se23.png') }}"
                             data-caption="É alimentada a partir de infulene a 66kV através da linha DL5 e alimenta o distrito de Manhiça incluindo a vila municipal e os distritos de Xinavane a 33kV.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se23.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se23.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -970,9 +970,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se24.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se24.png') }}"
                             data-caption="Recebe alimentação a 66KV a partir da SE Matola 275KV e da SE-Infulene, através da DL14 e DL1 respectivamente e alimenta o distrito de Ka-Tembe, Matutuine incluindo as regiões turísticas de Ponta D´Ouro, Bela Vista, assim como as minas de calcário de Salamanga.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se24.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se24.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1015,9 +1015,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se25.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se25.png') }}"
                             data-caption="Essa Subestação funciona também como ponto de transição ou transferência de carga a partir das Subestações de Infulene através da linha DL3 e Matola através da linha DL11 para alimentar o Centro de cidade de Maputo e uma parte da Cidade da Matola.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se25.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se25.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1058,10 +1058,10 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se26.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se26.png') }}"
                             data-caption="A subestação recebe a tensão a partir da subestação de Infulene através da linha CL1  a 110kV e alimenta a vila municipal de Macia e arredores do distrito de Bilene a 33kV.
                         No projecto Inicial a subestação erra composta por um transformador de 110/33KV-10MVA, posteriormente foi substituído por um de 16MVA.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se26.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se26.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1102,9 +1102,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se27.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se27.png') }}"
                             data-caption="A subestação recebe a tensão a partir de duas fontes, a BL5 apartir da SE Ressano Garcia e CL3B apartir da SE Kuvaninga e alimenta a SE Macia atravez da Linha CL3A.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se27.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se27.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1145,9 +1145,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se28.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se28.png') }}"
                             data-caption="Importa referir que apenas o TR2 esta em funcionamento. A subestacao recebe a tensão a partir da linha CL3. Essa Subestação alimenta o distrito de Chokwé e através da interligação com a subestação de Macia, a Subestação de Lionde pode alimentar a Vila de Macia – distrito de Bilene.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se28.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se28.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1187,9 +1187,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se29.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se29.png') }}"
                             data-caption="A subestacao é alimentada a partir da subestação de Lionde através da linha CL7 a 110KV e alimenta a vila de Mapai e arredores do distrito com o mesmo nome a 33KV. Igualmente alimenta os distritos de Mabalane e Massingir a 33KV.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se29.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se29.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1228,9 +1228,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se30.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se30.png') }}"
                             data-caption="A subestacao recebe tensão a partir da Subestação de Infulene através da linha CL2 proveniente da SE Macia e interliga com a SE Lindela através de CL9. Alimenta a Cidade de Xai – Xai, Posto Administrativo de Chissano, Distrito de Chidenguele, Chibuto e a região de Chonguene e Zunguene. Foi inaugurado em 1984 e 2004 aumentou-se a sua capacidade de 16 MVA para 40 MVA.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se30.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se30.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1271,9 +1271,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se31.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se31.png') }}"
                             data-caption="Recebe a partir de SE Chicumbane através das linhas CL9. Alimenta cidade de Inhambane a partir da linha EL1-Inhambane, Maxixe a partir da linha EL2-Maxixe, Inharrime a partir da linha EL3-Inharrime, Funhalouro a partir da linha EL4-Funhalouro, Praia de Paindane a partir da linha EL5 e os restantes distritos da Província de Inhambane.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_se31.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_se31.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1314,9 +1314,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remve-top uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_massinga.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_massinga.png') }}"
                             data-caption="Recebe 110kv a partir de SE Lionde através das linhas CL10.">
-                            <img src="{{ secure_asset('assets/images/centrais/subestacao_massinga.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/subestacao_massinga.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1361,9 +1361,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
                             data-caption="LINHA BL5 SE’S RESSANO GARCIA-MACIA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1419,9 +1419,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_ressano_port.png') }}"
                             data-caption="LINHA BL4 SE’S RESSANO GARCIA-KOMATTI PORT">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_ressano_port.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_ressano_port.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1478,9 +1478,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_maputo_matola.png') }}"
                             data-caption="LINHA BL3 SE’S MAPUTO-MATOLA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_maputo_matola.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_maputo_matola.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1536,9 +1536,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_ressano.png') }}"
                             data-caption="LINHA BL2 SE’S INFULENE- RESSANO GARCIA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_ressano.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_ressano.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1595,9 +1595,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_matola.png') }}"
                             data-caption="LINHA BL1 SE’S INFULENE-MATOLA 275">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_matola.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_matola.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1654,9 +1654,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}"
                             data-caption="LINHA CL9 SE’S CHICUMBANE- INHAMBANE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_chicumbane_inhambane.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1712,9 +1712,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}"
                             data-caption="LINHA CL7 SE’S KUVANINGA-MAPAI">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_kuvaninga_mapai.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1770,9 +1770,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}"
                             data-caption="LINHA CL6 SE’S LIONDE-KUVANINGA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_lionde_kuvaninga.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1829,9 +1829,9 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline"
-                            href="{{ secure_asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
+                            href="{{ asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
                             data-caption="LINHA CL5 SE’S CORRUMANA-KOMATTI PORT">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
+                            <img src="{{ asset('assets/images/centrais/linha_corrumana_komatti_port.png') }}"
                                 width="500" height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1887,9 +1887,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_corrumana.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_corrumana.png') }}"
                             data-caption="LINHA CL4 SE’S INFULENE-CORRUMANA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_corrumana.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_corrumana.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -1945,9 +1945,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_macia_dzimbene.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_macia_dzimbene.png') }}"
                             data-caption="LINHA CL3A SE’S MACIA – DZIMBENE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_macia_dzimbene.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_macia_dzimbene.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2003,9 +2003,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_dzimbene_lionde.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_dzimbene_lionde.png') }}"
                             data-caption="LINHA CL3B SE’S DZIMBENE – LIONDE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_dzimbene_lionde.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_dzimbene_lionde.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2061,9 +2061,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_macia_chicumbane.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_macia_chicumbane.png') }}"
                             data-caption="LINHA CL2 SE’S MACIA – CHICUMBANE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_macia_chicumbane.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_macia_chicumbane.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2119,9 +2119,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_macia.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_macia.png') }}"
                             data-caption="LINHA CL1 SE’S INFULENE-MACIA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_macia.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_macia.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2177,9 +2177,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_beluluane_boane.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_beluluane_boane.png') }}"
                             data-caption="LINHA DL32 SE’S BELULUANE-BOANE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_beluluane_boane.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_beluluane_boane.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2239,9 +2239,9 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline"
-                            href="{{ secure_asset('assets/images/centrais/linha_matola_gare_beluluane.png') }}"
+                            href="{{ asset('assets/images/centrais/linha_matola_gare_beluluane.png') }}"
                             data-caption="LINHA DL31 SE’S MATOLA GARE-BELULUANE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_matola_gare_beluluane.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_matola_gare_beluluane.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2300,9 +2300,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_matola_gare.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_matola_gare.png') }}"
                             data-caption="LINHA DL30 SE’S INFULENE-MATOLA GARE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_matola_gare.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_matola_gare.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2361,9 +2361,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_muhalaze.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_muhalaze.png') }}"
                             data-caption="LINHA DL29 SE’S INFULENE-MUHALAZE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_muhalaze.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_muhalaze.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2423,9 +2423,9 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline"
-                            href="{{ secure_asset('assets/images/centrais/linha_magoanine_costa_do_sol.png') }}"
+                            href="{{ asset('assets/images/centrais/linha_magoanine_costa_do_sol.png') }}"
                             data-caption="LINHA DL28 SE’S 9 (MAGOANINE) -11 (COSTA DO SOL)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_magoanine_costa_do_sol.png') }}"
+                            <img src="{{ asset('assets/images/centrais/linha_magoanine_costa_do_sol.png') }}"
                                 width="500" height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2485,9 +2485,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}"
                             data-caption="LINHA DL27 SE’S 10 (ZIMPETO) -MARRACUENE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2547,9 +2547,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}"
                             data-caption="LINHA DL26 SE’S INFULENE-10 (ZIMPETO)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_zimpeto_marracuene.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2608,9 +2608,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_shoprite_maputo.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_shoprite_maputo.png') }}"
                             data-caption="DL25 SE’S 3 (DIT) -7 (SHOPRITE MAPUTO)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_shoprite_maputo.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_shoprite_maputo.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2670,9 +2670,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_s3_polana.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_s3_polana.png') }}"
                             data-caption="LINHA DL24 SE’S 3-1 (POLANA)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_s3_polana.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_s3_polana.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2731,9 +2731,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_shoprite_uem.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_shoprite_uem.png') }}"
                             data-caption="LINHA DL23 SE’S 7 (SHOPRITE MAPUTO) -5 (CAMPUS UEM)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_shoprite_uem.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_shoprite_uem.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2793,9 +2793,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_toff_shoprite.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_toff_shoprite.png') }}"
                             data-caption="LINHA DL22 SE’S 2M (T-OFF com DL4) -7 (SHOPRITE MAPUTO)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_toff_shoprite.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_toff_shoprite.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2855,9 +2855,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_toff_shoprite.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_toff_shoprite.png') }}"
                             data-caption="LINHA DL21 SE’S 2M (T-OFF com DL31) -7 (SHOPRITE MAPUTO)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_toff_shoprite.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_toff_shoprite.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2917,9 +2917,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_boane_salamanga.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_boane_salamanga.png') }}"
                             data-caption="LINHA DL20 SE’S BOANE- SALAMANGA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_boane_salamanga.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_boane_salamanga.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -2978,9 +2978,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_malanga_dit.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_malanga_dit.png') }}"
                             data-caption="LINHA DL19A/B SE’S CTM-2 (MALANGA) & 2-3 (DIT)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_malanga_dit.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_malanga_dit.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3040,9 +3040,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_cmt_3.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_cmt_3.png') }}"
                             data-caption="LINHA DL18 SE’S CTM-3 (DIT)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_cmt_3.png') }}" width="500" height="300"
+                            <img src="{{ asset('assets/images/centrais/linha_cmt_3.png') }}" width="500" height="300"
                                 alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3101,9 +3101,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_aeroporto_campus_uem.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_aeroporto_campus_uem.png') }}"
                             data-caption="LINHA DL17 SE’S 4 (AEROPORTO) -5 (CAMPUS UEM)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_aeroporto_campus_uem.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_aeroporto_campus_uem.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3163,9 +3163,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_jardim_aeroporto.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_jardim_aeroporto.png') }}"
                             data-caption="LINHA DL16 SE’S 6 (JARDIM) -4 (AEROPORTO)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_jardim_aeroporto.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_jardim_aeroporto.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3225,9 +3225,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_matola_275_cimentos.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_matola_275_cimentos.png') }}"
                             data-caption="LINHA DL15 SE’S ´MATOLA 275-CIMENTOS">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_matola_275_cimentos.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_matola_275_cimentos.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3286,9 +3286,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_matola_275_boane.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_matola_275_boane.png') }}"
                             data-caption="LINHA DL14 SE’S MATOLA 275-MATOLA RIO-BOANE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_matola_275_boane.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_matola_275_boane.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3348,9 +3348,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_machava_matola_275.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_machava_matola_275.png') }}"
                             data-caption="LINHA DL13 SE’S MACHAVA-MATOLA 275">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_machava_matola_275.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_machava_matola_275.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3409,9 +3409,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_dl12_matola_275.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_dl12_matola_275.png') }}"
                             data-caption="LINHA DL12, DL11, DL9 SE’S MATOLA 275- CTM">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_dl12_matola_275.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_dl12_matola_275.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3477,9 +3477,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_dl10_jardim.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_dl10_jardim.png') }}"
                             data-caption="LINHA DL10 SE’S CTM-6 (JARDIM)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_dl10_jardim.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_dl10_jardim.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3540,9 +3540,9 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline"
-                            href="{{ secure_asset('assets/images/centrais/linha_infulene_magoanine_ferroviario.png') }}"
+                            href="{{ asset('assets/images/centrais/linha_infulene_magoanine_ferroviario.png') }}"
                             data-caption="LINHA DL8A/B SE’S INFULENE-9 (MAGOANINE) -8 (FERROVIÁRIO) -5 (CAMPUS UEM)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_magoanine_ferroviario.png') }}"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_magoanine_ferroviario.png') }}"
                                 width="500" height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3607,9 +3607,9 @@
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
                         <a class="uk-inline"
-                            href="{{ secure_asset('assets/images/centrais/linha_infulene_magoanine_campus.png') }}"
+                            href="{{ asset('assets/images/centrais/linha_infulene_magoanine_campus.png') }}"
                             data-caption="LINHA DL7A/B SE’S INFULENE-9 (MAGOANINE) -5 (CAMPUS)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_magoanine_campus.png') }}"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_magoanine_campus.png') }}"
                                 width="500" height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3670,9 +3670,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_machava.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_machava.png') }}"
                             data-caption="LINHA DL6 SE’S INFULENE-MACHAVA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_machava.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_machava.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3732,9 +3732,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_muhalaze_manhica.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_muhalaze_manhica.png') }}"
                             data-caption="LINHA DL5 SE’S MUHALAZE-MANHIÇA">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_muhalaze_manhica.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_muhalaze_manhica.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3794,9 +3794,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_ctm.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_ctm.png') }}"
                             data-caption="LINHA DL4 SE’S INFULENE-CTM">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_ctm.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_ctm.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3856,9 +3856,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_ctm.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_ctm.png') }}"
                             data-caption="LINHA DL4 SE’S INFULENE-CTM">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_ctm.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_ctm.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3918,9 +3918,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_2m_t_off.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_2m_t_off.png') }}"
                             data-caption="LINHA DL2 SE’S INFULENE- 2M (T-OFF)">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_2m_t_off.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_2m_t_off.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>
@@ -3980,9 +3980,9 @@
                 <div
                     class="uk-card uk-card-default uk-grid-collapse uk-width-1-3@s uk-margin-remove-top uk-margin-bottom uk-padding-remove">
                     <div class="uk-card-media-top uk-width-1-1@m uk-cover-container">
-                        <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/linha_infulene_matola_gare.png') }}"
+                        <a class="uk-inline" href="{{ asset('assets/images/centrais/linha_infulene_matola_gare.png') }}"
                             data-caption="LINHA DL1 SE’S INFULENE-MATOLA GARE">
-                            <img src="{{ secure_asset('assets/images/centrais/linha_infulene_matola_gare.png') }}" width="500"
+                            <img src="{{ asset('assets/images/centrais/linha_infulene_matola_gare.png') }}" width="500"
                                 height="300" alt="" uk-cover>
                             <canvas width="500" height="300"></canvas>
                         </a>

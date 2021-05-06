@@ -29,9 +29,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_nampula.png') }}"
                                         data-caption="Subestação Nampula 220KV">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_nampula.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -64,9 +64,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_nampula_2.png') }}"
                                         data-caption="Estado actual: Os   equipamentos   nesta  substação  estão	em bom estado operacional, tendo porém problemas de obsolescência de seccionadores.">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_nampula_2.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_nampula_2.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -102,9 +102,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
                                         data-caption="">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/linha_gurue_cuamba.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -136,9 +136,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
                                         data-caption="">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>

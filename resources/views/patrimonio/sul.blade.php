@@ -30,9 +30,9 @@
                             <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove"
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
-                                    <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_se1.png') }}"
+                                    <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_se1.png') }}"
                                         data-caption="Subestação SE 1">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_se1.png') }}" width="600"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_se1.png') }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -65,9 +65,9 @@
                             <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove"
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
-                                    <a class="uk-inline" href="{{ secure_asset('assets/images/centrais/subestacao_s2.png') }}"
+                                    <a class="uk-inline" href="{{ asset('assets/images/centrais/subestacao_s2.png') }}"
                                         data-caption="Subestação SE 2">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_s2.png') }}" width="600"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_s2.png') }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -104,9 +104,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
                                         data-caption="LINHA BL5 SE’S RESSANO GARCIA-MACIA">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -138,9 +138,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
                                         data-caption="LINHA BL4 SE’S RESSANO GARCIA-KOMATTI PORT">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/linha_ressano_garcia_macia.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>

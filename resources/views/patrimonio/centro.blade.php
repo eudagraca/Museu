@@ -31,9 +31,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_matambo.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_matambo.png') }}"
                                         data-caption="SUBESTAÇÃO DE MATAMBO [BAY DA EDM] - Em Outubro de 2015 foi instalado o TR2 de 130MVA pertencente a EDM. O TR1 de 60MVA pertence a HCB e ambos alternativamente podem alimentar as linhas de 66kV e 33kV.">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_matambo.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_matambo.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -68,9 +68,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_tete.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_tete.png') }}"
                                         data-caption="A Subestação pertencia a antiga Área Operacional de Tete, actualmente Área do Serviço Cliente de Tete. Apos uma reabilitação total que terminou em 2007, passou a pertencer a DTCE (antiga ATCE).">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_tete.png') }}" width="600"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_tete.png') }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -106,9 +106,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_b10_dondo.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_b10_dondo.png') }}"
                                         data-caption="LINHA B10 [S/E CHIBATA – S/E DONDO]">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_b10_dondo.png') }}" width="600"
+                                        <img src="{{ asset('assets/images/centrais/linha_b10_dondo.png') }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -140,9 +140,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
                                         data-caption="LINHA CL71 [CENTRAL MAVUZI- BEIRA]">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/linha_cuamba_lichinga.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>

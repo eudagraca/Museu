@@ -29,9 +29,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_ceramica.png') }}"
                                         data-caption="SUBESTAÇÃO DA CERÂMICA">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_ceramica.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_ceramica.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -65,9 +65,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
                                         data-caption="Subestação da Alto Molocué">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_alto_molocue.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -104,9 +104,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}"
+                                        href="{{ asset('assets/images/centrais/linha_chimuara.png') }}"
                                         data-caption="LINHA B05 SE’S CHIMUARA-MOCUBA">
-                                        <img src="{{ secure_asset('assets/images/centrais/linha_chimuara.png') }}" width="600"
+                                        <img src="{{ asset('assets/images/centrais/linha_chimuara.png') }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -138,9 +138,9 @@
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
                                     <a class="uk-inline"
-                                        href="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
+                                        href="{{ asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
                                         data-caption="LINHAS B03 & B04 SE’S MATAMBO – CHIMUARA">
-                                        <img src="{{ secure_asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
+                                        <img src="{{ asset('assets/images/centrais/subestacao_linha_matambo.png') }}"
                                             width="600" height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>

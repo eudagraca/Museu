@@ -17,8 +17,8 @@ class GaleriaController extends Controller
      */
     public function index()
     {
-        $galeria = Galeria::all();
-        return view('galeria.user.index', compact('galeria'));
+        // $galeria = Galeria::all();
+        return view('galeria.user.old_index');
     }
 
     public function indexMain()

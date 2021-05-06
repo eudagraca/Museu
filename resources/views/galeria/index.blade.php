@@ -23,7 +23,7 @@ Galeria
         <tbody>
             @foreach ($galerias as $item)
             <tr>
-                <td><img class="uk-preserve-width uk-border-rounded" src="{{ secure_asset('images/galeria/'.$item->imagem) }}"
+                <td><img class="uk-preserve-width uk-border-rounded" src="{{ asset('images/galeria/'.$item->imagem) }}"
                         width="40" alt=""></td>
                 <td class="uk-table-link">
                     <a class="uk-link-reset" href="">{{ $item->descricao }}</a>
