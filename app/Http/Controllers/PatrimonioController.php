@@ -57,7 +57,7 @@ class PatrimonioController extends Controller
     public function show($patrimonio)
     {
         $patrimonios = Patrimonio::where('zona', '=', $patrimonio)->get();
-        return $patrimonios;
+        // return $patrimonios;
         return view('patrimonio.lista', compact(['patrimonios', 'patrimonio']));
     }
 
