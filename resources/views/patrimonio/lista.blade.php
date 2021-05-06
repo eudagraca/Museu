@@ -10,12 +10,12 @@
                 <li><a class="uk-text-primary uk-active uk-text-normal" href="#">Patrimonio da rede eléctrica da
                         EDM</a>
                 </li>
-                <li><a href="#">Transmissão Sul</a></li>
+                <li><a href="#">Transmissão {{ $patrimonio }}</a></li>
             </ul>
         </div>
         <div class="uk-width-1-1@m uk-margin-remove-top uk-margin-remove-right">
             <h4 class="uk-heading-bullet uk-text-bolder uk-text-primary uk-margin-left">Transmissão - Divisão de
-                transporte Sul</h4>
+                transporte {{ $patrimonio }}</h4>
 
             <ul class="uk-subnav uk-subnav-pill" uk-switcher>
                 <li class="uk-h2"><a href="#">Subestações</a></li>

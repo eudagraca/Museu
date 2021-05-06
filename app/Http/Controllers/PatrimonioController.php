@@ -17,7 +17,6 @@ class PatrimonioController extends Controller
     public function index()
     {
         $patrimonios = Patrimonio::all();
-        return $patrimonios;
         return view('patrimonio.index', compact('patrimonios'));
     }
 
@@ -58,7 +57,8 @@ class PatrimonioController extends Controller
     public function show($patrimonio)
     {
         $patrimonios = Patrimonio::where('zona', '=', $patrimonio)->get();
-        return view('patrimonio.lista', compact('patrimonios'));
+        return $patrimonios;
+        return view('patrimonio.lista', compact(['patrimonios', 'patrimonio']));
     }
 
     public function details($patrimonio)
