@@ -87,7 +87,7 @@ class PatrimonioController extends Controller
      */
     public function update(PatrimonioUpdate $request, Patrimonio $patrimonio)
     {
-        if ($request->imagem != null) {
+        if ($request->imagem) {
             if ($request->hasFile('imagem')) {
                 $imageName = trim($request->titulo) . '_' . time() . '.' . $request->imagem->extension();
                 $request->imagem->move(public_path('images/patrimonio'), $imageName);
