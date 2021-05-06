@@ -114,7 +114,7 @@
                         @endif
                         @empty
 
-                        <p class="uk-text-bolder uk-text-center">Nenhuma subestação para esta região</p>
+                        <p class="uk-text-bolder uk-text-center">Nenhuma linha para esta região</p>
 
                         @endforelse
                     </div>
