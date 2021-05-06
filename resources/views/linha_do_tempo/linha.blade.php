@@ -60,7 +60,7 @@
             </ul>
         </li>
 
-        <li>5. Em 1998 - Aprovada a Política Energética através da Resolução 05/98 de 03 de Março, onde, de entre várias
+        <li>Em 1998 - Aprovada a Política Energética através da Resolução 05/98 de 03 de Março, onde, de entre várias
             atribuições, define:
             define:
             <ol type="a">
