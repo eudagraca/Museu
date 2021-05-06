@@ -56,7 +56,7 @@ class PatrimonioController extends Controller
      */
     public function show($patrimonio)
     {
-        $patrimonios = Patrimonio::where('zona','like', '%' . $patrimonio . '%')->get();
+        $patrimonios = Patrimonio::where('zona','=', $patrimonio)->get();
         // return $patrimonios;
         return view('patrimonio.lista', compact(['patrimonios', 'patrimonio']));
     }
