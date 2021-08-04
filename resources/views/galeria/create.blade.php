@@ -55,7 +55,7 @@ Galeria
                             '</div>'+
                         '</div></td>';
                 html += '<td><textarea class="uk-textarea uk-border-rounded" name="descricao[]" rows="3"></textarea></td>';
-                html += '<td><select name="ponto[]" class="uk-select"><option value="Barragem">BARRAGEM</option><option value="Hidroelectrica">HIDROELECTRICA</option><option value="Linha">LINHA</option><option value="Subestacao">SUBESTAÇÃO</option></select></td>';
+                html += '<td><select name="ponto[]" class="uk-select"><option value="Barragem">BARRAGEM</option><option value="Hidroelectrica">HIDROELECTRICA</option><option value="Linha">LINHA</option><option value="Subestacao">SUBESTAÇÃO</option><option value="Outro">OUTRO</option></select></td>';
                 if (number > 1) {
                     html +=
                         '<td><button type="button" name="remove" id="" class="uk-button uk-align-right uk-button-danger uk-border-rounded remove">Remover</button></td></tr>';
@@ -84,3 +84,6 @@ Galeria
 </script>
 
 @endsection
+
+
+

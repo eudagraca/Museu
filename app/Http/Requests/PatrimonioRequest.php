@@ -24,7 +24,12 @@ class PatrimonioRequest extends FormRequest
     public function rules()
     {
         return [
-            'imagem' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+            'imagem' => 'required|image|mimes:jpg,jpeg,png,bmp,gif,svg|max:10000',
+            [
+                'imagem.required' => 'Por favor, insira a imagem',
+                'imagem.mimes' => 'Somente imagens em formato JPEG,PNG,JPG,GIF e SVG são permitidas',
+                'imagem.max' => 'Desculpe! O tamanho máximo permitido sao 10 Megabytes'
+            ]
             'localizacao' => 'required',
             'titulo' => 'required',
             'potencia_instalada_servico' => 'nullable',

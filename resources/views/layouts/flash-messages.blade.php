@@ -33,6 +33,10 @@
 @if ($errors->any())
 <div class="uk-alert-danger" uk-alert>
     <a href="#" class="uk-alert-close" uk-close></a>
-    <p>Algum erro foi dectado</p>
+   <ul>
+        @foreach ($errors->all() as $error)
+            <li>{{ $error }}</li>
+        @endforeach
+    </ul>
 </div>
 @endif

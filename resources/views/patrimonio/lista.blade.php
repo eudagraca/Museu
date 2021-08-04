@@ -32,9 +32,9 @@
                             <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove"
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
-                                    <a class="uk-inline" href="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}"
+                                    <a class="uk-inline" href="{{ asset('images/patrimonio/thumbnail_path/subestacao/'.$patrimonio->imagem) }}"
                                         data-caption="{{ $patrimonio->titulo }}">
-                                        <img src="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}" width="600"
+                                        <img src="{{ asset('images/patrimonio/thumbnail_path/subestacao/'.$patrimonio->imagem) }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>
@@ -80,9 +80,9 @@
                             <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding-remove"
                                 uk-grid>
                                 <div class="uk-card-media-left uk-cover-container">
-                                    <a class="uk-inline" href="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}"
+                                    <a class="uk-inline" href="{{ asset('images/patrimonio/thumbnail_path/linha/'.$patrimonio->imagem) }}"
                                         data-caption="{{ $patrimonio->titulo }}">
-                                        <img src="{{ asset('images/patrimonio/'.$patrimonio->imagem) }}" width="600"
+                                        <img src="{{ asset('images/patrimonio/thumbnail_path/linha/'.$patrimonio->imagem) }}" width="600"
                                             height="500" alt="" uk-cover>
                                         <canvas width="600" height="500"></canvas>
                                     </a>

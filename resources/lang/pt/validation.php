@@ -52,7 +52,7 @@ return [
     'json'                 => 'O campo :attribute deve ser uma string JSON válida.',
     'max'                  => [
         'numeric' => 'O campo :attribute não pode ser superior a :max.',
-        'file'    => 'O campo :attribute não pode ser superior a :max kilobytes.',
+        'file'    => 'O tamanho da imagem do campo :attribute não pode ser superior a :max kilobytes.',
         'string'  => 'O campo :attribute não pode ser superior a :max caracteres.',
         'array'   => 'O campo :attribute não pode ter mais do que :max itens.',
     ],
@@ -78,7 +78,7 @@ return [
     'same'                 => 'Os campos :attribute e :other devem corresponder.',
     'size'                 => [
         'numeric' => 'O campo :attribute deve ser :size.',
-        'file'    => 'O campo :attribute deve ser :size kilobytes.',
+        'file'    => 'O ficheiro :attribute deve ser :size kilobytes.',
         'string'  => 'O campo :attribute deve ser :size caracteres.',
         'array'   => 'O campo :attribute deve conter :size itens.',
     ],

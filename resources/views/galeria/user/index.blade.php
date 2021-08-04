@@ -20,9 +20,9 @@
                 @if (strtoupper($item->ponto) == 'BARRAGEM')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/thumbnail_path/Barragem/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/thumbnail_path/Barragem/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -37,9 +37,9 @@
                 @if (strtoupper($item->ponto)== 'HIDROELECTRICA')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/thumbnail_path/Hidroelectrica/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/thumbnail_path/Hidroelectrica/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -54,9 +54,9 @@
                 @if (strtoupper($item->ponto)== 'LINHA')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/thumbnail_path/Linha/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/thumbnail_path/Linha/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -68,12 +68,12 @@
             <div uk-grid uk-grid uk-lightbox="animation: slide"
                 uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 300; repeat: true">
                 @foreach($galeria as $item)
-                @if (strtoupper($item->ponto)== 'SUBESTAÇÃO')
+                @if (strtoupper($item->ponto)== 'SUBESTACAO')
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/thumbnail_path/Subestacao/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/thumbnail_path/Subestacao/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
@@ -85,21 +85,18 @@
             <div uk-grid uk-grid uk-lightbox="animation: slide"
                 uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 300; repeat: true">
                 @foreach($galeria as $item)
-                @if (!in_array(strtoupper($item->ponto), ['SUBESTAÇÃO', 'LINHA', 'HIDROELECTRICA', 'BARRAGEM']))
+                @if (!in_array(strtoupper($item->ponto), ['SUBESTACAO', 'LINHA', 'HIDROELECTRICA', 'BARRAGEM']))
 
                 <div>
-                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/'.$item->imagem) }}"
+                    <a class="uk-inline uk-border-rounded" href="{{ asset('images/galeria/thumbnail_path/Outros/'.$item->imagem) }}"
                         data-caption="{{$item->descricao}}">
-                        <img style="height: 120px;" src="{{ asset('images/galeria/'.$item->imagem) }}" alt="">
+                        <img style="height: 120px;" src="{{ asset('images/galeria/thumbnail_path/Outros/'.$item->imagem) }}" alt="">
                     </a>
                 </div>
                 @endif
                 @endforeach
             </div>
         </li>
-
-
-
     </ul>
 </div>
 
